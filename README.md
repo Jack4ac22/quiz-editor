@@ -1,36 +1,143 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Quiz Editor – Project Plan
 
-## Getting Started
+This is the internal documentation for building the local-only **Quiz Editor** app using **Next.js 15** with **TypeScript**. All data is stored in a single JSON file (`questions.json`) located at `src/assets/questions.json`. No database or deployment is needed.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## ✅ Design Overview
+
+### 📁 File Structure
+
+```
+quiz-editor/
+├── src/
+│   ├── app/
+│   │   └── api/questions/         # API routes for all actions
+│   ├── assets/
+│   │   └── questions.json          # Main source of truth
+│   ├── lib/
+│   │   └── questionStore.ts       # read/write utility for JSON
+│   └── components/                # UI components
+├── public/
+├── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧠 Data Model: Question JSON
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Each question is a JSON object with the following structure:
 
-## Learn More
+```ts
+{
+  id: string; // UUID
+  category: string[];
+  question: string;
+  question_ar: string;
+  type: "Multiple Choice" | "True or False";
+  status?: "translated" | "proofread1" | "proofread2" | "published" | "rejected";
+  tags?: string[];
+  references?: string[];
+  answers: Array<{
+    id: number;
+    answer: string;
+    answer_ar: string;
+    isCorrect: boolean;
+  }>;
+  verses: string[];
+}
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔁 Workflow Logic
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Create** new question
 
-## Deploy on Vercel
+   * Status defaults to `draft` (implicit if `status` is undefined)
+   * Status dropdown is disabled in create mode
+   * Only `type = "Multiple Choice"` or `"True or False"`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. **Translate / Proofread / Edit**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   * Status can be updated freely
+   * Edits to tags, references, translations are supported
+
+3. **Publish or Reject**
+
+   * After `proofread2`, question can be marked as `published` or `rejected`
+
+---
+
+## 📬 API-First CRUD
+
+All actions happen through API routes:
+
+* `GET /api/questions` – list all
+* `POST /api/questions` – create new (UUID generated)
+* `PUT /api/questions/:id` – full update
+* `PATCH /api/questions/:id` – partial update (status, tags, etc.)
+* `DELETE /api/questions/:id` – delete
+
+---
+
+## 🧾 UI Plans
+
+### Question Form
+
+* Reusable form component (create/edit/minor-edit)
+* Fields:
+
+  * Type: dropdown (MCQ / T/F)
+  * Question text / Arabic text (required)
+  * Category: checkbox multiselect (existing + add new)
+  * Tags: checkbox multiselect (existing + add new)
+  * Verses: comma separated
+  * References: string\[]
+  * Answers list (2 or 3 max)
+
+    * For T/F: auto-fill answers = \[True, False]
+    * At least 1 marked correct
+
+### Main Page (Coming Later)
+
+* Table/List view of all questions
+* Filters (multiselect):
+
+  * Status
+  * Tags
+  * Categories
+* Pagination (client-side)
+* Action buttons: Edit / Delete / Preview
+
+---
+
+## ⏭️ Next Steps
+
+1. ✅ Create `questions.json` (empty array)
+2. ✅ Create `questionStore.ts` for read/write
+3. ⏳ Implement API routes (CRUD, UUID)
+4. ⏳ Build `<QuestionForm />` component
+5. ⏳ Implement main list page with filters
+
+---
+
+## ❓Roles & Constraints
+
+### 👤 UI Expert
+
+* Validation occurs on **submit** only
+* Answers shown with checkboxes
+* Arabic fields required for `published`
+
+### 🔌 API Integration
+
+* All data handled via API routes
+* File writes are full overwrite
+* Validation on both UI and backend
+
+### 🧪 Tester View
+
+* All fields required for save except `draft`
+* Drafts can be saved with missing values
+* Ensure `answers.length` is 2 (T/F) or max 3 (MCQ)
