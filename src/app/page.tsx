@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import { saveAs } from 'file-saver';
 
 export type Answer = {
   id: number;
@@ -19,6 +20,7 @@ export type Question = {
   status?: string;
   answers?: Answer[];
 };
+
 
 export default function HomePage() {
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -107,125 +109,163 @@ export default function HomePage() {
     }
   };
 
+  // Export helpers
+  const exportQuestions = (toExport: Question[], suffix: string) => {
+    const timestamp = new Date()
+      .toISOString()
+      .replace(/[-:T]/g, '')
+      .slice(0, 12); // e.g. 20240613_2045
+    const fileName = `questions-${suffix}-${timestamp}.json`;
+    const json = JSON.stringify(toExport, null, 2);
+    const blob = new Blob([json], { type: 'application/json' });
+    saveAs(blob, fileName);
+  };
+
+  const handleExportAll = () => exportQuestions(questions, 'all');
+  const handleExportPublished = () =>
+    exportQuestions(questions.filter(q => q.status === 'published'), 'published');
+
   return (
-    <main className="p-6 max-w-6xl mx-auto relative">
-      <div className="mb-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        <div>
-          <label className="block text-sm font-medium text-gray-700 mb-1">Type</label>
-          <div className="flex flex-wrap gap-1">
-            {types.map((type) => (
-              <button
-                key={type}
-                onClick={() => toggleSelection(type, selectedTypes, setSelectedTypes)}
-                className={`px-3 py-1 rounded border text-sm ${
-                  selectedTypes.includes(type)
-                    ? 'bg-blue-600 text-white border-blue-600'
-                    : 'bg-white text-gray-700 border-gray-300'
-                }`}
-              >
-                {type}
-              </button>
-            ))}
+    <>
+      <main className="p-6 max-w-6xl mx-auto relative">
+        <div className="flex flex-wrap gap-4 mb-4">
+          <button
+            onClick={handleExportAll}
+            className="bg-green-600 hover:bg-green-700 text-white font-semibold px-4 py-2 rounded shadow"
+          >
+            Export All
+          </button>
+          <button
+            onClick={handleExportPublished}
+            className="bg-purple-600 hover:bg-purple-700 text-white font-semibold px-4 py-2 rounded shadow"
+          >
+            Export Published Only
+          </button>
+        </div>
+
+        <div className="mb-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Type</label>
+            <div className="flex flex-wrap gap-1">
+              {types.map((type) => (
+                <button
+                  key={type}
+                  onClick={() => toggleSelection(type, selectedTypes, setSelectedTypes)}
+                  className={`px-3 py-1 rounded border text-sm ${
+                    selectedTypes.includes(type)
+                      ? 'bg-blue-600 text-white border-blue-600'
+                      : 'bg-white text-gray-700 border-gray-300'
+                  }`}
+                >
+                  {type}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Tags</label>
+            <div className="flex flex-wrap gap-1">
+              {tags.map((tag) => (
+                <button
+                  key={tag}
+                  onClick={() => toggleSelection(tag, selectedTags, setSelectedTags)}
+                  className={`px-3 py-1 rounded border text-sm ${
+                    selectedTags.includes(tag)
+                      ? 'bg-green-600 text-white border-green-600'
+                      : 'bg-white text-gray-700 border-gray-300'
+                  }`}
+                >
+                  {tag}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Status</label>
+            <div className="flex flex-wrap gap-1">
+              {statuses.map((s) => (
+                <button
+                  key={s}
+                  onClick={() => toggleSelection(s, selectedStatuses, setSelectedStatuses)}
+                  className={`px-3 py-1 rounded border text-sm ${
+                    selectedStatuses.includes(s)
+                      ? 'bg-purple-600 text-white border-purple-600'
+                      : 'bg-white text-gray-700 border-gray-300'
+                  }`}
+                >
+                  {s}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700">Search</label>
+            <input
+              type="text"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              placeholder="Search ID, question, answers..."
+              className="mt-1 block w-full border border-gray-300 rounded p-2"
+            />
           </div>
         </div>
 
-        <div>
-          <label className="block text-sm font-medium text-gray-700 mb-1">Tags</label>
-          <div className="flex flex-wrap gap-1">
-            {tags.map((tag) => (
-              <button
-                key={tag}
-                onClick={() => toggleSelection(tag, selectedTags, setSelectedTags)}
-                className={`px-3 py-1 rounded border text-sm ${
-                  selectedTags.includes(tag)
-                    ? 'bg-green-600 text-white border-green-600'
-                    : 'bg-white text-gray-700 border-gray-300'
-                }`}
-              >
-                {tag}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        <div>
-          <label className="block text-sm font-medium text-gray-700 mb-1">Status</label>
-          <div className="flex flex-wrap gap-1">
-            {statuses.map((s) => (
-              <button
-                key={s}
-                onClick={() => toggleSelection(s, selectedStatuses, setSelectedStatuses)}
-                className={`px-3 py-1 rounded border text-sm ${
-                  selectedStatuses.includes(s)
-                    ? 'bg-purple-600 text-white border-purple-600'
-                    : 'bg-white text-gray-700 border-gray-300'
-                }`}
-              >
-                {s}
-              </button>
-            ))}
-          </div>
-        </div>
-
-        <div>
-          <label className="block text-sm font-medium text-gray-700">Search</label>
-          <input
-            type="text"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder="Search ID, question, answers..."
-            className="mt-1 block w-full border border-gray-300 rounded p-2"
-          />
-        </div>
-      </div>
-
-      <div className="overflow-auto rounded-lg shadow border border-gray-300">
-        <table className="w-full table-auto text-sm text-left text-gray-700">
-          <thead className="bg-blue-100 text-blue-800 uppercase">
-            <tr>
-              <th className="px-4 py-3 border-b">ID</th>
-              <th className="px-4 py-3 border-b">Question</th>
-              <th className="px-4 py-3 border-b">Arabic Question</th>
-              <th className="px-4 py-3 border-b">Type</th>
-              <th className="px-4 py-3 border-b">Tags</th>
-              <th className="px-4 py-3 border-b">Status</th>
-              <th className="px-4 py-3 border-b">Actions</th>
-            </tr>
-          </thead>
-          <tbody>
-            {filtered.map((q) => (
-              <tr key={q.id} className="odd:bg-white even:bg-gray-50 border-b hover:bg-yellow-50">
-                <td className="px-4 py-2 border-b text-gray-500 font-mono">{q.id.slice(0, 8)}</td>
-                <td className="px-4 py-2 border-b">{q.question}</td>
-                <td className="px-4 py-2 border-b">{q.question_ar}</td>
-                <td className="px-4 py-2 border-b font-medium">{q.type}</td>
-                <td className="px-4 py-2 border-b">{Array.isArray(q.tags) ? q.tags.join(', ') : ''}</td>
-                <td className="px-4 py-2 border-b">
-                  <span className="inline-block px-2 py-1 text-xs rounded bg-blue-200 text-blue-800">
-                    {q.status ?? 'draft'}
-                  </span>
-                </td>
-                <td className="px-4 py-2 border-b space-x-4">
-                  <Link href={`/${q.id}`} className="text-green-600 hover:text-green-900 font-medium">
-                    Display
-                  </Link>
-                  <Link href={`/${q.id}/edit`} className="text-indigo-600 hover:text-indigo-900 font-medium">
-                    Edit
-                  </Link>
-                  <button
-                    onClick={() => handleDelete(q.id)}
-                    className="text-red-600 hover:text-red-800 font-medium"
-                  >
-                    Delete
-                  </button>
-                </td>
+        <div className="overflow-auto rounded-lg shadow border border-gray-300">
+          <table className="w-full table-auto text-sm text-left text-gray-700">
+            <thead className="bg-blue-100 text-blue-800 uppercase">
+              <tr>
+                <th className="px-4 py-3 border-b">ID</th>
+                <th className="px-4 py-3 border-b">Question (EN)</th>
+                <th className="px-4 py-3 border-b">Question (AR)</th>
+                <th className="px-4 py-3 border-b">Type</th>
+                <th className="px-4 py-3 border-b">Tags</th>
+                <th className="px-4 py-3 border-b">Status</th>
+                <th className="px-4 py-3 border-b">Actions</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+            </thead>
+            <tbody>
+              {filtered.map((q) => (
+                <tr key={q.id} className="odd:bg-white even:bg-gray-50 border-b hover:bg-yellow-50">
+                  <td className="px-4 py-2 border-b text-gray-500 font-mono">{q.id.slice(0, 8)}</td>
+                  <td className="px-4 py-2 border-b">{q.question}</td>
+                  <td className="px-4 py-2 border-b">{q.question_ar}</td>
+                  <td className="px-4 py-2 border-b font-medium">{q.type}</td>
+                  <td className="px-4 py-2 border-b">{Array.isArray(q.tags) ? q.tags.join(', ') : ''}</td>
+                  <td className="px-4 py-2 border-b">
+                    <span className="inline-block px-2 py-1 text-xs rounded bg-blue-200 text-blue-800">
+                      {q.status ?? 'draft'}
+                    </span>
+                  </td>
+                  <td className="px-4 py-2 border-b space-x-4">
+                    <Link href={`/${q.id}`} className="text-green-600 hover:text-green-900 font-medium">
+                      Display
+                    </Link>
+                    <Link href={`/${q.id}/edit`} className="text-indigo-600 hover:text-indigo-900 font-medium">
+                      Edit
+                    </Link>
+                    <button
+                      onClick={() => handleDelete(q.id)}
+                      className="text-red-600 hover:text-red-800 font-medium"
+                    >
+                      Delete
+                    </button>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
 
-
-    </main>
+        <Link
+          href="/add"
+          className="fixed bottom-6 right-6 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-full shadow-md text-sm font-semibold"
+        >
+          + Add Question
+        </Link>
+      </main>
+    </>
   );
 }
