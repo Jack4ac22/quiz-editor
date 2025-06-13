@@ -417,7 +417,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.11.31"
     ],
@@ -3697,6 +3697,350 @@
       {
         "answer": "Jerusalem",
         "answer_ar": "أورشليم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3c9e7a9c-fc08-4d54-b26e-7d07c20fa3c3",
+    "question": "In what valley were the troops of Israel camped when David fought Goliath?",
+    "question_ar": "في أي وادٍ كان جيش إسرائيل معسكرًا عندما حارب داود جليات؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.17.2"
+    ],
+    "answers": [
+      {
+        "answer": "Valley of Elah",
+        "answer_ar": "وادي إيلاة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Valley of Sin",
+        "answer_ar": "وادي سين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Valley of Olah",
+        "answer_ar": "وادي أولا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "07308b6e-15ef-49a8-b6ec-b0a7d42cc7ed",
+    "question": "What was Goliath’s hometown?",
+    "question_ar": "ما هي مدينة جليات؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.17.4",
+      "Josh.11.22",
+      "Deut.2.10-11"
+    ],
+    "answers": [
+      {
+        "answer": "Gath",
+        "answer_ar": "جت",
+        "isCorrect": true
+      },
+      {
+        "answer": "Garth",
+        "answer_ar": "غارث",
+        "isCorrect": false
+      },
+      {
+        "answer": "Garazeth",
+        "answer_ar": "جارازيث",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8c84d178-5c67-4aeb-9a8d-05f51d01e6e7",
+    "question": "Of what group of people was Goliath a part?",
+    "question_ar": "إلى أي شعب كان ينتمي جليات؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.17.4"
+    ],
+    "answers": [
+      {
+        "answer": "Philistines",
+        "answer_ar": "الفلسطينيون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ammonites",
+        "answer_ar": "العمونيون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Moabites",
+        "answer_ar": "الموابيون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6b1435cf-79c7-498f-a0e1-fd7c985f6c1d",
+    "question": "Whose armor did David attempt to wear at first when he was going out to fight Goliath?",
+    "question_ar": "درع من حاول داود أن يلبسه أولاً عندما خرج لمقاتلة جليات؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.17.38-39",
+      "1Sam.16.13"
+    ],
+    "answers": [
+      {
+        "answer": "Saul",
+        "answer_ar": "شاول",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jonathan",
+        "answer_ar": "يوناثان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Goliath",
+        "answer_ar": "جليات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "87717b41-6cf8-41e3-908b-6d06da2f889d",
+    "question": "Who brought David before Saul with Goliath’s head in his hand?",
+    "question_ar": "من الذي أحضر داود أمام شاول ورأس جليات في يده؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.17.57"
+    ],
+    "answers": [
+      {
+        "answer": "Abner",
+        "answer_ar": "أبنير",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jonathan",
+        "answer_ar": "يوناثان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joab",
+        "answer_ar": "يوآب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b84fd8d3-7ee6-466c-abe3-321ab91f9b63",
+    "question": "Who loved David even as he loved his own soul?",
+    "question_ar": "من أحب داود كنفسه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.18.1"
+    ],
+    "answers": [
+      {
+        "answer": "Jonathan",
+        "answer_ar": "يوناثان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Saul",
+        "answer_ar": "شاول",
+        "isCorrect": false
+      },
+      {
+        "answer": "Michal",
+        "answer_ar": "ميكال",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4b438323-fcf2-4b1c-b1a1-5ea7a3b40d02",
+    "question": "After a certain victory over the Philistines, the women of Israel sang as they danced and said, '______ has slain his thousands, And ______ his ten thousands.'",
+    "question_ar": "بعد انتصار معين على الفلسطينيين، غنت نساء إسرائيل وهن يرقصن وقلن: 'قتل ______ ألوفه و______ ربواته.'",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.18.7"
+    ],
+    "answers": [
+      {
+        "answer": "Saul ... David",
+        "answer_ar": "شاول ... داود",
+        "isCorrect": true
+      },
+      {
+        "answer": "David ... Saul",
+        "answer_ar": "داود ... شاول",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jonathan ... Saul",
+        "answer_ar": "يوناثان ... شاول",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d3c8dbfa-0e10-45ca-8a0e-48787128b0c2",
+    "question": "Who was promised to David as a wife by Saul, never given to David but to another man instead?",
+    "question_ar": "من هي التي وعد شاول أن يعطيها لداود زوجة ولم يعطها له بل لرجل آخر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.18.19"
+    ],
+    "answers": [
+      {
+        "answer": "Merab",
+        "answer_ar": "ميراب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Abigail",
+        "answer_ar": "أبيجاييل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Michal",
+        "answer_ar": "ميكال",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e6afecba-7f18-40b7-ae4f-fad434384855",
+    "question": "Who let David down through a window so he could escape from Saul?",
+    "question_ar": "من أنزل داود من النافذة حتى يهرب من شاول؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.19.12"
+    ],
+    "answers": [
+      {
+        "answer": "Michal",
+        "answer_ar": "ميكال",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jonathan",
+        "answer_ar": "يوناثان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jesse",
+        "answer_ar": "يسى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c54eb43d-0f50-4a3f-95d6-6d74b44a8895",
+    "question": "In what city was David given holy bread for him and his men to eat?",
+    "question_ar": "في أي مدينة أُعطي داود خبز التقدمة ليأكله هو ورجاله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.21.1-6",
+      "Matt.12.3-4"
+    ],
+    "answers": [
+      {
+        "answer": "Nob",
+        "answer_ar": "نوب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Shiloh",
+        "answer_ar": "شيلوه",
         "isCorrect": false
       }
     ]
