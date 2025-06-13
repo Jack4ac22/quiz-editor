@@ -2,7 +2,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const filePath = path.join(process.cwd(), 'src/assets/fresh.json');
+const filePath = path.join(process.cwd(), 'src/assets/quiz.json');
 
 export async function loadQuestions() {
   try {

@@ -3,6 +3,9 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { saveAs } from 'file-saver';
+import { QuickEditModal } from "@/components/QuickEditModal";
+import { PreviewModal } from "@/components/QuestionForm";
+
 
 export type Answer = {
   id: number;
@@ -15,6 +18,7 @@ export type Question = {
   id: string;
   question: string;
   question_ar: string;
+  categories?: string[];
   type: string;
   tags?: string[];
   status?: string;
@@ -34,6 +38,12 @@ export default function HomePage() {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [selectedStatuses, setSelectedStatuses] = useState<string[]>([]);
   const [search, setSearch] = useState('');
+
+  // modal states
+  const [quickEditId, setQuickEditId] = useState<string | null>(null);
+  const [quickPreviewId, setQuickPreviewId] = useState<string | null>(null);
+  const [quickEditQuestion, setQuickEditQuestion] = useState<Question | null>(null);
+  const [quickPreviewQuestion, setQuickPreviewQuestion] = useState<Question | null>(null);
 
   useEffect(() => {
     fetch('/api/questions')
@@ -125,9 +135,58 @@ export default function HomePage() {
   const handleExportPublished = () =>
     exportQuestions(questions.filter(q => q.status === 'published'), 'published');
 
+  const openQuickEdit = async (id: string) => {
+    const res = await fetch(`/api/questions/${id}`);
+    if (res.ok) {
+      setQuickEditQuestion(await res.json());
+      setQuickEditId(id);
+    }
+  };
+  const closeQuickEdit = () => {
+    setQuickEditId(null);
+    setQuickEditQuestion(null);
+  };
+
+  const openQuickPreview = async (id: string) => {
+    const res = await fetch(`/api/questions/${id}`);
+    if (res.ok) {
+      setQuickPreviewQuestion(await res.json());
+      setQuickPreviewId(id);
+    }
+  };
+  const closeQuickPreview = () => {
+    setQuickPreviewId(null);
+    setQuickPreviewQuestion(null);
+  };
+
+  const handleQuickSave = async (updated: Question) => {
+    await fetch(`/api/questions/${updated.id}`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(updated),
+    });
+    // Optionally, refetch questions here
+    closeQuickEdit();
+  };
+
   return (
     <>
-      <main className="p-6 max-w-6xl mx-auto relative">
+      <main className="p-6 max-w-6xl mx-auto relative text-black dark:text-white">
+        {quickPreviewId && quickPreviewQuestion && (
+          <PreviewModal
+            question={quickPreviewQuestion}
+            open={!!quickPreviewId}
+            onClose={closeQuickPreview}
+          />
+        )}
+        {quickEditId && quickEditQuestion && (
+          <QuickEditModal
+            questionId={quickEditId}
+            open={!!quickEditId}
+            onClose={closeQuickEdit}
+            onSave={handleQuickSave}
+          />
+        )}
         <div className="flex flex-wrap gap-4 mb-4">
           <button
             onClick={handleExportAll}
@@ -145,17 +204,16 @@ export default function HomePage() {
 
         <div className="mb-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Type</label>
+            <label className="block text-sm font-medium">Type</label>
             <div className="flex flex-wrap gap-1">
               {types.map((type) => (
                 <button
                   key={type}
                   onClick={() => toggleSelection(type, selectedTypes, setSelectedTypes)}
-                  className={`px-3 py-1 rounded border text-sm ${
-                    selectedTypes.includes(type)
-                      ? 'bg-blue-600 text-white border-blue-600'
-                      : 'bg-white text-gray-700 border-gray-300'
-                  }`}
+                  className={`px-3 py-1 rounded border text-sm ${selectedTypes.includes(type)
+                    ? 'bg-blue-600 text-white border-blue-600'
+                    : 'bg-white text-gray-700 border-gray-300'
+                    }`}
                 >
                   {type}
                 </button>
@@ -164,17 +222,16 @@ export default function HomePage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Tags</label>
+            <label className="block text-sm font-medium">Tags</label>
             <div className="flex flex-wrap gap-1">
               {tags.map((tag) => (
                 <button
                   key={tag}
                   onClick={() => toggleSelection(tag, selectedTags, setSelectedTags)}
-                  className={`px-3 py-1 rounded border text-sm ${
-                    selectedTags.includes(tag)
-                      ? 'bg-green-600 text-white border-green-600'
-                      : 'bg-white text-gray-700 border-gray-300'
-                  }`}
+                  className={`px-3 py-1 rounded border text-sm ${selectedTags.includes(tag)
+                    ? 'bg-green-600 text-white border-green-600'
+                    : 'bg-white text-gray-700 border-gray-300'
+                    }`}
                 >
                   {tag}
                 </button>
@@ -183,17 +240,16 @@ export default function HomePage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Status</label>
+            <label className="block text-sm font-medium">Status</label>
             <div className="flex flex-wrap gap-1">
               {statuses.map((s) => (
                 <button
                   key={s}
                   onClick={() => toggleSelection(s, selectedStatuses, setSelectedStatuses)}
-                  className={`px-3 py-1 rounded border text-sm ${
-                    selectedStatuses.includes(s)
-                      ? 'bg-purple-600 text-white border-purple-600'
-                      : 'bg-white text-gray-700 border-gray-300'
-                  }`}
+                  className={`px-3 py-1 rounded border text-sm ${selectedStatuses.includes(s)
+                    ? 'bg-purple-600 text-white border-purple-600'
+                    : 'bg-white text-gray-700 border-gray-300'
+                    }`}
                 >
                   {s}
                 </button>
@@ -240,18 +296,21 @@ export default function HomePage() {
                     </span>
                   </td>
                   <td className="px-4 py-2 border-b space-x-4">
-                    <Link href={`/${q.id}`} className="text-green-600 hover:text-green-900 font-medium">
-                      Display
-                    </Link>
-                    <Link href={`/${q.id}/edit`} className="text-indigo-600 hover:text-indigo-900 font-medium">
-                      Edit
-                    </Link>
                     <button
-                      onClick={() => handleDelete(q.id)}
-                      className="text-red-600 hover:text-red-800 font-medium"
+                      onClick={() => openQuickPreview(q.id)}
+                      className="text-yellow-600 hover:text-yellow-900 font-medium mr-2"
                     >
-                      Delete
+                      Preview
                     </button>
+                    <button
+                      onClick={() => openQuickEdit(q.id)}
+                      className="text-orange-600 hover:text-orange-900 font-medium mr-2"
+                    >
+                      Quick Edit
+                    </button>
+                    <Link href={`/${q.id}`} className="text-green-600 hover:text-green-900 font-medium">
+                      Visit
+                    </Link>
                   </td>
                 </tr>
               ))}
@@ -259,12 +318,6 @@ export default function HomePage() {
           </table>
         </div>
 
-        <Link
-          href="/add"
-          className="fixed bottom-6 right-6 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-full shadow-md text-sm font-semibold"
-        >
-          + Add Question
-        </Link>
       </main>
     </>
   );

@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "e7e3f81f-d3b0-4b2a-a21b-1ef8906c03e7",
+    "question": "Who created the heavens and the earth in the beginning?",
+    "question_ar": "من الذي خلق السماوات والأرض في البدء؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "God",
+        "answer_ar": "الله",
+        "isCorrect": true
+      },
+      {
+        "answer": "Angels",
+        "answer_ar": "الملائكة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gabriel",
+        "answer_ar": "رئيس الملائكة جبرائيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a601c530-3748-4ee0-980e-6265572ca781",
+    "question": "Who was hovering over the face of the waters when God began His creative acts?",
+    "question_ar": "من كان يرف على وجه المياه عندما بدأ الله أعمال الخلق؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.1.2"
+    ],
+    "answers": [
+      {
+        "answer": "The Spirit of God",
+        "answer_ar": "روح الله",
+        "isCorrect": true
+      },
+      {
+        "answer": "Lucifer",
+        "answer_ar": "لوسيفر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Michael the archangel",
+        "answer_ar": "ميخائيل رئيس الملائكة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b47bbecb-91c8-4da3-bd71-97d5e09a5bc8",
+    "question": "In Genesis 1:26, what are the plural pronouns 'Us' and 'Our' considered as?",
+    "question_ar": "في سفر التكوين 1:26، ما الذي تعنيه الضمائر الجمع 'نحن' و'نا'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.1.26"
+    ],
+    "answers": [
+      {
+        "answer": "Either majestic plurals or hints of the Trinity",
+        "answer_ar": "إما جمع الجلالة أو إشارات إلى الثالوث",
+        "isCorrect": true
+      },
+      {
+        "answer": "References to angels",
+        "answer_ar": "إشارات إلى الملائكة",
+        "isCorrect": false
+      },
+      {
+        "answer": "References to animals",
+        "answer_ar": "إشارات إلى الحيوانات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ac0e82d2-97e5-4871-86c6-e08e3e1d9cc7",
+    "question": "To whom did God say, 'I have given you every herb that yields seed and every tree whose fruit yields seed; to you it shall be for food'?",
+    "question_ar": "لمن قال الله: 'إني قد أعطيتكم كل بقل يبذر بذراً... وكل شجرة فيها ثمر بذري يكون لكم طعامًا'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.1.27",
+      "Gen.1.28",
+      "Gen.1.29"
+    ],
+    "answers": [
+      {
+        "answer": "Man only",
+        "answer_ar": "الإنسان فقط",
+        "isCorrect": true
+      },
+      {
+        "answer": "All living creatures",
+        "answer_ar": "جميع المخلوقات الحية",
+        "isCorrect": false
+      },
+      {
+        "answer": "Cattle only",
+        "answer_ar": "الماشية فقط",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5e6efeba-8080-4d4f-8f32-6f24e940a505",
+    "question": "A river went out of Eden to water the garden.",
+    "question_ar": "هل حقاً كانت الجنة تستقي من نهرٍ يخرج من عدن؟",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.2.10"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "90b9db0b-323c-4947-b0d4-9d65c032164b",
+    "question": "Who was Adam and Eve's first son?",
+    "question_ar": "من هو الابن الأول لآدم وحواء؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.4.1"
+    ],
+    "answers": [
+      {
+        "answer": "Cain",
+        "answer_ar": "قايين",
+        "isCorrect": true
+      },
+      {
+        "answer": "Abel",
+        "answer_ar": "هابيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Seth",
+        "answer_ar": "شيث",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e0c42f1a-ea5e-454f-8a61-52ecff685d5d",
+    "question": "Who was Adam and Eve's second son, described as 'a keeper of sheep'?",
+    "question_ar": "من هو الابن الثاني لآدم وحواء الذي وُصف بأنه 'راعٍ للغنم'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.4.2",
+      "Heb.11.4"
+    ],
+    "answers": [
+      {
+        "answer": "Abel",
+        "answer_ar": "هابيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Cain",
+        "answer_ar": "قايين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Seth",
+        "answer_ar": "شيث",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eb2e5b16-2b0e-499b-9700-d44fd19c6c09",
+    "question": "What son did Eve say God gave her to replace Abel, whom Cain killed?",
+    "question_ar": "أي ابن قالت حواء أن الله أعطاها ليعوضها عن هابيل الذي قتله قايين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.4.25"
+    ],
+    "answers": [
+      {
+        "answer": "Seth",
+        "answer_ar": "شيث",
+        "isCorrect": true
+      },
+      {
+        "answer": "Enoch",
+        "answer_ar": "أخنوخ",
+        "isCorrect": false
+      },
+      {
+        "answer": "Enosh",
+        "answer_ar": "أنوش",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "664b19ee-2e54-434b-b54b-7c92b1d68245",
+    "question": "Who walked with God and was not, for God took him?",
+    "question_ar": "من هو الذي سار مع الله ولم يوجد لأن الله أخذه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.5.24"
+    ],
+    "answers": [
+      {
+        "answer": "Enoch",
+        "answer_ar": "أخنوخ",
+        "isCorrect": true
+      },
+      {
+        "answer": "Noah",
+        "answer_ar": "نوح",
+        "isCorrect": false
+      },
+      {
+        "answer": "Abel",
+        "answer_ar": "هابيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0ae3be2b-29e8-4b90-8888-606ca7e9c6e6",
+    "question": "Who were the three sons of Noah?",
+    "question_ar": "من هم أبناء نوح الثلاثة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.5.32"
+    ],
+    "answers": [
+      {
+        "answer": "Shem, Ham, and Japheth",
+        "answer_ar": "سام وحام ويافث",
+        "isCorrect": true
+      },
+      {
+        "answer": "Shem, Ham, and Abel",
+        "answer_ar": "سام وحام وهابيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Cain, Abel, and Seth",
+        "answer_ar": "قايين وهابيل وشيث",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "55db2232-20e2-4dc9-b7be-93bb84cb1f34",
+    "question": "On what mountain did the ark come to rest after the Flood?",
+    "question_ar": "على أي جبل استقرت السفينة بعد الطوفان؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.8.4"
+    ],
+    "answers": [
+      {
+        "answer": "Ararat",
+        "answer_ar": "أرارات",
+        "isCorrect": true
+      },
+      {
+        "answer": "Olives",
+        "answer_ar": "الزيتون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Horeb",
+        "answer_ar": "حوريب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fe5c36e1-43f4-4c67-83c1-1e5d252ea4a1",
+    "question": "From which son of Noah was Abram descended?",
+    "question_ar": "من أي ابن من أبناء نوح انحدر أبرام؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.11.10",
+      "Gen.11.26",
+      "Gen.10.21-31"
+    ],
+    "answers": [
+      {
+        "answer": "Shem",
+        "answer_ar": "سام",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ham",
+        "answer_ar": "حام",
+        "isCorrect": false
+      },
+      {
+        "answer": "Japheth",
+        "answer_ar": "يافث",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a968ecd6-22b9-463e-87f1-2c7d246ca8ec",
+    "question": "Which one of these does NOT identify Terah?",
+    "question_ar": "أي من هؤلاء لا يصف تارح؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.11.31"
+    ],
+    "answers": [
+      {
+        "answer": "Haran's brother",
+        "answer_ar": "أخو هاران",
+        "isCorrect": true
+      },
+      {
+        "answer": "Abram's father",
+        "answer_ar": "أب أبرام",
+        "isCorrect": false
+      },
+      {
+        "answer": "Sarai's father-in-law",
+        "answer_ar": "حمو ساراي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0b311a28-629d-4e41-a4b5-244df1a83aa7",
+    "question": "Why were Noah and his family spared destruction by the Flood?",
+    "question_ar": "لماذا نجا نوح وأسرته من الهلاك بالطوفان؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.6.9",
+      "Gen.6.8"
+    ],
+    "answers": [
+      {
+        "answer": "Because Noah was a just and perfect man in his generations",
+        "answer_ar": "لأن نوح كان رجلاً بارًا وكاملًا في أجياله",
+        "isCorrect": true
+      },
+      {
+        "answer": "Because they were the largest family",
+        "answer_ar": "لأنهم كانوا أكبر عائلة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Because they had the most animals",
+        "answer_ar": "لأن لديهم أكثر الحيوانات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eb9f1e15-7b90-4f5b-8b7e-338902e42025",
+    "question": "What descendant of Ham became a mighty hunter before the Lord?",
+    "question_ar": "أي نسل من حام أصبح صيادًا جبارًا أمام الرب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.10.9"
+    ],
+    "answers": [
+      {
+        "answer": "Nimrod",
+        "answer_ar": "نمرود",
+        "isCorrect": true
+      },
+      {
+        "answer": "Cush",
+        "answer_ar": "كوش",
+        "isCorrect": false
+      },
+      {
+        "answer": "Canaan",
+        "answer_ar": "كنعان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f0beef01-cb36-4398-87fc-bb2ef0c4fae5",
+    "question": "Who was Chedorlaomer?",
+    "question_ar": "من هو كدرلعومر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.14.9"
+    ],
+    "answers": [
+      {
+        "answer": "The king of Elam",
+        "answer_ar": "ملك عيلام",
+        "isCorrect": true
+      },
+      {
+        "answer": "The king of Sodom",
+        "answer_ar": "ملك سدوم",
+        "isCorrect": false
+      },
+      {
+        "answer": "The king of Gomorrah",
+        "answer_ar": "ملك عمورة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ea4cc52e-2f4e-46e2-9fae-2ed13c3bfa84",
+    "question": "To whom did the Angel of the Lord say, 'Return to your mistress, and submit yourself under her hand'?",
+    "question_ar": "لمن قال ملاك الرب: 'ارجعي إلى سيدتك واخضعي تحت يدها'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.16.8",
+      "Gen.16.9"
+    ],
+    "answers": [
+      {
+        "answer": "Hagar",
+        "answer_ar": "هاجر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Tamar",
+        "answer_ar": "ثامار",
+        "isCorrect": false
+      },
+      {
+        "answer": "Shamgar",
+        "answer_ar": "شمجر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b29252d2-083b-4ca8-b0e8-97c50f9dfcaf",
+    "question": "Who besides Pharaoh did Abraham tell that Sarah was his sister, so that they would treat him well?",
+    "question_ar": "من غير فرعون أخبره إبراهيم أن سارة هي أخته حتى يعامله جيدًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.20.2"
+    ],
+    "answers": [
+      {
+        "answer": "Abimelech, king of Gerar",
+        "answer_ar": "أبيمالك ملك جرار",
+        "isCorrect": true
+      },
+      {
+        "answer": "Bera, king of Sodom",
+        "answer_ar": "بعرة ملك سدوم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Melchizedek, king of Salem",
+        "answer_ar": "ملكي صادق ملك شاليم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6a36a3a0-80d8-48b1-9e95-22b202a10f2c",
+    "question": "Sarah and Abraham had the same father.",
+    "question_ar": "كان لسارة وإبراهيم نفس الأب.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.20.12"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d41efc2b-76a3-4a8c-9a8b-110d1c1be513",
+    "question": "What was the name of Abraham’s son which Sarah bore him?",
+    "question_ar": "ما اسم ابن إبراهيم الذي ولدته له سارة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.21.3"
+    ],
+    "answers": [
+      {
+        "answer": "Isaac",
+        "answer_ar": "إسحاق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ishmael",
+        "answer_ar": "إسماعيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jacob",
+        "answer_ar": "يعقوب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7cda6e88-631f-4d99-8c2c-3402f5da6777",
+    "question": "Who made Lot drunk with wine so that he unknowingly fathered a child by each of his two daughters?",
+    "question_ar": "من جعل لوط يشرب الخمر حتى أنجب من كل واحدة من ابنتيه دون أن يدري؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.19.32-36"
+    ],
+    "answers": [
+      {
+        "answer": "His two daughters",
+        "answer_ar": "ابنتاه الاثنتان",
+        "isCorrect": true
+      },
+      {
+        "answer": "His wife",
+        "answer_ar": "زوجته",
+        "isCorrect": false
+      },
+      {
+        "answer": "Abraham",
+        "answer_ar": "إبراهيم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e55b0950-0126-41b3-b305-87d5a512b937",
+    "question": "Who carried the wood for the burnt offering that God instructed Abraham to make of Isaac?",
+    "question_ar": "من حمل الحطب للمحرقة التي أمر الله إبراهيم أن يصعدها بإسحاق؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.22.6"
+    ],
+    "answers": [
+      {
+        "answer": "Isaac",
+        "answer_ar": "إسحاق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Abraham",
+        "answer_ar": "إبراهيم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ishmael",
+        "answer_ar": "إسماعيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b7bfb1f4-eebc-42d6-b6c1-fc8a015f57c3",
+    "question": "Who said to Abraham’s servant, 'Drink,' and 'I will draw water for your camels also,' to show that she was the one appointed by God for Isaac?",
+    "question_ar": "من قالت لعبد إبراهيم: 'اشرب'، وقالت أيضًا: 'سأسقي جمالك أيضًا'، لتكون هي المختارة من الله لإسحاق؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.24.15-19"
+    ],
+    "answers": [
+      {
+        "answer": "Rebekah",
+        "answer_ar": "رفقة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Milcah",
+        "answer_ar": "ملكَة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Keturah",
+        "answer_ar": "قطورة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fda2d748-fbc1-45ae-a9cf-9617e4f96871",
+    "question": "Who did Isaac love because he ate of his game, but Rebekah loved another son?",
+    "question_ar": "من أحبّه إسحاق لأنه كان يأكل من صيده، بينما كانت رفقة تحب ابنًا آخر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.25.28"
+    ],
+    "answers": [
+      {
+        "answer": "Esau (Rebekah loved Jacob)",
+        "answer_ar": "عيسو (أما رفقة فكانت تحب يعقوب)",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jacob (Rebekah loved Esau)",
+        "answer_ar": "يعقوب (أما رفقة فكانت تحب عيسو)",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ishmael",
+        "answer_ar": "إسماعيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "46c98c1e-f204-4c08-bf3e-dad1dc4c6262",
+    "question": "Who, like Abraham, lied to Abimelech, saying that his wife was his sister because he was afraid of being killed for her?",
+    "question_ar": "من الذي كذب على أبيمالك مثل إبراهيم، وقال إن زوجته هي أخته لأنه كان خائفًا من أن يُقتل بسببها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.26.6",
+      "Gen.26.7"
+    ],
+    "answers": [
+      {
+        "answer": "Isaac",
+        "answer_ar": "إسحاق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jacob",
+        "answer_ar": "يعقوب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joseph",
+        "answer_ar": "يوسف",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6a88b64c-0956-4cf0-b0b5-e80bc7f7eaed",
+    "question": "Who orchestrated Jacob’s deception of Isaac for his brother’s blessing?",
+    "question_ar": "من خطط لخداع يعقوب لإسحق ليأخذ بركة أخيه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.27.6-10"
+    ],
+    "answers": [
+      {
+        "answer": "Rebekah",
+        "answer_ar": "رفقة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Esau",
+        "answer_ar": "عيسو",
+        "isCorrect": false
+      },
+      {
+        "answer": "Rachel",
+        "answer_ar": "راحيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4b63c287-fb1c-447b-bbc8-67d2b43d889f",
+    "question": "What did Jacob name the place where he dreamed about the ladder reaching from earth to heaven?",
+    "question_ar": "ما هو الاسم الذي أطلقه يعقوب على المكان الذي حلم فيه بالسلم الممتد من الأرض إلى السماء؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.28.19"
+    ],
+    "answers": [
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Luz",
+        "answer_ar": "لوز",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gerar",
+        "answer_ar": "جرار",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ffb13792-0769-487f-8de7-63c89067fc6c",
+    "question": "Who gave his firstborn daughter as a wife to Jacob, instead of the younger sister whom Jacob was working for?",
+    "question_ar": "من أعطى ابنته البكر ليعقوب زوجة بدلاً من الأخت الصغرى التي كان يعقوب يعمل لأجلها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.29.25",
+      "Gen.29.26"
+    ],
+    "answers": [
+      {
+        "answer": "Laban",
+        "answer_ar": "لابان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Abimelech",
+        "answer_ar": "أبيمالك",
+        "isCorrect": false
+      },
+      {
+        "answer": "Nahor",
+        "answer_ar": "ناحور",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dbebf09f-6e16-44a7-8821-c2909de52e5f",
+    "question": "Which two sons of Jacob killed all the men of the city three days after they had been circumcised because Shechem had treated their sister like a harlot?",
+    "question_ar": "أي اثنين من أبناء يعقوب قتلا جميع رجال المدينة بعد ثلاثة أيام من ختانهم بسبب أن شكيم عامل أختهم كزانية؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.34.25"
+    ],
+    "answers": [
+      {
+        "answer": "Simeon and Levi",
+        "answer_ar": "شمعون ولاوي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Reuben and Simeon",
+        "answer_ar": "رأوبين وشمعون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Levi and Asher",
+        "answer_ar": "لاوي وأشير",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7512ea12-0f3f-4f48-b2e0-dc02439ff2ca",
+    "question": "Esau was the father of what group of people?",
+    "question_ar": "كان عيسو أباً لأي مجموعة من الناس؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.36.9",
+      "Gen.25.30"
+    ],
+    "answers": [
+      {
+        "answer": "Edomites",
+        "answer_ar": "الأدوميون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Canaanites",
+        "answer_ar": "الكنعانيون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Israelites",
+        "answer_ar": "الإسرائيليون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3bce40af-8591-4ec2-9411-07a26834be19",
+    "question": "Simeon instructed his brothers concerning Joseph, 'Shed no blood, but cast him into this pit,' so that he might come later and return him to their father.",
+    "question_ar": "شمعون هو الذي أوصى إخوته بشأن يوسف: 'لا تسفكوا دمًا بل اطرحوه في هذه البئر' ليعود إليه فيما بعد ويعيده إلى أبيه.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.37.22"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "295bc572-01de-41b4-b0b4-5f81ad8d7e5c",
+    "question": "By whom did Judah father twins when she deceived him by passing as a harlot?",
+    "question_ar": "من هي التي أنجب منها يهوذا توأمين بعدما خدعته متنكرة كزانية؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.38.24-27"
+    ],
+    "answers": [
+      {
+        "answer": "Tamar",
+        "answer_ar": "ثامار",
+        "isCorrect": true
+      },
+      {
+        "answer": "Hagar",
+        "answer_ar": "هاجر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Shamgar",
+        "answer_ar": "شمجر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a0f2a220-8b95-4dc9-8255-6a1a7e1d986a",
+    "question": "When Joseph’s brothers dined with him in his house, who received a serving five times bigger than the rest?",
+    "question_ar": "عندما تناول إخوة يوسف الطعام معه في بيته، من الذي حصل على نصيب أكبر منه بخمس مرات؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.43.34"
+    ],
+    "answers": [
+      {
+        "answer": "Benjamin, the youngest brother",
+        "answer_ar": "بنيامين، الأخ الأصغر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Joseph, the host",
+        "answer_ar": "يوسف، المضيف",
+        "isCorrect": false
+      },
+      {
+        "answer": "Simeon, who had been held in prison",
+        "answer_ar": "شمعون، الذي كان في السجن",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fdfd6e15-95de-4d82-b36f-84f7ae1d957a",
+    "question": "Who told Joseph, 'Bring your father and your households and come to me; I will give you the best of the land of Egypt'?",
+    "question_ar": "من قال ليوسف: 'أحضر أباك وأهلك وتعال إليّ، فأعطيك أفضل أرض في مصر'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.45.17-18"
+    ],
+    "answers": [
+      {
+        "answer": "Pharaoh",
+        "answer_ar": "فرعون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Potiphar",
+        "answer_ar": "فوطيفار",
+        "isCorrect": false
+      },
+      {
+        "answer": "Poti Pherah, priest of On",
+        "answer_ar": "فوطيفيرا كاهن أون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "06cb46d6-0870-44a2-a7e2-5e314847dc1b",
+    "question": "Which of his sons did Jacob describe as 'a lion’s whelp'?",
+    "question_ar": "أي من أبنائه وصفه يعقوب بأنه 'شبل أسد'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.49.9"
+    ],
+    "answers": [
+      {
+        "answer": "Judah",
+        "answer_ar": "يهوذا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Reuben",
+        "answer_ar": "رأوبين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Benjamin",
+        "answer_ar": "بنيامين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b9d8a6b8-2e54-49db-bb19-154ac8a53c43",
+    "question": "Which of Joseph’s two sons received the greater blessing from Israel?",
+    "question_ar": "أي من ابني يوسف نال البركة الأكبر من يعقوب (إسرائيل)؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Gen.48.17-19"
+    ],
+    "answers": [
+      {
+        "answer": "Ephraim",
+        "answer_ar": "أفرايم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Manasseh",
+        "answer_ar": "منسى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Neither",
+        "answer_ar": "لا أحد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "44a9d8a1-3688-4265-b543-75c4e7350088",
+    "question": "The children of Israel began to suffer affliction because there was 'a new king over Egypt, who did not know Joseph.'",
+    "question_ar": "بدأ بني إسرائيل يعانون من الاضطهاد لأنه كان هناك 'ملك جديد على مصر لم يعرف يوسف'.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.1.8-11"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7929676c-8b47-443e-91db-43a4f2224ae3",
+    "question": "Which relative watched over the Hebrew infant hidden in the ark of bulrushes on the river?",
+    "question_ar": "أي من الأقارب كان يراقب الطفل العبري المختبئ في تابوت من البردي على النهر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.2.4"
+    ],
+    "answers": [
+      {
+        "answer": "His sister",
+        "answer_ar": "أخته",
+        "isCorrect": true
+      },
+      {
+        "answer": "His brother",
+        "answer_ar": "أخوه",
+        "isCorrect": false
+      },
+      {
+        "answer": "His father",
+        "answer_ar": "والده",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e3a5187f-1ed2-4805-9955-4600d80b16e5",
+    "question": "Where did Moses flee to after he killed the Egyptian he saw beating a Hebrew?",
+    "question_ar": "إلى أين هرب موسى بعد أن قتل المصري الذي كان يضرب عبريًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.2.15"
+    ],
+    "answers": [
+      {
+        "answer": "Midian",
+        "answer_ar": "مِديان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Canaan",
+        "answer_ar": "كنعان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Edom",
+        "answer_ar": "أدوم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f774b031-b84a-4d98-9e9c-1fc61b72ae2a",
+    "question": "The Pharaoh who ordered the Hebrew babies killed was not the same one who refused to let the Hebrew people leave Egypt.",
+    "question_ar": "لم يكن فرعون الذي أمر بقتل أطفال العبرانيين هو نفسه الذي رفض أن يدع الشعب يخرج من مصر.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.2.23",
+      "Acts.7.23",
+      "Acts.7.30"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e1a090a5-bfd4-47e8-8d79-3493caa44221",
+    "question": "What did Pharaoh’s daughter name the baby she found because she 'drew him out of the water'?",
+    "question_ar": "ما هو اسم الطفل الذي أطلقته عليه ابنة فرعون لأنها 'انتشلته من الماء'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.2.10"
+    ],
+    "answers": [
+      {
+        "answer": "Moses",
+        "answer_ar": "موسى",
+        "isCorrect": true
+      },
+      {
+        "answer": "Aaron",
+        "answer_ar": "هارون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joseph",
+        "answer_ar": "يوسف",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "13d8bfa6-7fa3-4ba6-86c5-6f0c5c5f6d01",
+    "question": "When God spoke to Moses from the burning bush, which patriarchs did He identify Himself with?",
+    "question_ar": "عندما كلم الله موسى من العليقة المشتعلة، بأي الآباء العظماء عرّف نفسه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.3.6",
+      "Gen.12.1-3",
+      "Gen.26.24",
+      "Gen.28.13-15"
+    ],
+    "answers": [
+      {
+        "answer": "Abraham, Isaac, and Jacob",
+        "answer_ar": "إبراهيم وإسحاق ويعقوب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Adam, Noah, and Moses",
+        "answer_ar": "آدم ونوح وموسى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joseph, Aaron, and Levi",
+        "answer_ar": "يوسف وهارون ولاوي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9e48c8f4-828c-4aa0-82c3-3c1e040fa235",
+    "question": "What name did God tell Moses to give to the children of Israel when they asked the name of the God who sent him?",
+    "question_ar": "ما هو الاسم الذي أمر الله موسى أن يذكره لبني إسرائيل عندما يسألونه عن اسم الإله الذي أرسله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.3.14",
+      "Heb.13.8"
+    ],
+    "answers": [
+      {
+        "answer": "I AM WHO I AM",
+        "answer_ar": "أَهْيَهِ الذي أَهْيَهْ",
+        "isCorrect": true
+      },
+      {
+        "answer": "Elohim",
+        "answer_ar": "إلوهيم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Adonai",
+        "answer_ar": "أدوناي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "418df1b7-c807-4052-80e7-447a20e1bda7",
+    "question": "When the Lord removed the plague of locusts from Egypt, He caused the west wind to blow the locusts into the Dead Sea.",
+    "question_ar": "عندما أزال الرب ضربة الجراد من مصر، جعل الريح الغربية تدفع الجراد إلى البحر الميت.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.10.19"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cebe4fbb-10db-409b-8a17-83e3eeb1d1c7",
+    "question": "Who advised Pharaoh to let the Israelites go, because Egypt was destroyed after the plague of locusts?",
+    "question_ar": "من الذي نصح فرعون بأن يدع بني إسرائيل يذهبون لأن مصر تهدمت بسبب ضربة الجراد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.10.7"
+    ],
+    "answers": [
+      {
+        "answer": "His servants",
+        "answer_ar": "خدامه",
+        "isCorrect": true
+      },
+      {
+        "answer": "His wife",
+        "answer_ar": "زوجته",
+        "isCorrect": false
+      },
+      {
+        "answer": "His daughter",
+        "answer_ar": "ابنته",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e972c75a-4881-4c0e-bf0a-22f38301ea91",
+    "question": "The tenth and last plague which God sent on Egypt was that all the firstborn of man and beast would die.",
+    "question_ar": "الضربة العاشرة والأخيرة التي أرسلها الله على مصر كانت موت كل بكر من الإنسان والبهائم.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.11.5"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5122aafc-e819-49bb-88b6-ef90f6e70ab1",
+    "question": "How many men left Egypt on foot after Passover night?",
+    "question_ar": "كم عدد الرجال الذين غادروا مصر على الأقدام بعد ليلة الفصح؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.12.37"
+    ],
+    "answers": [
+      {
+        "answer": "600,000",
+        "answer_ar": "ستمائة ألف",
+        "isCorrect": true
+      },
+      {
+        "answer": "100,000",
+        "answer_ar": "مائة ألف",
+        "isCorrect": false
+      },
+      {
+        "answer": "50,000",
+        "answer_ar": "خمسون ألفًا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "94eb6c77-46f5-4977-bbf5-91ae2b94837b",
+    "question": "No uncircumcised person was allowed to eat the Passover meal.",
+    "question_ar": "لا يُسمح لأي شخص غير مختون أن يأكل من عشاء الفصح.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.12.48"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2b12fa73-5e8b-42b1-927f-6dfc68c591de",
+    "question": "The Lord led the children of Israel from Egypt into the wilderness by day in a pillar of cloud and by night in a pillar of fire.",
+    "question_ar": "قاد الرب بني إسرائيل من مصر إلى البرية نهارًا في عمود من السحاب وليلًا في عمود من النار.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.13.21"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fb12c370-fc70-4e65-96f1-41a1a0b5a93a",
+    "question": "How many of Pharaoh’s army escaped the waters of the Red Sea?",
+    "question_ar": "كم عدد جنود فرعون الذين نجوا من مياه البحر الأحمر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.14.28"
+    ],
+    "answers": [
+      {
+        "answer": "None",
+        "answer_ar": "لا أحد",
+        "isCorrect": true
+      },
+      {
+        "answer": "One",
+        "answer_ar": "واحد",
+        "isCorrect": false
+      },
+      {
+        "answer": "One hundred",
+        "answer_ar": "مائة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "274a6a5b-5b16-40b7-877d-190f3f6210b0",
+    "question": "Who led the Israelite women in singing and dancing to praise God for the defeat of the Egyptian army?",
+    "question_ar": "من قادت نساء بني إسرائيل في الغناء والرقص لتمجيد الله بعد هزيمة جيش المصريين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.15.20"
+    ],
+    "answers": [
+      {
+        "answer": "Miriam",
+        "answer_ar": "مريم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Zipporah",
+        "answer_ar": "صفورة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Aaron",
+        "answer_ar": "هارون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1b2a5fae-389c-4097-bb06-82441058ad84",
+    "question": "Who led the Israelites in the defeat of the Amalekites in the wilderness?",
+    "question_ar": "من قاد بني إسرائيل لهزيمة العمالقة في البرية؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.17.13"
+    ],
+    "answers": [
+      {
+        "answer": "Joshua",
+        "answer_ar": "يشوع",
+        "isCorrect": true
+      },
+      {
+        "answer": "Moses",
+        "answer_ar": "موسى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Hur",
+        "answer_ar": "حور",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1e489bce-8c16-443f-9605-b32a8e3c963e",
+    "question": "Who advised Moses to set up men to judge in smaller matters, while he (Moses) judged only in greater matters?",
+    "question_ar": "من نصح موسى أن يقيم رجالًا ليقضوا في الأمور الصغيرة بينما يقضي هو في الأمور العظيمة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.18.17-22"
+    ],
+    "answers": [
+      {
+        "answer": "Jethro",
+        "answer_ar": "يثرون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Aaron",
+        "answer_ar": "هارون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joshua",
+        "answer_ar": "يشوع",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2326e9c1-06b2-4548-b833-df11483e71b8",
+    "question": "When Israel accepted His covenant, where did God say He would come down in the sight of the people?",
+    "question_ar": "عندما قبل بنو إسرائيل عهده، على أي جبل قال الله إنه سينزل أمام أعين الشعب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.19.11"
+    ],
+    "answers": [
+      {
+        "answer": "Mount Sinai",
+        "answer_ar": "جبل سيناء",
+        "isCorrect": true
+      },
+      {
+        "answer": "Mount Zion",
+        "answer_ar": "جبل صهيون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Mount Carmel",
+        "answer_ar": "جبل الكرمل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "34dc1d4b-04f7-4e81-b6a7-c93a94a59e76",
+    "question": "Who was identified as Moses’ assistant when he went up the mountain to receive the covenant?",
+    "question_ar": "من الذي كان مساعد موسى عندما صعد الجبل ليستلم العهد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.24.13"
+    ],
+    "answers": [
+      {
+        "answer": "Joshua",
+        "answer_ar": "يشوع",
+        "isCorrect": true
+      },
+      {
+        "answer": "Aaron",
+        "answer_ar": "هارون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jethro",
+        "answer_ar": "يثرون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5d90b7c1-d221-4a84-9816-1f15f314e95a",
+    "question": "Where in the tabernacle was the ark of the covenant located?",
+    "question_ar": "أين وُضع تابوت العهد في خيمة الاجتماع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.26.34"
+    ],
+    "answers": [
+      {
+        "answer": "The Most Holy",
+        "answer_ar": "قدس الأقداس",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Holy Place",
+        "answer_ar": "المقدس",
+        "isCorrect": false
+      },
+      {
+        "answer": "On the north side of the lampstand",
+        "answer_ar": "في الجانب الشمالي من المنارة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b6b53c3d-fb4a-4a3b-9d50-6a98cb801a6e",
+    "question": "Who created the heavens and the earth in the beginning?",
+    "question_ar": "من الذي خلق السماوات والأرض في البدء؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "God",
+        "answer_ar": "الله",
+        "isCorrect": true
+      },
+      {
+        "answer": "Angels",
+        "answer_ar": "الملائكة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gabriel",
+        "answer_ar": "رئيس الملائكة جبرائيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e857e87f-c91e-4c51-b68b-95330eb7c17d",
+    "question": "The linen curtains and the inner veil of the tabernacle had artistic designs of cherubim woven in them.",
+    "question_ar": "كان في ستائر الكتان والحجاب الداخلي للخيمة نقوش فنية من الكروبيم.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.26.1-31",
+      "Ezek.1.5",
+      "Rev.4.6"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a3342e5b-e19a-42a2-8aab-573a329a8e5f",
+    "question": "When the children of Israel gave atonement money (ransom) to the Lord, the rich were required to give more than the poor, according to their wealth.",
+    "question_ar": "عندما أعطى بنو إسرائيل فدية (فداء) للرب، كان على الأغنياء أن يدفعوا أكثر من الفقراء حسب غناهم.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.30.15"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c0e78cfb-8404-4565-aac8-2b23f0971e67",
+    "question": "Who were Bezaleel and Aholiab?",
+    "question_ar": "من هما بصلئيل وأهوليآب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.31.2-3",
+      "Ex.31.6"
+    ],
+    "answers": [
+      {
+        "answer": "Workmen prepared and appointed by God to build the tabernacle",
+        "answer_ar": "عاملان أعدهما الله وعيّنهما لبناء خيمة الاجتماع",
+        "isCorrect": true
+      },
+      {
+        "answer": "Sons of Aaron who burned the wrong incense",
+        "answer_ar": "ابنا هارون اللذان قدما نارًا غريبة",
+        "isCorrect": false
+      },
+      {
+        "answer": "The two sons of Moses",
+        "answer_ar": "ابنا موسى",
+        "isCorrect": false
+      }
+    ]
+  }
+]

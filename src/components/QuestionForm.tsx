@@ -48,7 +48,7 @@ interface PreviewModalProps {
   bibleVersion?: string; // default: "AVD"
 }
 // Helper: Preview modal (simple overlay, not portal)
-function PreviewModal({
+export function PreviewModal({
   question,
   onClose,
   bibleVersion = 'AVD',
@@ -386,7 +386,7 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
     <>
       <form
         onSubmit={handleSubmit}
-        className="space-y-6 bg-white p-6 border border-gray-300 rounded shadow-md max-w-2xl mx-auto"
+        className="space-y-6 bg-white p-6 border border-gray-300 rounded shadow-md max-w-2xl mx-auto "
       >
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Question (EN)</label>
