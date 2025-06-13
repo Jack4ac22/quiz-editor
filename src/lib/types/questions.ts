@@ -7,8 +7,9 @@ export type Answer = {
 
 export type Question = {
   id?: string;
-  category: 'multiple-choice' | 'true-or-false';
+  type: 'multiple-choice' | 'true-or-false';
   tags: string[];
+  categories?: string[];
   question: string;
   ar_question: string;
   answers: Answer[];

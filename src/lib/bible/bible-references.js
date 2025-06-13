@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 // Define the folder where Bible JSON files are stored.
-const biblesDir = path.join(process.cwd(), 'src/asset/bibles');
+const biblesDir = path.join(process.cwd(), 'src/assets/bibles');
 
 /**
  * Retrieves the list of available Bible versions based on the JSON files in the folder.
