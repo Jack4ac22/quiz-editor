@@ -26,6 +26,7 @@ export type QuestionInput = {
 type QuestionFormProps = {
   onSubmit: (data: QuestionInput) => void;
   initial?: Partial<QuestionInput>;
+  mode?: 'add' | 'edit';
 };
 
 const DEFAULT_STATUSES = [
@@ -187,7 +188,7 @@ function PreviewModal({
 }
 
 
-export default function QuestionForm({ onSubmit, initial }: QuestionFormProps) {
+export default function QuestionForm({ onSubmit, initial, mode = 'add' }: QuestionFormProps) {
   // All questions (for options gathering)
   const [allQuestions, setAllQuestions] = useState<QuestionInput[]>([]);
   const [typeOptions, setTypeOptions] = useState<string[]>(['Multiple Choice', 'True or False']);
@@ -364,28 +365,21 @@ export default function QuestionForm({ onSubmit, initial }: QuestionFormProps) {
   };
 
   const router = useRouter();
+  const [updateMsg, setUpdateMsg] = useState('');
 
   const handleSaveAndContinue = async (e: React.FormEvent) => {
     e.preventDefault();
     const errs = validate(data);
     setErrors(errs);
     if (Object.keys(errs).length > 0) return;
-    await onSubmit({ ...data, id: data.id ?? uuidv4() }); // Save current question
-    router.replace('/add');
-    setData({
-      question: '',
-      question_ar: '',
-      type: 'Multiple Choice',
-      categories: [],
-      tags: [],
-      status: 'draft',
-      verses: [],
-      answers: [
-        { id: 1, answer: '', answer_ar: '', isCorrect: false },
-        { id: 2, answer: '', answer_ar: '', isCorrect: false },
-        { id: 3, answer: '', answer_ar: '', isCorrect: false },
-      ],
-    });
+    await onSubmit({ ...data, id: data.id ?? uuidv4() });
+
+    if (mode === 'add') {
+      router.refresh();
+    } else {
+      setUpdateMsg('Question updated!');
+      // Optionally: refetch question data here if needed
+    }
   };
 
   return (
@@ -731,16 +725,40 @@ export default function QuestionForm({ onSubmit, initial }: QuestionFormProps) {
             type="submit"
             className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded shadow"
           >
-            Save Question
+            {
+              mode === 'edit' ? "Update Question" : "Save Question"
+            }
           </button>
 
-          <button
+          {mode === 'add' && (<button
             type="button"
             onClick={handleSaveAndContinue}
-            className="bg-green-600 hover:bg-green-700 text-white font-semibold px-4 py-2 rounded shadow"
-          >
-            Save and Continue
+            className='bg-green-500 hover:bg-green-700 text-white font-semibold px-4 py-2 rounded shadow'>
+            Save & Add Another
           </button>
+          )
+          }
+
+          {mode === 'edit' && (
+            <div className="flex gap-4 mt-4">
+              <button
+                type="button"
+                className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded"
+                onClick={() => router.push(`/${data.id}`)}
+              >
+                Display
+              </button>
+              <button
+                type="button"
+                className="bg-gray-400 hover:bg-gray-500 text-white px-4 py-2 rounded"
+                onClick={() => router.push('/')}
+              >
+                Back to List
+              </button>
+            </div>
+          )}
+
+
         </div>
       </form>
       {/* Preview Modal */}

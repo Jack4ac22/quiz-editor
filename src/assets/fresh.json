@@ -4,30 +4,31 @@
     "question": "Sample question number 1?",
     "question_ar": "سؤال تجريبي رقم 1؟",
     "type": "True or False",
+    "categories": [
+      "14"
+    ],
     "tags": [
       "flood",
       "prophecy",
       "creation"
     ],
-    "status": "translated",
-    "references": [],
+    "status": "proofread2",
+    "verses": [
+      "Isa.53.5"
+    ],
     "answers": [
       {
         "id": 1,
         "answer": "True",
         "answer_ar": "صحيح",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "id": 2,
         "answer": "False",
         "answer_ar": "خاطئ",
-        "isCorrect": false
+        "isCorrect": true
       }
-    ],
-    "verses": [
-      "Isa.53.5",
-      "Matt.28.19"
     ]
   },
   {
@@ -35,13 +36,18 @@
     "question": "Sample question number 2?",
     "question_ar": "سؤال تجريبي رقم 2؟",
     "type": "Multiple Choice",
+    "categories": [
+      "main"
+    ],
     "tags": [
       "law",
       "fall",
       "gospel"
     ],
-    "status": null,
-    "references": [],
+    "status": "draft",
+    "verses": [
+      "Acts.2.4"
+    ],
     "answers": [
       {
         "id": 1,
@@ -61,9 +67,6 @@
         "answer_ar": "الخيار 3",
         "isCorrect": true
       }
-    ],
-    "verses": [
-      "Acts.2.4"
     ]
   },
   {
@@ -344,12 +347,18 @@
     "question": "Sample question number 11?",
     "question_ar": "سؤال تجريبي رقم 11؟",
     "type": "True or False",
+    "categories": [
+      "15"
+    ],
     "tags": [
       "creation",
       "gospel"
     ],
     "status": "translated",
-    "references": [],
+    "verses": [
+      "Matt.28.19",
+      "Gen.1.1"
+    ],
     "answers": [
       {
         "id": 1,
@@ -363,10 +372,6 @@
         "answer_ar": "خاطئ",
         "isCorrect": false
       }
-    ],
-    "verses": [
-      "Matt.28.19",
-      "Gen.1.1"
     ]
   },
   {

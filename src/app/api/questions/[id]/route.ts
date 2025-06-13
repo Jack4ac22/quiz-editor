@@ -1,13 +1,25 @@
 // src/app/api/questions/route.ts
 import { NextResponse } from 'next/server';
+import { NextRequest } from 'next/server';
 import { loadQuestions, saveQuestions } from '@/lib/questionStore';
 import { v4 as uuidv4 } from 'uuid';
 import { stat } from 'fs';
 
 // GET /api/questions
-export async function GET() {
+export async function GET(
+  _req: NextRequest,
+  { params }: { params: { id: string } }
+) {
+  const { id } = params;
+
   const questions = await loadQuestions();
-  return NextResponse.json(questions);
+  const question = questions.find((q: any) => q.id === id);
+
+  if (!question) {
+    return Response.json({ error: 'Question not found' }, { status: 404 });
+  }
+
+  return Response.json(question);
 }
 
 // POST /api/questions
