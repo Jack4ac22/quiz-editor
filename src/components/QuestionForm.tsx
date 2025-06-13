@@ -406,6 +406,7 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
             value={data.question_ar}
             onChange={(e) => setData({ ...data, question_ar: e.target.value })}
             className="p-2 border border-gray-300 rounded bg-gray-100 text-gray-700 w-full"
+            dir="rtl"
           />
           <FieldError error={errors.question_ar} />
         </div>
@@ -579,6 +580,7 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
                   value={a.answer_ar}
                   onChange={(e) => handleAnswerChange(i, 'answer_ar', e.target.value)}
                   className="p-2 border border-gray-300 rounded bg-gray-100 text-gray-700 w-full"
+                  dir='rtl'
                 />
                 <label className="inline-flex items-center space-x-2 text-sm text-gray-700">
                   <input

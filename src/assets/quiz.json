@@ -45,7 +45,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.1.2"
     ],
@@ -70,7 +70,7 @@
   {
     "id": "b47bbecb-91c8-4da3-bd71-97d5e09a5bc8",
     "question": "In Genesis 1:26, what are the plural pronouns 'Us' and 'Our' considered as?",
-    "question_ar": "في سفر التكوين 1:26، ما الذي تعنيه الضمائر الجمع 'نحن' و'نا'؟",
+    "question_ar": "في سفر التكوين 1:26، ما الذي تعنيه ضمائر الجمع 'نحن' و'نا'؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -79,7 +79,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Gen.1.26"
     ],
@@ -113,11 +113,9 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
-      "Gen.1.27",
-      "Gen.1.28",
-      "Gen.1.29"
+      "gen.1.27-29"
     ],
     "answers": [
       {
@@ -149,7 +147,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.2.10"
     ],
@@ -178,7 +176,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.4.1"
     ],
@@ -212,7 +210,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.4.2",
       "Heb.11.4"
@@ -247,7 +245,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.4.25"
     ],
@@ -281,7 +279,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.5.24"
     ],
@@ -315,7 +313,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.5.32"
     ],
@@ -349,7 +347,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.8.4"
     ],
@@ -383,7 +381,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.11.10",
       "Gen.11.26",
@@ -410,7 +408,7 @@
   {
     "id": "a968ecd6-22b9-463e-87f1-2c7d246ca8ec",
     "question": "Which one of these does NOT identify Terah?",
-    "question_ar": "أي من هؤلاء لا يصف تارح؟",
+    "question_ar": "أي صفة من التالية هي خاطئة عن تارح؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -1999,6 +1997,1706 @@
       {
         "answer": "The two sons of Moses",
         "answer_ar": "ابنا موسى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f5bc8445-8a82-42d3-9a41-c86ab7a6a02f",
+    "question": "Who made the molded calf and said, 'This is your god, O Israel, that brought you out of the land of Egypt!'?",
+    "question_ar": "من صنع العجل المصبوب وقال: 'هذا هو إلهك يا إسرائيل الذي أخرجك من أرض مصر'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.32.2-4"
+    ],
+    "answers": [
+      {
+        "answer": "Aaron",
+        "answer_ar": "هارون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Joshua",
+        "answer_ar": "يشوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Eleazar",
+        "answer_ar": "ألعازار",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "83211edb-76c2-4e6d-9eae-0bb1c8d8a0e4",
+    "question": "The only requirement for the Israelites who wanted to make offerings of materials to build the tabernacle was that they have a willing heart.",
+    "question_ar": "كان الشرط الوحيد لبني إسرائيل الذين أرادوا أن يقدموا مواد لبناء خيمة الاجتماع هو أن يكون عندهم قلب راغب.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ex.35.5-29"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "92d47ce8-fc50-4d47-a980-76b8c5de6120",
+    "question": "Which sons of Aaron offered profane fire before the Lord and were devoured by fire from the Lord because of it?",
+    "question_ar": "أي من أبناء هارون قدم نارًا غريبة أمام الرب فأكلتهم نار من عند الرب بسبب ذلك؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.10.1-2"
+    ],
+    "answers": [
+      {
+        "answer": "Nadab and Abihu",
+        "answer_ar": "ناداب وأبيهو",
+        "isCorrect": true
+      },
+      {
+        "answer": "Eleazar and Ithamar",
+        "answer_ar": "ألعازار وإيثامار",
+        "isCorrect": false
+      },
+      {
+        "answer": "Eleazar and Abihu",
+        "answer_ar": "ألعازار وأبيهو",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bba9ef70-abb3-4d24-b668-f81cf6f56b06",
+    "question": "Which tribe was not numbered among the children of Israel when Moses took the census of all males twenty and over?",
+    "question_ar": "أي سبط لم يُحصَ مع بني إسرائيل عندما أجرى موسى التعداد لكل الذكور من سن العشرين فما فوق؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.1.47-50"
+    ],
+    "answers": [
+      {
+        "answer": "Levi",
+        "answer_ar": "لاوي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Judah",
+        "answer_ar": "يهوذا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Reuben",
+        "answer_ar": "رأوبين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4d23da0e-9fa2-4489-a64c-b14d4b61a0e5",
+    "question": "God instructed Moses to take the Levites instead of all the ______ among the children of Israel.",
+    "question_ar": "أمر الله موسى أن يأخذ اللاويين بدلاً من كل ______ بين بني إسرائيل.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.3.41"
+    ],
+    "answers": [
+      {
+        "answer": "Firstborn",
+        "answer_ar": "البكور",
+        "isCorrect": true
+      },
+      {
+        "answer": "Elders",
+        "answer_ar": "الشيوخ",
+        "isCorrect": false
+      },
+      {
+        "answer": "Princes",
+        "answer_ar": "الرؤساء",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2497e369-19d6-4e0c-973c-9b1b38f1de0c",
+    "question": "The Levites were required to retire from service in the work of the tabernacle of meeting at what age?",
+    "question_ar": "في أي سن كان يجب على اللاويين أن يتقاعدوا من خدمة خيمة الاجتماع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.8.25"
+    ],
+    "answers": [
+      {
+        "answer": "Fifty",
+        "answer_ar": "خمسون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Sixty",
+        "answer_ar": "ستون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Forty",
+        "answer_ar": "أربعون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "05d1553d-5edc-4e64-8417-07ce25a0d729",
+    "question": "Who became leprous for questioning whether God had only spoken through Moses and not through some others also?",
+    "question_ar": "من أصابه البرص لأنه تساءل عما إذا كان الله قد كلم موسى فقط أم آخرين أيضًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.12.2-10"
+    ],
+    "answers": [
+      {
+        "answer": "Miriam",
+        "answer_ar": "مريم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Aaron",
+        "answer_ar": "هارون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Eldad",
+        "answer_ar": "ألداد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0da5f4a4-69a6-4d18-9181-2d29711d2d87",
+    "question": "What did Moses call Hoshea the son of Nun?",
+    "question_ar": "بماذا دعا موسى هوشع بن نون؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.13.16",
+      "Ex.24.13"
+    ],
+    "answers": [
+      {
+        "answer": "Joshua",
+        "answer_ar": "يشوع",
+        "isCorrect": true
+      },
+      {
+        "answer": "Caleb",
+        "answer_ar": "كالب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Othniel",
+        "answer_ar": "عثنيئيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8fd3e321-0b93-4b2b-b0a3-2fd4f3b21710",
+    "question": "What Levite sought the priesthood and despised the work of the tabernacle, which God had separated him from the congregation of Israel to do?",
+    "question_ar": "أي لاوي سعى إلى الكهنوت واحتقر خدمة خيمة الاجتماع التي فصله الله لها من وسط إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.16.1-21",
+      "Heb.5.4"
+    ],
+    "answers": [
+      {
+        "answer": "Korah",
+        "answer_ar": "قورح",
+        "isCorrect": true
+      },
+      {
+        "answer": "Izhar",
+        "answer_ar": "يصحَر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Dathan",
+        "answer_ar": "داثان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4fc002c1-5167-48ec-b229-c14371e0139e",
+    "question": "Whose rod of the rods of the twelve houses of Israel sprouted, budded, blossomed, and produced ripe almonds to confirm the divine call of the priesthood?",
+    "question_ar": "عصا من من بين عصي بيوت إسرائيل الاثني عشر أزهرت وأخرجت لوزًا لتؤكد الدعوة الإلهية للكهنوت؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.17.8"
+    ],
+    "answers": [
+      {
+        "answer": "Aaron’s",
+        "answer_ar": "هارون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Moses’",
+        "answer_ar": "موسى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Eleazar’s",
+        "answer_ar": "ألعازار",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bb730019-cc80-4a89-bbc9-248fd184cbd3",
+    "question": "Except for Joshua and Caleb, none of the 603,550 Israelites numbered at Sinai by Moses and Aaron were among the 601,730 numbered by Moses and Eleazar in the plains of Moab across from Jericho.",
+    "question_ar": "باستثناء يشوع وكالب، لم يكن أحد من الـ 603,550 إسرائيليًا الذين أُحصوا في سيناء على يد موسى وهارون من بين الـ 601,730 الذين أُحصوا في سهول موآب على يد موسى وألعازار أمام أريحا.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.26.64-65"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1d4beecb-59c8-4e24-95bb-b87c6b545da2",
+    "question": "What woman and her household were the only ones to escape the destruction of Jericho because she had hidden the Israelite spies from the king of Jericho?",
+    "question_ar": "أي امرأة وأسرتها كانوا الوحيدين الذين نجوا من دمار أريحا لأنها خبأت جواسيس بني إسرائيل عن ملك أريحا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.6.17",
+      "Heb.11.31",
+      "James.2.25"
+    ],
+    "answers": [
+      {
+        "answer": "Rahab",
+        "answer_ar": "راحاب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Deborah",
+        "answer_ar": "دبورة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Miriam",
+        "answer_ar": "مريم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bb88d4db-3c1b-4221-91f8-f0a859aeecaa",
+    "question": "Who coveted and kept accursed spoils from the city of Jericho?",
+    "question_ar": "من هو الذي طمع وأخذ من الغنائم المحرمة من مدينة أريحا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.7.20-21",
+      "Josh.6.19"
+    ],
+    "answers": [
+      {
+        "answer": "Achan",
+        "answer_ar": "عخان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Rahab",
+        "answer_ar": "راحاب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Phinehas",
+        "answer_ar": "فينحاس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ba6f319b-2087-47ae-9a24-299c3ce28b31",
+    "question": "Who commanded the sun and moon to stand still when the Israelites fought the Amorites?",
+    "question_ar": "من الذي أمر الشمس والقمر أن يقفا ساكنين عندما قاتل بنو إسرائيل الأموريين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.10.12-13"
+    ],
+    "answers": [
+      {
+        "answer": "Joshua",
+        "answer_ar": "يشوع",
+        "isCorrect": true
+      },
+      {
+        "answer": "God",
+        "answer_ar": "الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "Moses",
+        "answer_ar": "موسى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "98e5fdf2-2378-41a7-b9e2-e7b6d4cf5c0e",
+    "question": "The soles of whose feet had to touch the water of the Jordan River before it would stand up as a heap and let the Israelites cross?",
+    "question_ar": "أقدام من كان يجب أن تلمس ماء نهر الأردن قبل أن يقف الماء ككومة ويسمح للإسرائيليين بالعبور؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.3.13"
+    ],
+    "answers": [
+      {
+        "answer": "The priests carrying the ark",
+        "answer_ar": "الكهنة حاملو التابوت",
+        "isCorrect": true
+      },
+      {
+        "answer": "Joshua",
+        "answer_ar": "يشوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Eleazar",
+        "answer_ar": "ألعازار",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cd9070d3-7e1c-4695-bf2c-d4a60ceaf325",
+    "question": "What was the name of the place where the Israelites built the memorial of twelve stones from the Jordan River to commemorate their crossing into Canaan?",
+    "question_ar": "ما اسم المكان الذي بنى فيه الإسرائيليون نصبًا تذكاريًا من اثني عشر حجرًا من نهر الأردن لذكرى عبورهم إلى كنعان؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.4.20"
+    ],
+    "answers": [
+      {
+        "answer": "Gilgal",
+        "answer_ar": "الجلجال",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jericho",
+        "answer_ar": "أريحا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Meribah",
+        "answer_ar": "مريبة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6fd2a4a9-bd37-4633-b81d-51e1f0a57c89",
+    "question": "How did God identify Himself when He appeared to Joshua before the battle of Jericho?",
+    "question_ar": "كيف عرّف الله نفسه ليشوع قبل معركة أريحا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.5.14"
+    ],
+    "answers": [
+      {
+        "answer": "The Commander of the army of the Lord",
+        "answer_ar": "رئيس جند الرب",
+        "isCorrect": true
+      },
+      {
+        "answer": "I AM WHO I AM",
+        "answer_ar": "أهْيَهِ الذي أهْيَهْ",
+        "isCorrect": false
+      },
+      {
+        "answer": "Deliverer",
+        "answer_ar": "المخلّص",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "47e5161c-2db5-44db-92e4-fcf855b6d11c",
+    "question": "Which two men received individual inheritances in the land of Canaan?",
+    "question_ar": "من هما الرجلان اللذان حصلا على ميراث فردي في أرض كنعان؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.14.14",
+      "Josh.19.49"
+    ],
+    "answers": [
+      {
+        "answer": "Caleb and Joshua",
+        "answer_ar": "كالب ويشوع",
+        "isCorrect": true
+      },
+      {
+        "answer": "Moses and Aaron",
+        "answer_ar": "موسى وهارون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joseph and Ephraim",
+        "answer_ar": "يوسف وأفرايم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5eeb8fcf-214b-48ee-bc22-9b8e2e1372c0",
+    "question": "Whose bones were buried in Canaan at Shechem?",
+    "question_ar": "عظام من دُفنت في كنعان في شكيم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.24.32",
+      "Gen.50.24-25"
+    ],
+    "answers": [
+      {
+        "answer": "Joseph's",
+        "answer_ar": "يوسف",
+        "isCorrect": true
+      },
+      {
+        "answer": "Joshua's",
+        "answer_ar": "يشوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Caleb's",
+        "answer_ar": "كالب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "64b10c13-7869-4e41-9b0d-3f7e488b53c4",
+    "question": "Which judge asked God on two different occasions to show him a sign to assure him that God wanted him as a judge over Israel?",
+    "question_ar": "أي قاضٍ طلب من الله مرتين أن يظهر له علامة ليؤكد له أن الله اختاره قاضيًا على إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.6.17-21",
+      "Judg.6.36-40"
+    ],
+    "answers": [
+      {
+        "answer": "Gideon",
+        "answer_ar": "جدعون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Othniel",
+        "answer_ar": "عثنيئيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Samson",
+        "answer_ar": "شمشون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a4ff8f4c-4d8c-441a-91be-89e507d2e231",
+    "question": "From what group of people did Samson choose his wife?",
+    "question_ar": "من أي شعب اختار شمشون زوجته؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.14.2"
+    ],
+    "answers": [
+      {
+        "answer": "Philistines",
+        "answer_ar": "الفلسطينيون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Moabites",
+        "answer_ar": "الموابيون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Midianites",
+        "answer_ar": "المديانيون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "18b2078f-e4c6-48d9-9f55-b6bb781de519",
+    "question": "Who pestered Samson into revealing the secret of his great strength?",
+    "question_ar": "من هي التي ألحّت على شمشون ليكشف سر قوته العظيمة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.16.6-17"
+    ],
+    "answers": [
+      {
+        "answer": "Delilah",
+        "answer_ar": "دليلة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ruth",
+        "answer_ar": "راعوث",
+        "isCorrect": false
+      },
+      {
+        "answer": "Tamar",
+        "answer_ar": "ثامار",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9e7e2257-4a18-4f5e-a6b3-190e5e5a00c0",
+    "question": "Which of the judges killed 600 Philistines with an ox goad?",
+    "question_ar": "أي من القضاة قتل 600 من الفلسطينيين بمسراز البقر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.3.31",
+      "Judg.5.6"
+    ],
+    "answers": [
+      {
+        "answer": "Shamgar",
+        "answer_ar": "شمعجر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Othniel",
+        "answer_ar": "عثنيئيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ehud",
+        "answer_ar": "إهود",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "53564ef4-cdc0-4e64-a43b-5d0d1c00da49",
+    "question": "Which Israelite judge died along with the Philistines he destroyed?",
+    "question_ar": "أي قاضٍ إسرائيلي مات مع الفلسطينيين الذين قتلهم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.16.30",
+      "Judg.16.23"
+    ],
+    "answers": [
+      {
+        "answer": "Samson",
+        "answer_ar": "شمشون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Barak",
+        "answer_ar": "باراق",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gideon",
+        "answer_ar": "جدعون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b6ad73c0-93a1-4686-b0f9-10c963a66e85",
+    "question": "When Naomi arrived in Bethlehem, she told the women there to call her Mara, because the Lord had dealt pleasantly with her.",
+    "question_ar": "عندما وصلت نعمي إلى بيت لحم، أخبرت النساء أن يدعونها 'مرا' لأن الرب أحسن إليها.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ruth.1.20"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0b2a8a41-5ca5-48ad-b0f7-214986183c7b",
+    "question": "Who was the 'near kinsman' who redeemed Ruth?",
+    "question_ar": "من هو 'الولي القريب' الذي فدى راعوث؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ruth.3.9",
+      "Ruth.4.9-10",
+      "Ruth.4.1-6"
+    ],
+    "answers": [
+      {
+        "answer": "Boaz",
+        "answer_ar": "بوعز",
+        "isCorrect": true
+      },
+      {
+        "answer": "Obed",
+        "answer_ar": "عوبيد",
+        "isCorrect": false
+      },
+      {
+        "answer": "Elimelech",
+        "answer_ar": "أليمالك",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "08720134-25e3-4cf4-99c9-7e8a6c2e845b",
+    "question": "Boaz instructed his men to let some grain fall from the bundles for Ruth to glean.",
+    "question_ar": "أوصى بوعز رجاله أن يدعوا بعض السنابل تسقط من الحزم لكي تلتقطها راعوث.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ruth.2.16",
+      "Ruth.2.11"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "80c2d0f7-420c-439d-9d92-9f4d2414f18d",
+    "question": "Ruth bore Boaz a son, Obed, who was the father of Jesse. This made Ruth the great-grandmother of whom?",
+    "question_ar": "أنجبت راعوث من بوعز ابنًا اسمه عوبيد، وكان عوبيد أبًا ليسى. من هو ابن حفيد راعوث؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "Ruth.4.17"
+    ],
+    "answers": [
+      {
+        "answer": "David",
+        "answer_ar": "داود",
+        "isCorrect": true
+      },
+      {
+        "answer": "Solomon",
+        "answer_ar": "سليمان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Samuel",
+        "answer_ar": "صموئيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bf0f87e6-9443-4bc0-8e89-f21e36e827f7",
+    "question": "Eli the priest had two sons. Name either one of them.",
+    "question_ar": "كان لعالي الكاهن ابنان. اذكر أحدهما.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.1.3",
+      "1Sam.2.34",
+      "1Sam.4.10-11"
+    ],
+    "answers": [
+      {
+        "answer": "Hophni",
+        "answer_ar": "حفني",
+        "isCorrect": true
+      },
+      {
+        "answer": "Phinehas",
+        "answer_ar": "فينيحاس",
+        "isCorrect": true
+      },
+      {
+        "answer": "Elkanah",
+        "answer_ar": "ألقانة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e9de712d-6942-41ff-9d5d-ecb758b3fc3e",
+    "question": "What was the name of Hannah’s firstborn son?",
+    "question_ar": "ما اسم الابن البكر لحَنّة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.1.20"
+    ],
+    "answers": [
+      {
+        "answer": "Samuel",
+        "answer_ar": "صموئيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Saul",
+        "answer_ar": "شاول",
+        "isCorrect": false
+      },
+      {
+        "answer": "Elkanah",
+        "answer_ar": "ألقانة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3c69e063-778d-4fa3-9eab-bd5386b28f8b",
+    "question": "What was the hometown of Hannah and Elkanah?",
+    "question_ar": "ما هي مدينة موطن حنة وألقانة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.1.19",
+      "1Sam.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "Ramah",
+        "answer_ar": "الرامة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Shiloh",
+        "answer_ar": "شيلوه",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gezer",
+        "answer_ar": "جَزَر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "27b41b87-d7eb-4b60-8721-c5da9a8233be",
+    "question": "Who was the priest at Shiloh when Samuel was brought to him to grow up in the house of the Lord?",
+    "question_ar": "من كان الكاهن في شيلوه عندما أُحضر صموئيل إليه لينشأ في بيت الرب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.1.25",
+      "1Sam.2.30-36"
+    ],
+    "answers": [
+      {
+        "answer": "Eli",
+        "answer_ar": "عالي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Hophni",
+        "answer_ar": "حفني",
+        "isCorrect": false
+      },
+      {
+        "answer": "Eliab",
+        "answer_ar": "أليآب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c6c3260c-61a5-4f53-8b6e-1deca9c42655",
+    "question": "Who said to the Lord when He called, 'Speak, for Your servant hears'?",
+    "question_ar": "من قال للرب عندما ناداه: 'تكلّم يا رب لأن عبدك سامع'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.3.10"
+    ],
+    "answers": [
+      {
+        "answer": "Samuel",
+        "answer_ar": "صموئيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Moses",
+        "answer_ar": "موسى",
+        "isCorrect": false
+      },
+      {
+        "answer": "David",
+        "answer_ar": "داود",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9be7a43c-bb97-4f1e-8f27-5fd42ac0332d",
+    "question": "What name did the wife of Phinehas give their son who was born following the capture of the ark by the Philistines?",
+    "question_ar": "ما هو الاسم الذي أطلقته زوجة فينحاس على ابنها الذي وُلد بعد الاستيلاء على تابوت العهد من قبل الفلسطينيين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.4.21"
+    ],
+    "answers": [
+      {
+        "answer": "Ichabod",
+        "answer_ar": "إيخابود",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ishmael",
+        "answer_ar": "إسماعيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Issachar",
+        "answer_ar": "يساكر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a70141ef-259a-4442-ada5-2108c8f58a2f",
+    "question": "In what city did the ark of the Lord rest for twenty years after being returned from the Philistines?",
+    "question_ar": "في أي مدينة استقر تابوت الرب لمدة عشرين سنة بعد إعادته من الفلسطينيين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.7.2"
+    ],
+    "answers": [
+      {
+        "answer": "Kirjath Jearim",
+        "answer_ar": "قرية يعاريم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Shiloh",
+        "answer_ar": "شيلوه",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "80dbe78e-e3a2-43f4-b2a2-c3deebac969d",
+    "question": "Which of the following was one of the three cities on Samuel's judging circuit?",
+    "question_ar": "أي من المدن التالية كانت واحدة من ثلاث مدن في جولة القضاء الخاصة بصموئيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.7.16"
+    ],
+    "answers": [
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Hebron",
+        "answer_ar": "حبرون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Beersheba",
+        "answer_ar": "بئر سبع",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b7f6900e-4e25-4d48-b7b0-9c76c1cbe10f",
+    "question": "From what tribe in Israel did Saul, Israel’s first king, come?",
+    "question_ar": "من أي سبط في إسرائيل جاء شاول أول ملك لإسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.9.1-2"
+    ],
+    "answers": [
+      {
+        "answer": "Benjamin",
+        "answer_ar": "بنيامين",
+        "isCorrect": true
+      },
+      {
+        "answer": "Judah",
+        "answer_ar": "يهوذا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Reuben",
+        "answer_ar": "رأوبين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "774ca2b9-7a22-44ab-9db7-2589a697c2eb",
+    "question": "What was the hometown of Saul, the first king of Israel?",
+    "question_ar": "ما هي مدينة شاول أول ملك لإسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.10.26"
+    ],
+    "answers": [
+      {
+        "answer": "Gibeah",
+        "answer_ar": "جبعة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Gilead",
+        "answer_ar": "جِلْعاد",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gilgal",
+        "answer_ar": "الجلجال",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1b9d1e04-7fbe-4ed7-819d-6c79d31d2be0",
+    "question": "Where was Saul made king by the people?",
+    "question_ar": "أين نُصِّب شاول ملكًا من قبل الشعب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.11.15"
+    ],
+    "answers": [
+      {
+        "answer": "Gilgal",
+        "answer_ar": "الجلجال",
+        "isCorrect": true
+      },
+      {
+        "answer": "Gilead",
+        "answer_ar": "جلعاد",
+        "isCorrect": false
+      },
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fdbce143-7b4e-4b3d-a80d-e08dc62e1a81",
+    "question": "Which of Israel’s first three kings cut up two oxen and sent the pieces throughout Israel to call the men to fight against the Ammonites?",
+    "question_ar": "أي من أول ثلاثة ملوك في إسرائيل قطع ثورين وأرسل القطع في جميع أنحاء إسرائيل لدعوة الرجال للقتال ضد العمونيين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.11.6-7",
+      "1Sam.11.11"
+    ],
+    "answers": [
+      {
+        "answer": "Saul",
+        "answer_ar": "شاول",
+        "isCorrect": true
+      },
+      {
+        "answer": "David",
+        "answer_ar": "داود",
+        "isCorrect": false
+      },
+      {
+        "answer": "Solomon",
+        "answer_ar": "سليمان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "46867159-0727-47fc-88be-69a146db5a7a",
+    "question": "In what city did Saul sin by not waiting for Samuel to offer sacrifice, and thus forfeit God’s establishment of his kingdom?",
+    "question_ar": "في أي مدينة أخطأ شاول بعدم انتظاره لصموئيل ليقدم الذبيحة، وبهذا خسر تثبيت الله لمملكته؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.13.8-14"
+    ],
+    "answers": [
+      {
+        "answer": "Gilgal",
+        "answer_ar": "الجلجال",
+        "isCorrect": true
+      },
+      {
+        "answer": "Gilead",
+        "answer_ar": "جلعاد",
+        "isCorrect": false
+      },
+      {
+        "answer": "Geba",
+        "answer_ar": "جبع",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "29b0a34e-c5e2-413d-bffb-6f022cc2aa0e",
+    "question": "Who was the commander of Saul’s army?",
+    "question_ar": "من كان قائد جيش شاول؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.14.50",
+      "2Sam.3.30"
+    ],
+    "answers": [
+      {
+        "answer": "Abner",
+        "answer_ar": "أبنير",
+        "isCorrect": true
+      },
+      {
+        "answer": "Moab",
+        "answer_ar": "موآب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joab",
+        "answer_ar": "يوآب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e7897da1-6f4a-434f-9440-9f9847a31ce6",
+    "question": "What was the name of the king of Amalek whom Saul spared in disobedience to the Lord?",
+    "question_ar": "ما اسم ملك عماليق الذي عفا عنه شاول بعصيان للرب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.15.8"
+    ],
+    "answers": [
+      {
+        "answer": "Agag",
+        "answer_ar": "أجاج",
+        "isCorrect": true
+      },
+      {
+        "answer": "Amad",
+        "answer_ar": "عماد",
+        "isCorrect": false
+      },
+      {
+        "answer": "Dagon",
+        "answer_ar": "داجون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2bfe297e-c0fd-4658-b760-0e98a728e614",
+    "question": "Who said to King Saul, 'To obey is better than sacrifice'?",
+    "question_ar": "من قال للملك شاول: 'الطاعة أفضل من الذبيحة'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.15.22"
+    ],
+    "answers": [
+      {
+        "answer": "Samuel",
+        "answer_ar": "صموئيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "David",
+        "answer_ar": "داود",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jonathan",
+        "answer_ar": "يوناثان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9788acdc-cf45-4be0-8c6e-c12b36e0c0c5",
+    "question": "To whom did Samuel say, 'You have rejected the word of the LORD, and the LORD has rejected you from being king over Israel'?",
+    "question_ar": "لمن قال صموئيل: 'لأنك رفضت كلام الرب، رفضك الرب من أن تكون ملكًا على إسرائيل'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.15.26"
+    ],
+    "answers": [
+      {
+        "answer": "Saul",
+        "answer_ar": "شاول",
+        "isCorrect": true
+      },
+      {
+        "answer": "David",
+        "answer_ar": "داود",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jonathan",
+        "answer_ar": "يوناثان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dc8a4056-3b7e-40ad-8e70-8752290ad8f0",
+    "question": "Who 'hacked Agag in pieces before the LORD in Gilgal'?",
+    "question_ar": "من هو الذي قطع أجاج إربًا أمام الرب في الجلجال؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.15.33"
+    ],
+    "answers": [
+      {
+        "answer": "Samuel",
+        "answer_ar": "صموئيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "David",
+        "answer_ar": "داود",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joab",
+        "answer_ar": "يوآب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8d7e1292-00e0-43db-a4a5-68f33aef7cfc",
+    "question": "Who grabbed the edge of Samuel’s robe so he would not leave and it tore in his hand?",
+    "question_ar": "من أمسك طرف رداء صموئيل حتى لا يتركه فانشق في يده؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.15.27"
+    ],
+    "answers": [
+      {
+        "answer": "Saul",
+        "answer_ar": "شاول",
+        "isCorrect": true
+      },
+      {
+        "answer": "Eli",
+        "answer_ar": "عالي",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jesse",
+        "answer_ar": "يسى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "35ad4703-c2e4-42b7-92eb-63cc7a23ef0a",
+    "question": "What was Jesse’s hometown?",
+    "question_ar": "ما هي مدينة يسى؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.16.1"
+    ],
+    "answers": [
+      {
+        "answer": "Bethlehem",
+        "answer_ar": "بيت لحم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jerusalem",
+        "answer_ar": "أورشليم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b6cbcf7a-2335-412b-9615-0b189a7c97c2",
+    "question": "What two men did Samuel anoint as kings of Israel?",
+    "question_ar": "من هما الرجلان اللذان مسحهما صموئيل ملكين على إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.9.27-10.1",
+      "1Sam.16.13"
+    ],
+    "answers": [
+      {
+        "answer": "Saul and David",
+        "answer_ar": "شاول وداود",
+        "isCorrect": true
+      },
+      {
+        "answer": "Saul and Solomon",
+        "answer_ar": "شاول وسليمان",
+        "isCorrect": false
+      },
+      {
+        "answer": "David and Solomon",
+        "answer_ar": "داود وسليمان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f7990e27-8de3-447c-985c-7fa6ef1a7b7c",
+    "question": "In what city was David anointed king of Israel?",
+    "question_ar": "في أي مدينة مُسِح داود ملكًا على إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Sam.16.1-13"
+    ],
+    "answers": [
+      {
+        "answer": "Bethlehem",
+        "answer_ar": "بيت لحم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ramah",
+        "answer_ar": "الرامة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jerusalem",
+        "answer_ar": "أورشليم",
         "isCorrect": false
       }
     ]

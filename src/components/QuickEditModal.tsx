@@ -35,7 +35,7 @@ export function QuickEditModal({
   if (!open || !initial) return null;
 
   return (
-    <div className="fixed inset-0 z-50 bg-black bg-opacity-40 flex items-center justify-center overflow-y-auto top-0 mt-20 pt-70">
+    <div className="fixed inset-0 z-50 bg-black bg-opacity-40 flex items-center justify-center overflow-y-auto top-0  pt-70">
       <div className="bg-white p-6 rounded-xl max-w-2xl w-full shadow-2xl border border-gray-200 relative">
         <button
           onClick={onClose}
