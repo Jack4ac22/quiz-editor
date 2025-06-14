@@ -92,7 +92,7 @@ export function PreviewModal({
   }, [question.verses, bibleVersion]);
 
   return (
-    <div className="fixed inset-0 z-50 bg-black bg-opacity-40 flex items-center justify-center">
+    <div className="fixed inset-0 z-50 bg-black bg-opacity-40 flex items-center justify-center overflow-y-auto ">
       <div className="bg-white p-6 rounded-xl max-w-2xl w-full shadow-2xl border border-gray-200 relative">
         <button
           onClick={onClose}
@@ -390,8 +390,8 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
       >
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Question (EN)</label>
-          <input
-            type="text"
+          <textarea
+            // type="text"
             value={data.question}
             onChange={(e) => setData({ ...data, question: e.target.value })}
             className="p-2 border border-gray-300 rounded bg-gray-100 text-gray-700 w-full"
@@ -401,8 +401,8 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
 
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Question (AR)</label>
-          <input
-            type="text"
+          <textarea
+            // type="text"
             value={data.question_ar}
             onChange={(e) => setData({ ...data, question_ar: e.target.value })}
             className="p-2 border border-gray-300 rounded bg-gray-100 text-gray-700 w-full"

@@ -13,11 +13,20 @@ export async function GET(
   const { id } = params;
 
   const questions = await loadQuestions();
-  const question = questions.find((q: any) => q.id === id);
 
+  // check if the id is doublicated in the array of questions: filter the questions by id, if the length is more than one then the id is doublicated raise error and display the id
+  const doublicatedId = questions.filter((q: any) => q.id === id);
+  if (doublicatedId.length > 1) {
+    return Response.json({ error: 'Doublicated id' }, { status: 400 });
+  }
+
+
+  const question = questions.find((q: any) => q.id === id);
   if (!question) {
     return Response.json({ error: 'Question not found' }, { status: 404 });
   }
+
+
 
   return Response.json(question);
 }

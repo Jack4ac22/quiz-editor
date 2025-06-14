@@ -52,7 +52,7 @@ export default function HomePage() {
   const [quickEditQuestion, setQuickEditQuestion] = useState<Question | null>(null);
   const [quickPreviewQuestion, setQuickPreviewQuestion] = useState<Question | null>(null);
 
-  let [refreshing, setRefreshing] = useState(0);
+  const [refreshing, setRefreshing] = useState(true);
 
   // --- Sync URL with filter/search state ---
   useEffect(() => {
@@ -68,8 +68,7 @@ export default function HomePage() {
     if (current !== next) {
       router.replace('?' + next, { scroll: false });
     }
-    // eslint-disable-next-line
-  }, [selectedTypes, selectedTags, selectedStatuses, search]);
+  }, [selectedTypes, selectedTags, selectedStatuses, search, refreshing]);
 
 
   useEffect(() => {
@@ -93,7 +92,7 @@ export default function HomePage() {
         setTypes(Array.from(allTypes));
         setStatuses(Array.from(allStatuses));
       });
-  }, []);
+  }, [refreshing]);
 
   useEffect(() => {
     let data = [...questions];
@@ -124,7 +123,7 @@ export default function HomePage() {
     }
 
     setFiltered(data);
-  }, [search, selectedTypes, selectedTags, selectedStatuses, questions , refreshing]);
+  }, [search, selectedTypes, selectedTags, selectedStatuses, questions, refreshing]);
 
   const toggleSelection = (value: string, selected: string[], setSelected: (val: string[]) => void) => {
     if (selected.includes(value)) {
@@ -159,7 +158,8 @@ export default function HomePage() {
   };
   const closeQuickEdit = () => {
     setQuickEditId(null);
-    setQuickEditQuestion(null);
+    setQuickEditQuestion(null); setRefreshing(!refreshing);
+
   };
 
   const openQuickPreview = async (id: string) => {
@@ -180,7 +180,6 @@ export default function HomePage() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(updated),
     });
-    setRefreshing(refreshing++);
     closeQuickEdit();
   };
   const handleDelete = async (id: string) => {
@@ -198,34 +197,34 @@ export default function HomePage() {
   return (
     <main className="p-6 max-w-6xl mx-auto relative">
       {quickPreviewId && quickPreviewQuestion && (
-          <PreviewModal
-            question={quickPreviewQuestion}
-            open={!!quickPreviewId}
-            onClose={closeQuickPreview}
-          />
-        )}
-        {quickEditId && quickEditQuestion && (
-          <QuickEditModal
-            questionId={quickEditId}
-            open={!!quickEditId}
-            onClose={closeQuickEdit}
-            onSave={handleQuickSave}
-          />
-        )}
-        <div className="flex flex-wrap gap-4 mb-4">
-          <button
-            onClick={handleExportAll}
-            className="bg-green-600 hover:bg-green-700 text-white font-semibold px-4 py-2 rounded shadow"
-          >
-            Export All
-          </button>
-          <button
-            onClick={handleExportPublished}
-            className="bg-purple-600 hover:bg-purple-700 text-white font-semibold px-4 py-2 rounded shadow"
-          >
-            Export Published Only
-          </button>
-        </div>
+        <PreviewModal
+          question={quickPreviewQuestion}
+          open={!!quickPreviewId}
+          onClose={closeQuickPreview}
+        />
+      )}
+      {quickEditId && quickEditQuestion && (
+        <QuickEditModal
+          questionId={quickEditId}
+          open={!!quickEditId}
+          onClose={closeQuickEdit}
+          onSave={handleQuickSave}
+        />
+      )}
+      <div className="flex flex-wrap gap-4 mb-4">
+        <button
+          onClick={handleExportAll}
+          className="bg-green-600 hover:bg-green-700 text-white font-semibold px-4 py-2 rounded shadow"
+        >
+          Export All
+        </button>
+        <button
+          onClick={handleExportPublished}
+          className="bg-purple-600 hover:bg-purple-700 text-white font-semibold px-4 py-2 rounded shadow"
+        >
+          Export Published Only
+        </button>
+      </div>
       <div className="mb-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Type</label>
@@ -292,7 +291,50 @@ export default function HomePage() {
           />
         </div>
       </div>
+      {/* statistics */}
+      <div className="mb-6 flex flex-wrap gap-4 text-black dark:text-white">
+        <div>
+          {/* all questions count */}
+          <span className="block text-sm font-medium">All</span>
+          <span className="block text-lg font-semibold ">{questions.length}</span>
+        </div>
+        {/* draft questions count */}
+        <div>
+          <span className="block text-sm font-medium ">Draft</span>
+          <span className="block text-lg font-semibold ">{questions.filter((q) => q.status === 'draft').length}</span>
+        </div>
+        {/* translated questions count */}
+        <div>
+          <span className="block text-sm font-medium ">Translated</span>
+          <span className="block text-lg font-semibold ">{questions.filter((q) => q.status === 'translated').length}</span>
+        </div>
+        {/* proofread1 questions count */}
+        <div>
+          <span className="block text-sm font-medium ">Proofread1</span>
+          <span className="block text-lg font-semibold ">{questions.filter((q) => q.status === 'proofread1').length}</span>
+        </div>
+        {/* proofread2 questions count */}
+        <div>
+          <span className="block text-sm font-medium ">Proofread2</span>
+          <span className="block text-lg font-semibold ">{questions.filter((q) => q.status === 'proofread2').length}</span>
+        </div>
+        {/* published questions count */}
+        <div>
+          <span className="block text-sm font-medium ">Published</span>
+          <span className="block text-lg font-semibold ">{questions.filter((q) => q.status === 'published').length}</span>
+        </div>
+        {/* rejected questions count */}
+        <div>
+          <span className="block text-sm font-medium ">Rejected</span>
+          <span className="block text-lg font-semibold ">{questions.filter((q) => q.status === 'rejected').length}</span>
+        </div>
+        {/* displayed questions count */}
+        <div>
+          <span className="block text-sm font-medium ">Displayed</span>
+          <span className="block text-lg font-semibold ">{filtered.length}</span>
+        </div>
 
+      </div>
       <div className="overflow-auto rounded-lg shadow border border-gray-300">
         <table className="w-full table-auto text-sm text-left text-gray-700">
           <thead className="bg-blue-100 text-blue-800 uppercase">
@@ -320,21 +362,21 @@ export default function HomePage() {
                   </span>
                 </td>
                 <td className="px-4 py-2 border-b space-x-4">
-                 <button
-                      onClick={() => openQuickPreview(q.id)}
-                      className="text-yellow-600 hover:text-yellow-900 font-medium mr-2"
-                    >
-                      Preview
-                    </button>
-                    <button
-                      onClick={() => openQuickEdit(q.id)}
-                      className="text-orange-600 hover:text-orange-900 font-medium mr-2"
-                    >
-                      Quick Edit
-                    </button>
-                    <Link href={`/${q.id}`} className="text-green-600 hover:text-green-900 font-medium">
-                      Visit
-                    </Link>
+                  <button
+                    onClick={() => openQuickPreview(q.id)}
+                    className="text-yellow-600 hover:text-yellow-900 font-medium mr-2"
+                  >
+                    Preview
+                  </button>
+                  <button
+                    onClick={() => openQuickEdit(q.id)}
+                    className="text-orange-600 hover:text-orange-900 font-medium mr-2"
+                  >
+                    Quick Edit
+                  </button>
+                  <Link href={`/${q.id}`} className="text-green-600 hover:text-green-900 font-medium">
+                    Visit
+                  </Link>
                   <button
                     onClick={() => handleDelete(q.id)}
                     className="text-red-600 hover:text-red-800 font-medium"
