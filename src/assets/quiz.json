@@ -6144,7 +6144,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.3.22"
     ],
@@ -6177,7 +6177,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.4.7"
     ],
@@ -6202,7 +6202,7 @@
   {
     "id": "10a1f34f-e44b-4645-b5a1-73b1747e8c1e",
     "question": "God said He would blot out man, animals, creeping things, and birds from the land, because He was sorry that He had made them.",
-    "question_ar": "قال الله إنه سيمحو الإنسان والحيوان والدبابات وطيور السماء عن وجه الأرض لأنه ندم أنه خلقهم.",
+    "question_ar": "قال الله إنه سيمحو الانْسَانَ مَعَ بَهَائِمَ وَدَبَّابَاتٍ وَطُيُورِ السَّمَاءِ لأنه ندم أنه خلقهم.",
     "type": "True or False",
     "categories": [
       "History"
@@ -6210,10 +6210,9 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
-      "Gen.6.7",
-      "Gen.6.5"
+      "Gen.6.5-7"
     ],
     "answers": [
       {
@@ -6239,7 +6238,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.7.24"
     ],
@@ -6267,7 +6266,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.7.2-3",
       "Gen.8.20"
@@ -6301,7 +6300,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.8.7-12"
     ],
@@ -6451,7 +6450,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.17.15-16"
     ],
@@ -6484,7 +6483,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.17.24"
     ],
@@ -6517,7 +6516,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Gen.18.32"
     ],
@@ -6550,7 +6549,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.19.26"
     ],
@@ -6682,7 +6681,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.25.34"
     ],
@@ -6715,7 +6714,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.27.41"
     ],
@@ -6727,7 +6726,7 @@
       },
       {
         "answer": "Cheat him out of his possessions",
-        "answer_ar": "يخدعه في ممتلكاته",
+        "answer_ar": "ينازعه على ممتلكاته",
         "isCorrect": false
       },
       {
@@ -6781,7 +6780,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.32.28"
     ],
@@ -6814,7 +6813,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Gen.37.7",
       "Gen.37.9"
@@ -6848,7 +6847,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Gen.41.18-24"
     ],
@@ -6914,7 +6913,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Gen.50.20"
     ],
@@ -7046,7 +7045,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "exod.3.22"
     ],
@@ -7079,7 +7078,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "exod.4.3",
       "exod.4.6",
@@ -7147,7 +7146,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "exod.5.7",
       "exod.5.17"
@@ -7344,7 +7343,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "exod.12.7",
       "exod.12.18"
@@ -7608,7 +7607,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "exod.28.21",
       "exod.28.15-20"
@@ -7737,7 +7736,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "exod.31.13"
     ],
@@ -7770,7 +7769,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "exod.32.19"
     ],
@@ -7831,7 +7830,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "exod.34.13",
       "exod.34.15",
@@ -8094,10 +8093,9 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
-      "Num.13.33",
-      "Num.14.33"
+      "Num.13.33"
     ],
     "answers": [
       {
@@ -8323,7 +8321,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Josh.6.18",
       "Josh.6.19"
@@ -8357,7 +8355,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Josh.6.16"
     ],
@@ -8578,7 +8576,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Judg.13.4",
       "Judg.13.5",
@@ -8615,7 +8613,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Judg.19"
     ],
@@ -8852,7 +8850,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "1Sam.1.11"
     ],
@@ -8885,7 +8883,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "1Sam.2.26",
       "Luke.2.52"
@@ -9143,7 +9141,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "1Sam.8.20"
     ],
@@ -9276,7 +9274,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "1Sam.14.31-33",
       "Deut.12.16"
@@ -9294,7 +9292,7 @@
       },
       {
         "answer": "Bread",
-        "answer_ar": "الخبز",
+        "answer_ar": "الخبز المُخَمَّر",
         "isCorrect": false
       }
     ]
@@ -9571,7 +9569,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.21.4"
     ],
@@ -9638,7 +9636,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.18.12"
     ],
@@ -11768,7 +11766,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.2.24",
       "Eph.5.31"
@@ -11803,7 +11801,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.1.26"
     ],
@@ -11815,7 +11813,7 @@
       },
       {
         "answer": "He was to be ruled by them",
-        "answer_ar": "كان عليه أن يُسَيطر عليه من قبلهم",
+        "answer_ar": "كان عليه أن يخضع لها ويهابها",
         "isCorrect": false
       },
       {
@@ -11837,7 +11835,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.2.17"
     ],
@@ -11871,7 +11869,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.3.16"
     ],
@@ -11883,12 +11881,12 @@
       },
       {
         "answer": "Gardening",
-        "answer_ar": "البستنة",
+        "answer_ar": "الزراعة",
         "isCorrect": false
       },
       {
         "answer": "Sin",
-        "answer_ar": "الخطيئة",
+        "answer_ar": "ارتكاب الخطيئة",
         "isCorrect": false
       }
     ]
@@ -11905,7 +11903,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.6.18"
     ],
@@ -11939,7 +11937,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.8.22"
     ],
@@ -11973,7 +11971,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.9.3",
       "Gen.1.29"
@@ -11999,7 +11997,7 @@
   {
     "id": "2f6b81a1-9b55-496d-978e-230661e35656",
     "question": "How long was the rainbow to be a sign that God would not destroy every living creature by flood?",
-    "question_ar": "إلى متى كان القوس قزح علامة على أن الله لن يهلك كل مخلوق بالطوفان؟",
+    "question_ar": "إلى متى كان قوس قزح علامة على أن الله لن يهلك كل مخلوق بالطوفان؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -12008,7 +12006,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.9.16"
     ],
@@ -12042,7 +12040,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Gen.12.1-3",
       "Gen.13.14-16",
@@ -12080,7 +12078,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Gen.13.16"
     ],
@@ -12092,7 +12090,7 @@
       },
       {
         "answer": "Blades of grass in the ground",
-        "answer_ar": "شفرات العشب في الأرض",
+        "answer_ar": "أوراق العشب في الأرض",
         "isCorrect": false
       },
       {
@@ -12101,17 +12099,24 @@
         "isCorrect": false
       }
     ]
-  }
-,
+  },
   {
     "id": "bde0c626-130c-45f2-8e99-4e5d3c047b10",
     "question": "In a dream God revealed to Abram that his descendants would be strangers and serve in a land that was not theirs for how many years?",
-    "question_ar": "في حلم كشف الله لإبرام أن نسله سيكونون غرباء ويخدمون في أرض ليست لهم لمدة كم سنة؟",
+    "question_ar": "في حلم كشف الله لإبرام أن نسله سيكونون غرباء ويخدمون في أرض ليست لهم، ما هو عدد سنوات هذه الغربة؟",
     "type": "Multiple Choice",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.15.13", "Exod.12.40"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.15.13",
+      "Exod.12.40"
+    ],
     "answers": [
       {
         "answer": "400",
@@ -12135,10 +12140,17 @@
     "question": "On the same day God promised Abram an heir, He made a covenant with him, saying, 'To your descendants I have given this land, from the river of ______ to the great river, the River ______.'",
     "question_ar": "في نفس اليوم الذي وعد الله فيه أبرام بوريث، عقد معه عهدًا قائلاً: 'لنسلك أعطيتُ هذه الأرض، من نهر ______ إلى النهر الكبير، نهر ______.'",
     "type": "Multiple Choice",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.15.18"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Gen.15.18"
+    ],
     "answers": [
       {
         "answer": "Egypt ... Euphrates",
@@ -12146,7 +12158,7 @@
         "isCorrect": true
       },
       {
-        "answer": "الأردن ... النيل",
+        "answer": "Jordan ... Nile",
         "answer_ar": "الأردن ... النيل",
         "isCorrect": false
       },
@@ -12162,10 +12174,17 @@
     "question": "The Angel of the Lord said to Hagar, 'And you shall bear a son. You shall call his name Ishmael, Because ...'",
     "question_ar": "قال ملاك الرب لهاجر: 'وستلدين ابنًا وتدعين اسمه إسماعيل، لأن ...'",
     "type": "Multiple Choice",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.16.11"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.16.11"
+    ],
     "answers": [
       {
         "answer": "The LORD has heard your affliction",
@@ -12189,10 +12208,17 @@
     "question": "The sign of the covenant between Abraham and God was the circumcision of all males.",
     "question_ar": "علامة العهد بين إبراهيم والله كانت ختان كل الذكور.",
     "type": "True or False",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.17.10","Gen.17.11"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "gen.17.10-11"
+    ],
     "answers": [
       {
         "answer": "True",
@@ -12211,10 +12237,17 @@
     "question": "Only male blood relatives and male descendants of Abraham eight days and older were to be circumcised as the sign of God’s covenant with Abraham.",
     "question_ar": "كان ينبغي أن يُختن فقط الذكور الأقارب بالدم ونسل إبراهيم الذكور الذين تبلغ أعمارهم ثمانية أيام أو أكثر كعلامة لعهد الله مع إبراهيم.",
     "type": "True or False",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.17.13"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.17.13"
+    ],
     "answers": [
       {
         "answer": "True",
@@ -12233,10 +12266,18 @@
     "question": "Sarah laughed when the Lord said she would have a child.",
     "question_ar": "ضحكت سارة عندما قال الرب إنها ستلد طفلاً.",
     "type": "True or False",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.18.10-12","Gen.18.14"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.18.10-12",
+      "Gen.18.14"
+    ],
     "answers": [
       {
         "answer": "True",
@@ -12255,10 +12296,17 @@
     "question": "God promised Abraham, 'Yet I will also make a ______ of the son of the bondwoman, because he is your seed.'",
     "question_ar": "وعد الله إبراهيم: 'وأيضًا ابن الجارية سأجعله ______ لأنه من نسلك.'",
     "type": "Multiple Choice",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.21.13"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Gen.21.13"
+    ],
     "answers": [
       {
         "answer": "Nation",
@@ -12282,10 +12330,17 @@
     "question": "What did Abraham give Abimelech as a sign of the covenant between them?",
     "question_ar": "ماذا أعطى إبراهيم لأبيمالك كعلامة للعهد بينهما؟",
     "type": "Multiple Choice",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.21.30"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.21.30"
+    ],
     "answers": [
       {
         "answer": "Seven ewe lambs",
@@ -12307,26 +12362,34 @@
   {
     "id": "5dcd519a-ec7c-48da-86d2-1fd7ed96e190",
     "question": "God promised Abraham that because he had obeyed concerning Isaac, 'In your seed all the nations of the earth shall be ______, because you have obeyed My voice.'",
-    "question_ar": "وعد الله إبراهيم أنه بسبب طاعته في موضوع إسحاق، 'وفي نسلك تتبارك جميع أمم الأرض، لأنك سمعت لقولي.'",
+    "question_ar": "وعد الله إبراهيم أنه بسبب طاعته في موضوع إسحاق، 'وفي نسلك _____ جميع أمم الأرض، لأنك سمعت لقولي.'",
     "type": "Multiple Choice",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.22.18","Gal.3.16-22"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.22.18",
+      "Gal.3.16-22"
+    ],
     "answers": [
       {
         "answer": "Blessed",
-        "answer_ar": "مباركة",
+        "answer_ar": "تتبارك",
         "isCorrect": true
       },
       {
         "answer": "Saved",
-        "answer_ar": "مخلَّصة",
+        "answer_ar": "تُخَلَّص",
         "isCorrect": false
       },
       {
         "answer": "Judged",
-        "answer_ar": "محكوم عليها",
+        "answer_ar": "تُدان",
         "isCorrect": false
       }
     ]
@@ -12334,12 +12397,19 @@
   {
     "id": "e3dbb7c8-96ab-40e6-82f1-8f3c48e8ff39",
     "question": "Abraham made his servant swear that he would not choose Isaac’s wife from among the ______ but from his father’s house.",
-    "question_ar": "جعل إبراهيم عبده يحلف ألا يأخذ زوجة لإسحاق من الـ______ بل من بيت أبيه.",
+    "question_ar": "جعل إبراهيم عبده يحلف ألا يأخذ زوجة لإسحاق من ______ بل من بيت أبيه.",
     "type": "Multiple Choice",
-    "categories": ["History"],
-    "tags": ["Law", "Promise"],
-    "status": "draft",
-    "verses": ["Gen.24.37","Gen.24.38"],
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.24.37-38"
+    ],
     "answers": [
       {
         "answer": "Canaanites",
@@ -12354,6 +12424,5158 @@
       {
         "answer": "المصريين",
         "answer_ar": "المصريين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ac2999f2-f1c6-45ae-98a9-62e166b201e0",
+    "question": "Whose birth was God announcing when He said, 'Two nations are in your womb, … One people shall be stronger than the other, And the older shall serve the younger'?",
+    "question_ar": "عن ولادة من كان الله يعلن عندما قال: 'في بطنك أمتان... شَعْبٌ يَقْوَى عَلَى شَعْبٍ وَكَبِيرٌ يُسْتَعْبَدُ لِصَغِيرٍ'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.25.23-26"
+    ],
+    "answers": [
+      {
+        "answer": "Esau and Jacob",
+        "answer_ar": "عيسو ويعقوب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Cain and Abel",
+        "answer_ar": "قايين وهابيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Manasseh and Ephraim",
+        "answer_ar": "منسى وأفرايم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7e6fd142-2d52-4937-9982-8f2c30be3cf0",
+    "question": "In his blessing to Esau, Isaac said, 'By your ______ you shall live.'",
+    "question_ar": "في بركته لعيسو، قال إسحاق: 'بـ ______ تعيش.'",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.27.40"
+    ],
+    "answers": [
+      {
+        "answer": "Sword",
+        "answer_ar": "سيفك",
+        "isCorrect": true
+      },
+      {
+        "answer": "عملك",
+        "answer_ar": "عملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "أرضك",
+        "answer_ar": "أرضك",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3060d9ea-43ee-4a30-8256-3268cf34f2d9",
+    "question": "What did Laban and Jacob erect as a witness that neither would pass to harm the other one?",
+    "question_ar": "ماذا أقام لابان ويعقوب كشاهد أن لا يتجاوز أحدهما ليؤذي الآخر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Gen.31.46",
+      "Gen.31.51-52"
+    ],
+    "answers": [
+      {
+        "answer": "A pillar of stone",
+        "answer_ar": "عمود من حجر",
+        "isCorrect": true
+      },
+      {
+        "answer": "A pillar of salt",
+        "answer_ar": "عمود من ملح",
+        "isCorrect": false
+      },
+      {
+        "answer": "A pillar of gold",
+        "answer_ar": "عمود من معدن",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6a8d2f7e-7781-4101-a76a-6ff7db2be324",
+    "question": "God changed Jacob’s name to ______ and said to him, 'Be fruitful and multiply; a nation and a company of nations shall proceed from you, and ______ shall come from your body.'",
+    "question_ar": "غير الله اسم يعقوب إلى ______ وقال له: 'اثمر وأكثر، أمة وجماعة أمم تخرج منك و______ يخرجون من صلبك.'",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Gen.35.10",
+      "Gen.35.11",
+      "Gen.32.28"
+    ],
+    "answers": [
+      {
+        "answer": "Israel … kings",
+        "answer_ar": "إسرائيل ... ملوك",
+        "isCorrect": true
+      },
+      {
+        "answer": "يعقوب ... كهنة",
+        "answer_ar": "يعقوب ... كهنة",
+        "isCorrect": false
+      },
+      {
+        "answer": "إسرائيل ... أسباط",
+        "answer_ar": "إسرائيل ... أسباط",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "25d9746c-b0a6-414c-abb3-c23dd8443c7b",
+    "question": "On the sixth day of the week how much more manna were the Israelites to gather than on the five preceding days?",
+    "question_ar": "في اليوم السادس من الأسبوع كم كمية المن كان على بني إسرائيل أن يجمعوا أكثر من الأيام الخمسة السابقة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Exod.16.22"
+    ],
+    "answers": [
+      {
+        "answer": "Two times",
+        "answer_ar": "ضعفين",
+        "isCorrect": true
+      },
+      {
+        "answer": "Three times",
+        "answer_ar": "ثلاثة أضعاف",
+        "isCorrect": false
+      },
+      {
+        "answer": "Four times",
+        "answer_ar": "أربعة أضعاف",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "997f57a7-06ce-4b30-8832-6dbff5e5c9b0",
+    "question": "When the people of Israel heard the conditions of God’s covenant they complained that it was too demanding and murmured against Moses.",
+    "question_ar": "عندما سمع شعب إسرائيل شروط عهد الله تذمروا قائلين إنها صعبة جدًا واعترضوا على موسى.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Exod.19.8"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "5523efc6-15c1-43d5-9086-b6ba22e5f803",
+    "question": "The first of the Ten Commandments states, 'You shall have no other …'",
+    "question_ar": "الوصية الأولى من الوصايا العشر تقول: 'لا يكن لك آلهة ______.'",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Exod.20.3"
+    ],
+    "answers": [
+      {
+        "answer": "Gods before Me",
+        "answer_ar": "أخرى أمامي",
+        "isCorrect": true
+      },
+      {
+        "answer": "رب آخر",
+        "answer_ar": "رب آخر",
+        "isCorrect": false
+      },
+      {
+        "answer": "وصايا سواي",
+        "answer_ar": "وصايا سواي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eabf6242-f62f-4c08-bcf6-e9309cf82ae2",
+    "question": "When God commanded the children of Israel to keep the Sabbath, He cited the events of ______ as a precedent for their behavior.",
+    "question_ar": "عندما أمر الله بني إسرائيل أن يحفظوا السبت، استشهد بأحداث ______ كأساس لهذا السلوك.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Exod.20.11"
+    ],
+    "answers": [
+      {
+        "answer": "Creation",
+        "answer_ar": "الخلق",
+        "isCorrect": true
+      },
+      {
+        "answer": "الخروج من مصر",
+        "answer_ar": "الخروج من مصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "المن والسلوى",
+        "answer_ar": "المن والسلوى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "06a169bc-772e-4bc7-8a15-486c3032783b",
+    "question": "“Honor your ______ and your ______, that your days may be long upon the land which the LORD your God is giving you.”",
+    "question_ar": "«أكرم أباك وأمك لكي تطول أيامك على الأرض التي يعطيك الرب إلهك.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Exod.20.12",
+      "Eph.6.2"
+    ],
+    "answers": [
+      {
+        "answer": "Father … mother",
+        "answer_ar": "أباك ... أمك",
+        "isCorrect": true
+      },
+      {
+        "answer": "أخيك ... أختك",
+        "answer_ar": "أخيك ... أختك",
+        "isCorrect": false
+      },
+      {
+        "answer": "ابنك ... ابنتك",
+        "answer_ar": "ابنك ... ابنتك",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d79028a2-fb8e-4b2c-8a02-13bafdd65e2e",
+    "question": "God’s regard for the sanctity of human life is revealed in the commandment 'You shall not …'",
+    "question_ar": "يظهر تقدير الله لقداسة الحياة الإنسانية في الوصية: 'لا ______.'",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Exod.20.13"
+    ],
+    "answers": [
+      {
+        "answer": "Murder",
+        "answer_ar": "تقتل",
+        "isCorrect": true
+      },
+      {
+        "answer": "تسرق",
+        "answer_ar": "تسرق",
+        "isCorrect": false
+      },
+      {
+        "answer": "تكذب",
+        "answer_ar": "تكذب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cdced168-ef99-4d40-92a5-c22ec76be392",
+    "question": "That God expected a man to respect the marriage relationship is evident in the commandment “You shall not commit ______.”",
+    "question_ar": "يتضح أن الله يطلب من الإنسان احترام علاقة الزواج في الوصية: «لا تزنِ». ما هي الكلمة الناقصة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Exod.20.14",
+      "Lev.20.10-12"
+    ],
+    "answers": [
+      {
+        "answer": "Adultery",
+        "answer_ar": "الزنا",
+        "isCorrect": true
+      },
+      {
+        "answer": "قتل",
+        "answer_ar": "قتل",
+        "isCorrect": false
+      },
+      {
+        "answer": "سرقة",
+        "answer_ar": "سرقة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5fc11365-1a87-426c-97b0-06df79f121ed",
+    "question": "That God expected a man to respect another man’s property is evident in the commandment “You shall not: (a) Murder; (b) steal; or (c) take the Lord’s name in vain.”",
+    "question_ar": "أن الله يتوقع من الإنسان احترام ملكية غيره واضح في الوصية: «لا (أ) تقتل؛ (ب) تسرق؛ (ج) تحلف باسم الرب باطلاً.» أي واحدة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Exod.20.15"
+    ],
+    "answers": [
+      {
+        "answer": "Steal",
+        "answer_ar": "تسرق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Murder",
+        "answer_ar": "تقتل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Take the Lord’s name in vain",
+        "answer_ar": "تحلف باسم الرب باطلاً",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5fc05dc7-ef7f-4bc8-8d81-13a8e417e1b8",
+    "question": "If one gossips, he runs the risk of breaking the commandment “You shall not …”",
+    "question_ar": "إذا اغتاب الإنسان، فقد يخالف الوصية: «لا ______ على قريبك شهادة زور».",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Exod.20.16"
+    ],
+    "answers": [
+      {
+        "answer": "Bear false witness against your neighbor",
+        "answer_ar": "تشهد على قريبك شهادة زور",
+        "isCorrect": true
+      },
+      {
+        "answer": "تقتل",
+        "answer_ar": "تقتل",
+        "isCorrect": false
+      },
+      {
+        "answer": "تشتهي",
+        "answer_ar": "تشتهي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4b3d1283-b3be-4c9c-aad7-df2a8935b378",
+    "question": "For which offense was a man not put to death?",
+    "question_ar": "لأي جريمة لم يكن يُحكم على الرجل بالموت؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Exod.21.26"
+    ],
+    "answers": [
+      {
+        "answer": "Striking out the eye of a servant",
+        "answer_ar": "فقأ عين عبد",
+        "isCorrect": true
+      },
+      {
+        "answer": "Striking his father or mother",
+        "answer_ar": "ضرب أبيه أو أمه",
+        "isCorrect": false
+      },
+      {
+        "answer": "Kidnapping and selling a man",
+        "answer_ar": "خطف وبيع إنسان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6a97f7ee-9a2a-4b30-82ef-614bacebcf46",
+    "question": "If a man lent money to a fellow Hebrew who was poor, he was not allowed to:",
+    "question_ar": "إذا أقرض رجل مالاً لعبراني فقير، لم يكن مسموحًا له أن:",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Exod.22.25"
+    ],
+    "answers": [
+      {
+        "answer": "Charge interest",
+        "answer_ar": "يأخذ فائدة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Collect it back",
+        "answer_ar": "يسترده",
+        "isCorrect": false
+      },
+      {
+        "answer": "Set a time limit on repayment",
+        "answer_ar": "يحدد فترة للسداد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2ebae769-ec21-47d3-870d-2c1f7a122f21",
+    "question": "Concerning proper justice the Israelites were commanded: “You shall take no ______, for a ______ blinds the discerning and perverts the words of the righteous.”",
+    "question_ar": "بخصوص العدالة الصحيحة، أُمر بنو إسرائيل: «لا تأخذوا ______ لأن ______ يعمي المبصرين ويعوج كلام الأبرار.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Exod.23.8"
+    ],
+    "answers": [
+      {
+        "answer": "Bribe … bribe",
+        "answer_ar": "رشوة ... رشوة",
+        "isCorrect": true
+      },
+      {
+        "answer": "مال ... ذهب",
+        "answer_ar": "مال ... ذهب",
+        "isCorrect": false
+      },
+      {
+        "answer": "هدايا ... شهوة",
+        "answer_ar": "هدايا ... شهوة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ddbb6f29-5dc1-43c2-880f-cd290b3ef29c",
+    "question": "All grain offerings, baked or unbaked, must have ______ on them and be seasoned with ______.",
+    "question_ar": "كل تقدمة من الدقيق، مخبوزة أو غير مخبوزة، يجب أن يُصب عليها ______ وتُمَلَّح بـ______.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Lev.2.1",
+      "Lev.2.13"
+    ],
+    "answers": [
+      {
+        "answer": "Oil … salt",
+        "answer_ar": "زيت ... ملح",
+        "isCorrect": true
+      },
+      {
+        "answer": "زيت ... خميرة",
+        "answer_ar": "زيت ... خميرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "دقيق ... ماء",
+        "answer_ar": "دقيق ... ماء",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b7bdf9ea-3d3c-44e4-a4b6-d1ecfc760e03",
+    "question": "Burnt offerings of livestock could be either male or female, but peace offerings of livestock had to be male.",
+    "question_ar": "كان يمكن أن يكون المحرقة من المواشي ذكرًا أو أنثى، لكن كان يجب أن يكون ذبيحة السلامة ذكرًا فقط.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.1.3",
+      "Lev.3.1"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "96543c48-58d7-46ea-b90e-48f0a3b4d8ed",
+    "question": "If any ruler sinned unintentionally, what must he offer as a sin offering?",
+    "question_ar": "إذا أخطأ رئيس عن غير عمد، ماذا عليه أن يقدم كذبيحة خطية؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.4.22-23"
+    ],
+    "answers": [
+      {
+        "answer": "A kid",
+        "answer_ar": "تيس",
+        "isCorrect": true
+      },
+      {
+        "answer": "A young bull",
+        "answer_ar": "عجل صغير",
+        "isCorrect": false
+      },
+      {
+        "answer": "A ram",
+        "answer_ar": "كبش",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "50d9ad60-5f6a-49b1-8b80-e49a9628c004",
+    "question": "The daily grain offering of Aaron and his sons was to be one-fifth burned and the rest eaten.",
+    "question_ar": "كان يجب أن يُحرق خمس تقدمة الدقيق اليومية لهرون وبنيه ويؤكل الباقي.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.6.23"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c6a7009c-f11a-4d15-9d2b-779d97423c61",
+    "question": "No one was to eat any ______ or ______ from a sacrificed animal.",
+    "question_ar": "لم يكن لأحد أن يأكل أي ______ أو ______ من الذبيحة.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Lev.7.25",
+      "Lev.7.26",
+      "Lev.3.16",
+      "Lev.17.14"
+    ],
+    "answers": [
+      {
+        "answer": "Fat … blood",
+        "answer_ar": "شحم ... دم",
+        "isCorrect": true
+      },
+      {
+        "answer": "لحم ... جلد",
+        "answer_ar": "لحم ... جلد",
+        "isCorrect": false
+      },
+      {
+        "answer": "عظم ... نخاع",
+        "answer_ar": "عظم ... نخاع",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "19e8b775-d7a7-4d7a-8f6d-1705087805eb",
+    "question": "In the consecration for the priesthood, Aaron and his sons were to stay in the tabernacle for how many days?",
+    "question_ar": "في تكريس الكهنوت، كان على هارون وبنيه أن يمكثوا في خيمة الاجتماع كم يومًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.8.33"
+    ],
+    "answers": [
+      {
+        "answer": "Seven",
+        "answer_ar": "سبعة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Three",
+        "answer_ar": "ثلاثة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ten",
+        "answer_ar": "عشرة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ff4791f0-d8cd-4bc7-b33a-b82ad185c2f1",
+    "question": "The children of Israel were allowed to eat all animals that were either cud-chewing or had cloven hooves.",
+    "question_ar": "كان مسموحًا لبني إسرائيل أن يأكلوا جميع الحيوانات التي تجتر أو مشقوقة الظلف.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.11.3",
+      "Lev.11.4"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d0b67d42-71b5-4f29-82a5-b083f6eaa6d3",
+    "question": "Which of the following birds were the Israelites not prohibited to eat?",
+    "question_ar": "أي من الطيور التالية لم يُحرم على بني إسرائيل أكلها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.11.13-19"
+    ],
+    "answers": [
+      {
+        "answer": "Pigeon",
+        "answer_ar": "الحمام",
+        "isCorrect": true
+      },
+      {
+        "answer": "Short-eared owl",
+        "answer_ar": "البومة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Buzzard",
+        "answer_ar": "الرَّخَمُ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e4219d34-3081-48c6-b665-4e2545015403",
+    "question": "The Hebrew dietary laws forbade eating locusts.",
+    "question_ar": "حرمت الشريعة العبرية أكل الجراد.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.11.22"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "31cb90a4-9f9a-4e80-883d-3f2c3cbe43b2",
+    "question": "When the days of purification were completed for a woman who had given birth, she had to make a ______ offering and a ______ offering before the Lord.",
+    "question_ar": "عند اكتمال أيام تطهير المرأة التي ولدت، كان عليها أن تقدم ______ و______ أمام الرب.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Lev.12.6"
+    ],
+    "answers": [
+      {
+        "answer": "Burnt … sin",
+        "answer_ar": "محرقة ... خطية",
+        "isCorrect": true
+      },
+      {
+        "answer": "شكر ... محرقة",
+        "answer_ar": "شكر ... محرقة",
+        "isCorrect": false
+      },
+      {
+        "answer": "سلامة ... دقيق",
+        "answer_ar": "سلامة ... دقيق",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c797dd87-bd41-4db0-899a-7fd0a6a79ca3",
+    "question": "What ailment or condition were the priests looking for when they examined the peoples’ skin for sores, boils, burns, bright spots, and so on?",
+    "question_ar": "أي مرض أو حالة كان يبحث عنها الكهنة عندما يفحصون جلد الناس من حيث القروح أو الدمامل أو الحروق أو البقع اللامعة وغيرها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.13.1-46"
+    ],
+    "answers": [
+      {
+        "answer": "Leprosy",
+        "answer_ar": "البرص",
+        "isCorrect": true
+      },
+      {
+        "answer": "Psoriasis",
+        "answer_ar": "الصدفية",
+        "isCorrect": false
+      },
+      {
+        "answer": "Age spots",
+        "answer_ar": "بقع العمر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ebbd7bb2-f458-4b4f-b188-1d22f56f161e",
+    "question": "God instructed Moses and Aaron concerning the man whose hair was gone, “As for the man whose hair has fallen from his head, he is ______, but he is clean.”",
+    "question_ar": "أوصى الله موسى وهارون بشأن الرجل الذي تساقط شعره: «أما الرجل الذي سقط شعر رأسه، فهو ______ لكنه طاهر.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Lev.13.40"
+    ],
+    "answers": [
+      {
+        "answer": "Bald",
+        "answer_ar": "أصلع",
+        "isCorrect": true
+      },
+      {
+        "answer": "نجس",
+        "answer_ar": "نجس",
+        "isCorrect": false
+      },
+      {
+        "answer": "أبرص",
+        "answer_ar": "أبرص",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e8a53c53-47fd-4d70-a317-9daae231d76d",
+    "question": "The Hebrew law made no distinction in permissible sacrifices between those who could afford them and those who couldn’t.",
+    "question_ar": "الشريعة العبرية لم تميز في الذبائح بين الغني والفقير.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.14.21"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b599398b-eab0-4769-8a35-1fa2e0e017f0",
+    "question": "The priest had to take the blood of the trespass offering and put some of it three places on the man being cleansed of leprosy. Which of these was not one of those places?",
+    "question_ar": "كان يجب على الكاهن أن يضع من دم ذبيحة الإثم في ثلاثة مواضع على الذي يُطَهَّر من البرص. أي من هذه المواضع لم يكن واحدًا منها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.14.14"
+    ],
+    "answers": [
+      {
+        "answer": "Right knee",
+        "answer_ar": "الركبة اليمنى",
+        "isCorrect": true
+      },
+      {
+        "answer": "Tip of the right ear",
+        "answer_ar": "طرف الأذن اليمنى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Big toe of the right foot",
+        "answer_ar": "إبهام الرجل اليمنى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eccf406d-df8c-4f45-a8aa-5ebef8d5c3c7",
+    "question": "Of what were the holy garments of the high priest made?",
+    "question_ar": "من ماذا كانت تُصنع ملابس رئيس الكهنة المقدسة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.16.4"
+    ],
+    "answers": [
+      {
+        "answer": "Linen",
+        "answer_ar": "كتان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Wool",
+        "answer_ar": "صوف",
+        "isCorrect": false
+      },
+      {
+        "answer": "Silk",
+        "answer_ar": "حرير",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b02a9906-179e-4100-8ba8-0e1b287db26c",
+    "question": "How did Aaron identify which goat was the Lord’s and which was the scapegoat?",
+    "question_ar": "كيف كان يميز هارون بين تيس الرب وتيس عزازيل (التيس الحامل للخطية)؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.16.8"
+    ],
+    "answers": [
+      {
+        "answer": "By casting lots",
+        "answer_ar": "بالقرعة",
+        "isCorrect": true
+      },
+      {
+        "answer": "By their color",
+        "answer_ar": "بلونهما",
+        "isCorrect": false
+      },
+      {
+        "answer": "By their size",
+        "answer_ar": "بحجمهما",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "beb52723-b239-423c-9787-2862ac0a3550",
+    "question": "What must the high priest put on the fire inside the veil so that the cloud of it may cover the mercy seat?",
+    "question_ar": "ما الذي كان يجب أن يضعه رئيس الكهنة عَلَى النَّارِ امَامَ الرَّبِّ فَتُغَشِّي سَحَابَةُ الْبَخُورِ الْغِطَاءَ الَّذِي عَلَى الشَّهَادَة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.16.13"
+    ],
+    "answers": [
+      {
+        "answer": "Incense",
+        "answer_ar": "بخور",
+        "isCorrect": true
+      },
+      {
+        "answer": "Blood",
+        "answer_ar": "دم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Myrrh",
+        "answer_ar": "مرّ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e23c32ae-3800-43f8-b6e1-8f57bbecf2be",
+    "question": "On what are the sins of the children of Israel placed to make atonement for them?",
+    "question_ar": "على أي شيء كانت توضع خطايا بني إسرائيل للتكفير عنهم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.16.21",
+      "Lev.16.22"
+    ],
+    "answers": [
+      {
+        "answer": "A scapegoat",
+        "answer_ar": "تيس عزازيل (التيس الحامل للخطية)",
+        "isCorrect": true
+      },
+      {
+        "answer": "The mercy seat",
+        "answer_ar": "غطاء الرحمة",
+        "isCorrect": false
+      },
+      {
+        "answer": "The bronze altar",
+        "answer_ar": "مذبح النحاس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "244c4296-6d8f-4ef6-8ed4-1a1a8603a4b5",
+    "question": "How often did the high priest make atonement for the sins of the children of Israel so that they might be clean before the Lord?",
+    "question_ar": "كم مرة في السنة كان رئيس الكهنة يكفر عن خطايا بني إسرائيل لكي يكونوا أنقياء أمام الرب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.16.34"
+    ],
+    "answers": [
+      {
+        "answer": "Once a year",
+        "answer_ar": "مرة في السنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Once a week",
+        "answer_ar": "مرة في الأسبوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Once a month",
+        "answer_ar": "مرة في الشهر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "05beaf7b-16c5-42e7-9990-20e29c08095a",
+    "question": "The children of Israel were forbidden to eat blood, “for the life …”",
+    "question_ar": "كان محرمًا على بني إسرائيل أكل الدم، لأن الحياة ...",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.17.11"
+    ],
+    "answers": [
+      {
+        "answer": "Of the flesh is in the blood",
+        "answer_ar": "جسد كل حي في دمه",
+        "isCorrect": true
+      },
+      {
+        "answer": "من الرب",
+        "answer_ar": "من الرب",
+        "isCorrect": false
+      },
+      {
+        "answer": "هي عطية مجانية",
+        "answer_ar": "هي عطية مجانية",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "69f03277-87b4-44b8-85e3-7b2c84f11e17",
+    "question": "God commanded the Israelites to wholly reap the corners of their fields and to gather the gleanings of their harvest to be given to the poor.",
+    "question_ar": "أمر الله بني إسرائيل أن يحصدوا زوايا حقولهم بالكامل وأن يجمعوا السنابل الساقطة ويعطوها للفقراء.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Lev.19.9-10"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "08b0f08e-5bc9-4be8-b2e3-109c25e5bdb7",
+    "question": "A four-word reminder is repeated after many of the laws that the Lord gave Moses and His people: “Therefore you shall observe all My statutes and all My judgments, and perform them: ______ ______ ______ ______.”",
+    "question_ar": "عبارة من أربع كلمات تتكرر بعد كثير من الشرائع التي أعطاها الرب لموسى وشعبه: «فتحفظون جميع فرائضي وأحكامي وتعملونها: ______ ______ ______ ______.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.19.37"
+    ],
+    "answers": [
+      {
+        "answer": "I am the LORD",
+        "answer_ar": "أنا الرب",
+        "isCorrect": true
+      },
+      {
+        "answer": "الرب هو قدوس",
+        "answer_ar": "الرب هو قدوس",
+        "isCorrect": false
+      },
+      {
+        "answer": "تكونون لي شعبًا",
+        "answer_ar": "تكونون لي شعبًا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9be4e634-f0d8-4b06-97f5-f943de031d16",
+    "question": "The purpose of the laws of sanctification of the people was to set the Israelites apart from the peoples around them so that they would be holy to the Lord.",
+    "question_ar": "هدف شرائع التقديس للشعب هو تمييز بني إسرائيل عن الشعوب حولهم ليكونوا مقدسين للرب.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.20.26"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "71d3d5bb-6e89-4845-a352-7df6075ea919",
+    "question": "The high priest was forbidden to marry a divorced or defiled woman or a harlot, but he could marry a widow.",
+    "question_ar": "كان يحظر على رئيس الكهنة أن يتزوج مطلقة أو مدنسة أو زانية، لكنه كان يستطيع الزواج بأرملة.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.21.14"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cc2d7ad0-fde3-4e2e-9df2-6ee2fd5ee29a",
+    "question": "Animals with defects could not be offered as burnt offerings.",
+    "question_ar": "لا يمكن تقديم الحيوانات المعيبة كذبائح محرقة.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.22.18-20"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "52cbcb5c-5c10-43c5-8b53-47f8ad1e3bca",
+    "question": "The weekly feast of the Lord which the Israelites were to observe was the ______.",
+    "question_ar": "العيد الأسبوعي للرب الذي كان يجب على بني إسرائيل حفظه هو ______.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.23.2",
+      "Lev.23.3"
+    ],
+    "answers": [
+      {
+        "answer": "Sabbath",
+        "answer_ar": "السبت",
+        "isCorrect": true
+      },
+      {
+        "answer": "الفصح",
+        "answer_ar": "الفصح",
+        "isCorrect": false
+      },
+      {
+        "answer": "عيد المظال",
+        "answer_ar": "عيد المظال",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "97b189a5-7279-43b0-bd31-3c92a58b2ad9",
+    "question": "Which feast of the Lord began on the fourteenth day of the first month at twilight?",
+    "question_ar": "أي عيد من أعياد الرب بدأ في اليوم الرابع عشر من الشهر الأول عند الغروب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.23.5"
+    ],
+    "answers": [
+      {
+        "answer": "The Passover",
+        "answer_ar": "عيد الفصح",
+        "isCorrect": true
+      },
+      {
+        "answer": "Unleavened Bread",
+        "answer_ar": "عيد الفطير",
+        "isCorrect": false
+      },
+      {
+        "answer": "Pentecost",
+        "answer_ar": "عيد الخمسين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "76e41007-2fa0-44d2-b7e2-c1c37ce89a0b",
+    "question": "Which feast served as a reminder of the Israelites’ tent-dwelling days following their deliverance from the Egyptians?",
+    "question_ar": "أي عيد كان تذكارًا لأيام سكن بني إسرائيل في الخيام بعد خلاصهم من المصريين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.23.34",
+      "Lev.23.42",
+      "Lev.23.43"
+    ],
+    "answers": [
+      {
+        "answer": "The Feast of Tabernacles",
+        "answer_ar": "عيد المظال",
+        "isCorrect": true
+      },
+      {
+        "answer": "Feast of Trumpets",
+        "answer_ar": "عيد الأبواق",
+        "isCorrect": false
+      },
+      {
+        "answer": "Pentecost",
+        "answer_ar": "عيد الخمسين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d3c4f33f-c06d-4a4c-9f57-04cf4f48bcf5",
+    "question": "The Year of Jubilee occurred every ______ year, according to Jewish law.",
+    "question_ar": "سنة اليوبيل كانت تحدث كل ______ سنة بحسب الشريعة اليهودية.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.25.10"
+    ],
+    "answers": [
+      {
+        "answer": "Fiftieth",
+        "answer_ar": "خمسين",
+        "isCorrect": true
+      },
+      {
+        "answer": "سبع",
+        "answer_ar": "سبع",
+        "isCorrect": false
+      },
+      {
+        "answer": "مئة",
+        "answer_ar": "مئة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7a328f5e-fc20-4c0e-9de3-09fd5e20bfa5",
+    "question": "What group of people were the Israelites not allowed to keep as slaves?",
+    "question_ar": "أي مجموعة من الناس لم يكن مسموحًا لبني إسرائيل استعبادهم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.25.39",
+      "Lev.25.42"
+    ],
+    "answers": [
+      {
+        "answer": "Israelites",
+        "answer_ar": "الإسرائيليين",
+        "isCorrect": true
+      },
+      {
+        "answer": "Canaanites",
+        "answer_ar": "الكنعانيين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Edomites",
+        "answer_ar": "الأدوميين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3819d544-5db7-400e-b244-dc0030fc272e",
+    "question": "Which of the following would not result from the Israelites disobeying God’s commandments?",
+    "question_ar": "أي من التالي لن يكون نتيجة لعصيان بني إسرائيل لوصايا الله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.26.44"
+    ],
+    "answers": [
+      {
+        "answer": "People wiped from the face of the earth",
+        "answer_ar": "إبادة الشعب من وجه الأرض",
+        "isCorrect": true
+      },
+      {
+        "answer": "Cities laid waste",
+        "answer_ar": "خراب المدن",
+        "isCorrect": false
+      },
+      {
+        "answer": "The land desolated",
+        "answer_ar": "تدمير الأرض",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d492e67a-8773-4332-b8a8-c67e6549a11e",
+    "question": "The only reason for not paying the set valuation for a person consecrated to the Lord was if one were too ______.",
+    "question_ar": "السبب الوحيد لعدم دفع التقدير المقرر للشخص المكرس للرب هو إذا كان ______ جدًا.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Lev.27.8"
+    ],
+    "answers": [
+      {
+        "answer": "Poor",
+        "answer_ar": "فقير",
+        "isCorrect": true
+      },
+      {
+        "answer": "صغير",
+        "answer_ar": "صغير",
+        "isCorrect": false
+      },
+      {
+        "answer": "كبير السن",
+        "answer_ar": "كبير السن",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b3954cfc-3c60-4d12-bba7-5f99b8d81370",
+    "question": "Because the Israelites rejected God’s leading them into Canaan, they were sentenced to wander in the desert for forty years, one year for each ______ the spies were in the land.",
+    "question_ar": "لأن بني إسرائيل رفضوا قيادة الله لهم إلى كنعان، حُكم عليهم أن يتيهوا في البرية أربعين سنة، سنة عن كل ______ كان الجواسيس في الأرض.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.14.34"
+    ],
+    "answers": [
+      {
+        "answer": "Day",
+        "answer_ar": "يوم",
+        "isCorrect": true
+      },
+      {
+        "answer": "شهر",
+        "answer_ar": "شهر",
+        "isCorrect": false
+      },
+      {
+        "answer": "أسبوع",
+        "answer_ar": "أسبوع",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5ceac9aa-c2e8-4d01-b5e3-1d4049b216f3",
+    "question": "What was the drink offering that the Israelites were to bring before the Lord?",
+    "question_ar": "ما هي تقدمة السكيب (المشروب) التي كان على بني إسرائيل أن يقدموها أمام الرب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.15.10"
+    ],
+    "answers": [
+      {
+        "answer": "Wine",
+        "answer_ar": "خمر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Boiled water",
+        "answer_ar": "ماء مغلي",
+        "isCorrect": false
+      },
+      {
+        "answer": "Spring water",
+        "answer_ar": "ماء نبع",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "37021543-8659-42ba-bf3e-52dbe4ce3241",
+    "question": "There was no acceptable offering for an intentional sin.",
+    "question_ar": "لم يكن هناك ذبيحة مقبولة للخطيئة العمدية.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.15.30",
+      "Num.15.31",
+      "Ps.51.1",
+      "Ps.51.16",
+      "Ps.51.17"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e8e8e166-82e4-4e37-8998-56f758c8f74d",
+    "question": "God told Aaron, “I have given the children of Levi all the ______ in Israel as an inheritance in return for the work which they perform, the work of the tabernacle of meeting.”",
+    "question_ar": "قال الله لهارون: «إني أعطيت بني لاوي كل ______ في إسرائيل ميراثًا بدل عملهم في خيمة الاجتماع.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.18.21",
+      "Josh.21"
+    ],
+    "answers": [
+      {
+        "answer": "Tithes",
+        "answer_ar": "العشور",
+        "isCorrect": true
+      },
+      {
+        "answer": "حقول",
+        "answer_ar": "حقول",
+        "isCorrect": false
+      },
+      {
+        "answer": "ذهب",
+        "answer_ar": "ذهب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e892e39e-b2ce-4bb1-b276-c90e59e02722",
+    "question": "God promised the children of Gad, Reuben, and the half-tribe of Manasseh the land of ______, east of the Jordan, if they would help the rest of the Israelites possess the land of Canaan.",
+    "question_ar": "وعد الله بني جاد ورأوبين ونصف سبط منسى بأرض ______ شرق الأردن إذا ساعدوا باقي بني إسرائيل في امتلاك أرض كنعان.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Num.32.29",
+      "Num.32.33"
+    ],
+    "answers": [
+      {
+        "answer": "Gilead",
+        "answer_ar": "جِلْعاد",
+        "isCorrect": true
+      },
+      {
+        "answer": "موآب",
+        "answer_ar": "موآب",
+        "isCorrect": false
+      },
+      {
+        "answer": "أريحا",
+        "answer_ar": "أريحا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b453bbab-38e2-4fc2-957b-0a11d95fcde0",
+    "question": "Moses told the Israelites just before they entered Canaan, “The LORD Himself is God in heaven above and on the earth beneath; there is ______ ______.”",
+    "question_ar": "قال موسى لبني إسرائيل قبل دخولهم كنعان: «الرب هو الإله في السماء من فوق وعلى الأرض من أسفل، ولا يوجد ______ ______.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.4.39"
+    ],
+    "answers": [
+      {
+        "answer": "No other",
+        "answer_ar": "غيره",
+        "isCorrect": true
+      },
+      {
+        "answer": "إله آخر",
+        "answer_ar": "إله آخر",
+        "isCorrect": false
+      },
+      {
+        "answer": "شعب مثله",
+        "answer_ar": "شعب مثله",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5d85cc91-4b1d-46fa-b282-fdabed00b8b5",
+    "question": "“Six days you shall labor and do all your work, but the seventh day is the ______ of the ______ your God.”",
+    "question_ar": "«ستة أيام تعمل وتصنع جميع عملك، وأما اليوم السابع فهو ______ لل______ إلهك.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.5.13-15"
+    ],
+    "answers": [
+      {
+        "answer": "Sabbath … LORD",
+        "answer_ar": "سبت ... الرب",
+        "isCorrect": true
+      },
+      {
+        "answer": "عيد ... ملك",
+        "answer_ar": "عيد ... ملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "فصح ... إسرائيل",
+        "answer_ar": "فصح ... إسرائيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eae5613e-3d38-4ea2-9d82-02f93a7b70be",
+    "question": "“Hear, O Israel: The LORD ______ ______, the LORD ______ ______,!”",
+    "question_ar": "«اسمع يا إسرائيل: الرب ______ ______، الرب ______ ______!»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.6.4"
+    ],
+    "answers": [
+      {
+        "answer": "Our God … is one",
+        "answer_ar": "إلهنا ... واحد",
+        "isCorrect": true
+      },
+      {
+        "answer": "ملكنا ... عظيم",
+        "answer_ar": "ملكنا ... عظيم",
+        "isCorrect": false
+      },
+      {
+        "answer": "خالقنا ... حي",
+        "answer_ar": "خالقنا ... حي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c8c0c812-e034-44ea-986a-bf7d677e0f4a",
+    "question": "“You shall love the LORD your God with all your ______, with all your ______, and with all your ______.”",
+    "question_ar": "«تحب الرب إلهك من كل ______، ومن كل ______، ومن كل ______.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.6.5",
+      "Matt.22.36",
+      "Matt.22.37"
+    ],
+    "answers": [
+      {
+        "answer": "Heart … soul … strength",
+        "answer_ar": "قلبك ... نفسك ... قوتك",
+        "isCorrect": true
+      },
+      {
+        "answer": "روحك ... فكرك ... عملك",
+        "answer_ar": "روحك ... فكرك ... عملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "جسدك ... عقلك ... وقتك",
+        "answer_ar": "جسدك ... عقلك ... وقتك",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1fda2ee7-0b57-4dd3-8aa2-b237907d82e1",
+    "question": "Concerning the commandments of God, Moses told the Israelites, “Talk of them when you ______ in your house, when you ______ by the way, when you lie down, and when you ______ ______.”",
+    "question_ar": "عن وصايا الله، قال موسى لبني إسرائيل: «وتتحدث بها عندما ______ في بيتك، وعندما ______ في الطريق، وحين تنام، وحين ______ ______.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.6.7"
+    ],
+    "answers": [
+      {
+        "answer": "Sit … walk … rise up",
+        "answer_ar": "تجلس ... تمشي ... تقوم",
+        "isCorrect": true
+      },
+      {
+        "answer": "تأكل ... تلعب ... تركض",
+        "answer_ar": "تأكل ... تلعب ... تركض",
+        "isCorrect": false
+      },
+      {
+        "answer": "تتكلم ... تكتب ... تعلّم",
+        "answer_ar": "تتكلم ... تكتب ... تعلّم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a1cb4a7f-fdd0-41a9-9552-b7b9a7e33f9d",
+    "question": "The Israelites were to bind the commandments of God on their hands as a ______.",
+    "question_ar": "كان يجب على بني إسرائيل أن يربطوا وصايا الله على أيديهم كـ______.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.6.8"
+    ],
+    "answers": [
+      {
+        "answer": "Sign",
+        "answer_ar": "علامة",
+        "isCorrect": true
+      },
+      {
+        "answer": "ذكرى",
+        "answer_ar": "ذكرى",
+        "isCorrect": false
+      },
+      {
+        "answer": "عهد",
+        "answer_ar": "عهد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bc04c157-4c02-49d1-b321-65dced7dfb39",
+    "question": "The Lord chose Israel to be His people because they were more in number than any other nation.",
+    "question_ar": "اختار الرب إسرائيل ليكونوا شعبه لأنهم كانوا أكثر عددًا من بقية الشعوب.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.7.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "1e4d2d9b-51c8-4ca7-a87a-95737ee7427b",
+    "question": "God led Israel in the wilderness forty years to humble them and to test them, to know what was in their ______, whether they would keep His ______ or not.",
+    "question_ar": "قاد الله إسرائيل في البرية أربعين سنة ليذلهم ويمتحنهم ليعرف ما في ______هم، هل يحفظون ______ه أم لا.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.8.2"
+    ],
+    "answers": [
+      {
+        "answer": "Hearts … commandments",
+        "answer_ar": "قلوبهم ... وصاياه",
+        "isCorrect": true
+      },
+      {
+        "answer": "عقولهم ... أعمالهم",
+        "answer_ar": "عقولهم ... أعمالهم",
+        "isCorrect": false
+      },
+      {
+        "answer": "نفوسهم ... كلامه",
+        "answer_ar": "نفوسهم ... كلامه",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7fcce11e-8b41-4c91-9ef8-2a295be0ac61",
+    "question": "God fed the Israelites with manna so they might know “that man shall not live by bread alone; but man lives by …”",
+    "question_ar": "أطعم الله بني إسرائيل المن ليعرفوا أن «ليس بالخبز وحده يحيا الإنسان، بل بكل ...»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.8.3",
+      "Matt.4.4"
+    ],
+    "answers": [
+      {
+        "answer": "Every word that proceeds from the mouth of the LORD",
+        "answer_ar": "كلمة تخرج من فم الرب",
+        "isCorrect": true
+      },
+      {
+        "answer": "كل عمل صالح",
+        "answer_ar": "كل عمل صالح",
+        "isCorrect": false
+      },
+      {
+        "answer": "كل طعام نقي",
+        "answer_ar": "كل طعام نقي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e41b7686-b015-4ec9-b7ac-efb4da67c0a7",
+    "question": "As the people readied themselves to go into Canaan, Moses described the Lord their God as a ______ fire.",
+    "question_ar": "عندما استعد الشعب لدخول كنعان، وصف موسى الرب إلههم بأنه نار ______.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.9.3"
+    ],
+    "answers": [
+      {
+        "answer": "Consuming",
+        "answer_ar": "آكلة",
+        "isCorrect": true
+      },
+      {
+        "answer": "مضيئة",
+        "answer_ar": "مضيئة",
+        "isCorrect": false
+      },
+      {
+        "answer": "خافتة",
+        "answer_ar": "خافتة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "56ca5ce1-fc54-476e-bfc1-83d56fd39699",
+    "question": "“And now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to ______ in all His ways and to ______ Him, to serve the LORD your God with all your ______ and with all your ______.”",
+    "question_ar": "«والآن يا إسرائيل، ماذا يطلب منك الرب إلهك إلا أن تتقي الرب إلهك، وتسلك في جميع طرقه وتُحبه، وتعبد الرب إلهك من كل ______ ومن كل ______.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.10.12"
+    ],
+    "answers": [
+      {
+        "answer": "Walk … love … heart … soul",
+        "answer_ar": "تسلك ... تحب ... قلبك ... نفسك",
+        "isCorrect": true
+      },
+      {
+        "answer": "تجتهد ... تخدم ... فكرك ... قوتك",
+        "answer_ar": "تجتهد ... تخدم ... فكرك ... قوتك",
+        "isCorrect": false
+      },
+      {
+        "answer": "تتكلم ... تحترم ... يدك ... قدميك",
+        "answer_ar": "تتكلم ... تحترم ... يدك ... قدميك",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "24ed75ce-825d-4258-a953-1c0a7b176c0b",
+    "question": "The Israelites were to love the stranger among them because they had been strangers in the land of ______.",
+    "question_ar": "كان على بني إسرائيل أن يحبوا الغريب بينهم لأنهم كانوا غرباء في أرض ______.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.10.19"
+    ],
+    "answers": [
+      {
+        "answer": "Egypt",
+        "answer_ar": "مصر",
+        "isCorrect": true
+      },
+      {
+        "answer": "فلسطين",
+        "answer_ar": "فلسطين",
+        "isCorrect": false
+      },
+      {
+        "answer": "مديان",
+        "answer_ar": "مديان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eb3f05e4-c070-44f7-a6aa-d3321b6e6c5d",
+    "question": "Moses said, “Behold, I set before you today a ______ and a ______: the ______, if you obey the commandments of the LORD your God …; and the ______, if you do not obey the commandments of the LORD your God.”",
+    "question_ar": "قال موسى: «انظر، أنا واضع أمامكم اليوم ______ و______؛ ______ إذا أطعتم وصايا الرب إلهكم... و______ إذا لم تطيعوا وصايا الرب إلهكم.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.11.26-28"
+    ],
+    "answers": [
+      {
+        "answer": "Blessing … curse … blessing … curse",
+        "answer_ar": "بركة ... لعنة ... بركة ... لعنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "سعادة ... شقاء ... فرح ... حزن",
+        "answer_ar": "سعادة ... شقاء ... فرح ... حزن",
+        "isCorrect": false
+      },
+      {
+        "answer": "مجد ... خزي ... نجاح ... فشل",
+        "answer_ar": "مجد ... خزي ... نجاح ... فشل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fb0f093d-0f9b-4e1b-87e4-71b4d27d982e",
+    "question": "When the Israelites crossed into the Promised Land, they were allowed to offer sacrifice in many different places.",
+    "question_ar": "عندما دخل بنو إسرائيل أرض الموعد، كان بإمكانهم تقديم الذبائح في أماكن عديدة.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.12.1-14"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "20e16d9f-93ae-42cb-8f85-94f12d3276e5",
+    "question": "What tribe of Israel was to share in all the tithes and offerings of the Israelites?",
+    "question_ar": "أي سبط من أسباط إسرائيل كان له نصيب في كل عشور وتقدمات بني إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.12.17-19"
+    ],
+    "answers": [
+      {
+        "answer": "The tribe of Levi—the Levites",
+        "answer_ar": "سبط لاوي (اللاويون)",
+        "isCorrect": true
+      },
+      {
+        "answer": "سبط يهوذا",
+        "answer_ar": "سبط يهوذا",
+        "isCorrect": false
+      },
+      {
+        "answer": "سبط رأوبين",
+        "answer_ar": "سبط رأوبين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f7b6d1e2-d841-4056-982c-c3fd5eb30208",
+    "question": "The offerer was allowed to eat the meat of the burnt offering.",
+    "question_ar": "كان يجوز للمُقدم أن يأكل من لحم الذبيحة المحرقة.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.12.27",
+      "Lev.7.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "865a059b-b591-4e14-bd35-5b25d0a527b0",
+    "question": "The false prophet in Israel was to be put to death.",
+    "question_ar": "كان يجب قتل النبي الكاذب في إسرائيل.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.13.5"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6de870e2-6d1c-4b12-8b6c-06e1c470a36b",
+    "question": "If an Israelite’s brother, son, daughter, wife or friend enticed him to serve other gods, that 'enticer' was to be sent out of Israel.",
+    "question_ar": "إذا أغرى أخ أو ابن أو ابنة أو زوجة أو صديق إسرائيلي شخصًا ليعبد آلهة أخرى، كان يجب إخراجه من إسرائيل.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.13.6-10"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "87c2cb5a-3d57-4c17-8c19-fb88db8e3fc8",
+    "question": "The Ten Commandments are found in the books of Exodus and Leviticus.",
+    "question_ar": "الوصايا العشر موجودة في سفرَي الخروج واللاويين.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Exod.20.1-17",
+      "Deut.5.6-21"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cbebf3e2-68e7-40a5-a63f-9dbe5c283b64",
+    "question": "If the people of a city in Israel were found to be worshiping false gods, they and all their livestock were to be killed.",
+    "question_ar": "إذا كان أهل مدينة في إسرائيل يعبدون آلهة غريبة، كان يجب قتلهم هم وكل مواشيهم.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.13.12-15"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5cfb6d26-57a7-4781-98ae-c03ec2d44239",
+    "question": "An Israelite city in which idolatry was found was to be ______ and not ______.",
+    "question_ar": "المدينة الإسرائيلية التي وجد فيها عبادة أوثان كان يجب أن تُ______ ولا تُ______.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.13.12-16"
+    ],
+    "answers": [
+      {
+        "answer": "Burned … rebuilt",
+        "answer_ar": "تحرق ... تعاد بناؤها",
+        "isCorrect": true
+      },
+      {
+        "answer": "تُسَبى ... تُزرع",
+        "answer_ar": "تُسَبى ... تُزرع",
+        "isCorrect": false
+      },
+      {
+        "answer": "تهدم ... ترمم",
+        "answer_ar": "تهدم ... ترمم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "92461465-e346-493e-929e-4392d1b959d6",
+    "question": "The Israelites were not to shave what part of their heads for the dead, the front or back?",
+    "question_ar": "أي جزء من رؤوسهم كان يُحظر على بني إسرائيل حلقه من أجل الميت، الجبهة أم الخلف؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.14.1"
+    ],
+    "answers": [
+      {
+        "answer": "The front of their heads",
+        "answer_ar": "جبهتهم",
+        "isCorrect": true
+      },
+      {
+        "answer": "الخلف",
+        "answer_ar": "الخلف",
+        "isCorrect": false
+      },
+      {
+        "answer": "الجانبين",
+        "answer_ar": "الجانبين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4aee6cfd-bb1c-47ae-97c8-84f6362257f5",
+    "question": "Two conditions made an animal detestable and inedible to the children of Israel. Name one of them.",
+    "question_ar": "شرطان جعلا الحيوان نجسًا وغير صالح للأكل لدى بني إسرائيل. اذكر أحدهما.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.14.6"
+    ],
+    "answers": [
+      {
+        "answer": "An uncloven hoof",
+        "answer_ar": "ظلف غير مشقوق",
+        "isCorrect": true
+      },
+      {
+        "answer": "عدم القدرة على السباحة",
+        "answer_ar": "عدم القدرة على السباحة",
+        "isCorrect": false
+      },
+      {
+        "answer": "لا يعيش في البرية",
+        "answer_ar": "لا يعيش في البرية",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c51bfc25-f180-49c2-822f-6b46da31d5e1",
+    "question": "For what specific reason was the camel considered unclean and not to be eaten by the Israelites?",
+    "question_ar": "ما السبب المحدد الذي جعل الجمل نجسًا وغير مسموح بأكله لبني إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.14.7"
+    ],
+    "answers": [
+      {
+        "answer": "The camel does not have cloven hooves",
+        "answer_ar": "الجمل لا يملك ظلفًا مشقوقًا",
+        "isCorrect": true
+      },
+      {
+        "answer": "لا يجتر الطعام",
+        "answer_ar": "لا يجتر الطعام",
+        "isCorrect": false
+      },
+      {
+        "answer": "لا يشرب الماء",
+        "answer_ar": "لا يشرب الماء",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "622a225d-1cf2-4996-819b-f2f0871109f5",
+    "question": "For what specific reason were the people of Israel forbidden to eat pork?",
+    "question_ar": "ما السبب المحدد لمنع بني إسرائيل من أكل لحم الخنزير؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.14.8"
+    ],
+    "answers": [
+      {
+        "answer": "Swine do not chew the cud",
+        "answer_ar": "الخنازير لا تجتر الطعام",
+        "isCorrect": true
+      },
+      {
+        "answer": "لحمها مر",
+        "answer_ar": "لحمها مر",
+        "isCorrect": false
+      },
+      {
+        "answer": "لا تملك أذنين طويلتين",
+        "answer_ar": "لا تملك أذنين طويلتين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bb88f02b-b352-4646-a239-76b0fdf85e0a",
+    "question": "According to Mosaic Law, “You shall not boil a young goat in its ______ ______.”",
+    "question_ar": "بحسب شريعة موسى: «لا تطبخ جديا بلبن ______ ______.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.14.21"
+    ],
+    "answers": [
+      {
+        "answer": "Mother’s milk",
+        "answer_ar": "أمه",
+        "isCorrect": true
+      },
+      {
+        "answer": "أبيه",
+        "answer_ar": "أبيه",
+        "isCorrect": false
+      },
+      {
+        "answer": "أختها",
+        "answer_ar": "أختها",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ec9700ad-7a8d-4b01-8a9b-4063672b13b1",
+    "question": "How often were the Israelites to store up their tithes in their own towns for the Levites, strangers, fatherless, and widows who were there?",
+    "question_ar": "كم مرة كان على بني إسرائيل أن يخزنوا العشور في مدنهم للاويين والغريب واليتيم والأرملة الذين في وسطهم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.14.28",
+      "Deut.14.29"
+    ],
+    "answers": [
+      {
+        "answer": "Every third year",
+        "answer_ar": "كل ثلاث سنوات",
+        "isCorrect": true
+      },
+      {
+        "answer": "Every other year",
+        "answer_ar": "كل سنتين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Every seventh year",
+        "answer_ar": "كل سبع سنوات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f3b7a6f6-4a0b-4d87-bdfa-f1e60c85bc3b",
+    "question": "Israel was allowed to loan to other nations but not to borrow from them.",
+    "question_ar": "كان يُسمح لإسرائيل أن تقرض الأمم الأخرى ولكن لم يكن يُسمح لها بالاستدانة منهم.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.15.6"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "36d667eb-e899-4db1-8e21-730db880f0d2",
+    "question": "According to Mosaic Law the Israelites were to lend to the poor sufficient for his need.",
+    "question_ar": "وفقًا لشريعة موسى كان يجب على بني إسرائيل أن يقرضوا الفقير بحسب حاجته.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.15.8"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c6e5a4b7-2248-4b4f-b34a-c5d638973c81",
+    "question": "Under Mosaic Law, how long could one Hebrew keep another Hebrew as a slave before he had to set him free?",
+    "question_ar": "حسب شريعة موسى، كم سنة يمكن أن يبقي العبراني أخاه عبداً قبل أن يطلقه حرًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.15.12"
+    ],
+    "answers": [
+      {
+        "answer": "Six years",
+        "answer_ar": "ست سنوات",
+        "isCorrect": true
+      },
+      {
+        "answer": "Three years",
+        "answer_ar": "ثلاث سنوات",
+        "isCorrect": false
+      },
+      {
+        "answer": "Seven years",
+        "answer_ar": "سبع سنوات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1e64b700-1d08-47b7-8777-7a53d1bc14e5",
+    "question": "If a man or woman wanted to remain a slave for life to a fellow Hebrew, then the master was to take an awl and thrust it through the slave’s ______.",
+    "question_ar": "إذا أراد رجل أو امرأة أن يبقى عبدًا مدى الحياة لأخيه العبراني، كان السيد يثقب الـ______ بالمخرز.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.15.17"
+    ],
+    "answers": [
+      {
+        "answer": "Ear",
+        "answer_ar": "أذنه",
+        "isCorrect": true
+      },
+      {
+        "answer": "يده",
+        "answer_ar": "يده",
+        "isCorrect": false
+      },
+      {
+        "answer": "قدمه",
+        "answer_ar": "قدمه",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "768ea37c-e6cf-4eb7-a8df-984d74b06416",
+    "question": "What were the Hebrews not allowed to do to the firstborn males of the flock?",
+    "question_ar": "ماذا لم يكن يُسمح للعبرانيين أن يفعلوا بذكور أبكار الغنم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.15.19"
+    ],
+    "answers": [
+      {
+        "answer": "Shear them",
+        "answer_ar": "يجزوا صوفهم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Eat them",
+        "answer_ar": "يأكلوهم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ride them",
+        "answer_ar": "يركبوهم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cbac76e7-4966-4d2c-90bc-99b5cb7e634e",
+    "question": "For how many days were the Jews required to eat unleavened bread during the Passover?",
+    "question_ar": "كم يومًا كان يجب على اليهود أكل الفطير في عيد الفصح؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.16.3"
+    ],
+    "answers": [
+      {
+        "answer": "Seven days",
+        "answer_ar": "سبعة أيام",
+        "isCorrect": true
+      },
+      {
+        "answer": "ثلاثة أيام",
+        "answer_ar": "ثلاثة أيام",
+        "isCorrect": false
+      },
+      {
+        "answer": "خمسة أيام",
+        "answer_ar": "خمسة أيام",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "25cfdd2d-eebc-43b6-93d3-616748d8dbf7",
+    "question": "The unleavened bread to be eaten during Passover was called the bread of:",
+    "question_ar": "كان الفطير الذي يُؤكل في الفصح يُسمى خبز:",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.16.3"
+    ],
+    "answers": [
+      {
+        "answer": "Affliction",
+        "answer_ar": "المشقة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Deliverance",
+        "answer_ar": "الخلاص",
+        "isCorrect": false
+      },
+      {
+        "answer": "Redemption",
+        "answer_ar": "الفداء",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2e18770e-0128-4f17-9d9c-3815f3923e80",
+    "question": "The Israelites were to sacrifice and eat the Passover each in his own house.",
+    "question_ar": "كان يجب على بني إسرائيل أن يذبحوا ويأكلوا الفصح في كل بيت.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.16.5-7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2cc9f5f5-02b0-4ea4-84b6-490b4ab747da",
+    "question": "The Feast of Weeks followed Passover by how many weeks?",
+    "question_ar": "بعد كم أسبوع جاء عيد الأسابيع بعد الفصح؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.16.9",
+      "Deut.16.10"
+    ],
+    "answers": [
+      {
+        "answer": "Seven",
+        "answer_ar": "سبعة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Three",
+        "answer_ar": "ثلاثة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Fourteen",
+        "answer_ar": "أربعة عشر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9c8e1301-18de-4ba3-9316-700816a96aa0",
+    "question": "What kind of offering was to be given to the Lord during the Feast of Weeks?",
+    "question_ar": "أي نوع من التقدمات كان يُعطى للرب في عيد الأسابيع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.16.10"
+    ],
+    "answers": [
+      {
+        "answer": "Freewill offering",
+        "answer_ar": "تقدمة اختيارية (تطوعية)",
+        "isCorrect": true
+      },
+      {
+        "answer": "Heave offering",
+        "answer_ar": "تقدمة الرفع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Wave offering",
+        "answer_ar": "تقدمة الترديد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c0e4fdf2-5ec2-4bdb-b320-17a8956f86bb",
+    "question": "All males in Israel were required to attend how many feasts each year?",
+    "question_ar": "كم عيدًا كان يجب على جميع الذكور في إسرائيل حضورها سنويًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.16.16"
+    ],
+    "answers": [
+      {
+        "answer": "Three",
+        "answer_ar": "ثلاثة",
+        "isCorrect": true
+      },
+      {
+        "answer": "واحد",
+        "answer_ar": "واحد",
+        "isCorrect": false
+      },
+      {
+        "answer": "سبعة",
+        "answer_ar": "سبعة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c7a8bdfb-69b0-4b98-bcc1-7f4f2c52f054",
+    "question": "At the yearly feasts, every man was to give as he was ______, according to how much the Lord had blessed him.",
+    "question_ar": "في الأعياد السنوية، كان يجب على كل رجل أن يعطي بحسب ما هو ______، بحسب ما باركه الرب.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.16.17"
+    ],
+    "answers": [
+      {
+        "answer": "Able",
+        "answer_ar": "مقتدر",
+        "isCorrect": true
+      },
+      {
+        "answer": "غني",
+        "answer_ar": "غني",
+        "isCorrect": false
+      },
+      {
+        "answer": "فقير",
+        "answer_ar": "فقير",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f7b5ff30-f187-4d09-9f2d-2e307fc62c73",
+    "question": "“Whoever is worthy of death shall be put to death on the testimony of ______ or ______ witnesses, but he shall not be put to death on the testimony of ______ witness.”",
+    "question_ar": "«من استحق الموت يُقتل بشهادة ______ أو ______ شهود، ولا يُقتل بشهادة ______ فقط.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.17.6"
+    ],
+    "answers": [
+      {
+        "answer": "Two … three … one",
+        "answer_ar": "اثنين ... ثلاثة ... واحد",
+        "isCorrect": true
+      },
+      {
+        "answer": "واحد ... اثنين ... ثلاثة",
+        "answer_ar": "واحد ... اثنين ... ثلاثة",
+        "isCorrect": false
+      },
+      {
+        "answer": "أربعة ... اثنين ... واحد",
+        "answer_ar": "أربعة ... اثنين ... واحد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1b99ec8c-e84e-4b42-ae48-5ce246b4ab23",
+    "question": "One of the responsibilities of the king under Mosaic Law was to write down a copy of the Law for himself.",
+    "question_ar": "كان من مسؤوليات الملك بحسب شريعة موسى أن يكتب نسخة من الشريعة لنفسه.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.17.18"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dbf9c49d-f8b6-4df6-93a7-bdd8ee322a60",
+    "question": "Moses predicts in Deuteronomy 17 that Israel will ask for a ______ like all the nations around them.",
+    "question_ar": "تنبأ موسى في تثنية 17 أن إسرائيل ستطلب ______ مثل سائر الشعوب من حولها.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.17.14"
+    ],
+    "answers": [
+      {
+        "answer": "King",
+        "answer_ar": "ملك",
+        "isCorrect": true
+      },
+      {
+        "answer": "قائد",
+        "answer_ar": "قائد",
+        "isCorrect": false
+      },
+      {
+        "answer": "كاهن",
+        "answer_ar": "كاهن",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "54b2cdb1-0e44-4d3d-8cf7-8e92d617ac68",
+    "question": "The Levites “have no inheritance among their brethren; the ______ is their inheritance.”",
+    "question_ar": "اللاويون «ليس لهم نصيب بين إخوتهم؛ ______ هو نصيبهم».",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.18.2"
+    ],
+    "answers": [
+      {
+        "answer": "LORD",
+        "answer_ar": "الرب",
+        "isCorrect": true
+      },
+      {
+        "answer": "الشعب",
+        "answer_ar": "الشعب",
+        "isCorrect": false
+      },
+      {
+        "answer": "الأرض",
+        "answer_ar": "الأرض",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b4a1de48-42ab-4b67-b7b3-fce164657d87",
+    "question": "What tribe of Israel was chosen to minister to the people in the name of the Lord?",
+    "question_ar": "أي سبط من أسباط إسرائيل اختير للخدمة باسم الرب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.18.1-5"
+    ],
+    "answers": [
+      {
+        "answer": "Levi",
+        "answer_ar": "لاوي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Simeon",
+        "answer_ar": "شمعون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Benjamin",
+        "answer_ar": "بنيامين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6d98f1fa-419c-4b19-a0e5-68db6620070a",
+    "question": "Moses said, “The LORD your God will raise up for you a ______ like me from your midst, from your brethren. Him you shall hear.”",
+    "question_ar": "قال موسى: «الرب إلهكم سيقيم لكم ______ مثلي من وسطكم من إخوتكم. له تسمعون».",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.18.15",
+      "Acts.3.22"
+    ],
+    "answers": [
+      {
+        "answer": "Prophet",
+        "answer_ar": "نبي",
+        "isCorrect": true
+      },
+      {
+        "answer": "ملك",
+        "answer_ar": "ملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "قاضٍ",
+        "answer_ar": "قاضٍ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f640e7d0-1bbf-4cbe-b468-18824b523fb6",
+    "question": "According to Deuteronomy 18:22, how could the Israelites determine whether someone claiming to be a prophet was a true prophet of God?",
+    "question_ar": "بحسب تثنية 18:22، كيف كان يمكن لبني إسرائيل معرفة إذا كان النبي المدعي نبيًا حقيقيًا من عند الله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.18.22"
+    ],
+    "answers": [
+      {
+        "answer": "If the prophecy did not come to pass, the prophet was a false prophet",
+        "answer_ar": "إذا لم يتم الكلام أو لم يحدث، فهو ليس نبيًا حقيقيًا",
+        "isCorrect": true
+      },
+      {
+        "answer": "إذا كان فقيرًا",
+        "answer_ar": "إذا كان فقيرًا",
+        "isCorrect": false
+      },
+      {
+        "answer": "إذا كان من سبط لاوي",
+        "answer_ar": "إذا كان من سبط لاوي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "efdfc942-9eb6-40ba-a99a-6362ecb3bcf5",
+    "question": "Into how many parts was Israel to divide the land after it had been conquered, in order to establish cities of refuge?",
+    "question_ar": "إلى كم قسم كان يجب أن تُقسَّم أرض إسرائيل بعد احتلالها لإنشاء مدن الملجأ؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.19.1-3"
+    ],
+    "answers": [
+      {
+        "answer": "Three",
+        "answer_ar": "ثلاثة",
+        "isCorrect": true
+      },
+      {
+        "answer": "اثنين",
+        "answer_ar": "اثنين",
+        "isCorrect": false
+      },
+      {
+        "answer": "سبعة",
+        "answer_ar": "سبعة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cc18caca-fdee-4bf4-b417-1ad6d2606b28",
+    "question": "The cities of refuge were to provide refuge for a man who killed his neighbor unintentionally, not having ______ him in the past.",
+    "question_ar": "كانت مدن الملجأ توفر الحماية لمن قتل قريبه عن غير قصد، ولم يكن قد ______ه في الماضي.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.19.4"
+    ],
+    "answers": [
+      {
+        "answer": "Hated",
+        "answer_ar": "أبغض",
+        "isCorrect": true
+      },
+      {
+        "answer": "حسد",
+        "answer_ar": "حسد",
+        "isCorrect": false
+      },
+      {
+        "answer": "ضرب",
+        "answer_ar": "ضرب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "093a2720-d6ca-46e5-bbfc-bc5fef933b01",
+    "question": "What was done to a person found to be a false witness against another?",
+    "question_ar": "ماذا كان يُفعل بمن ثبت عليه أنه شاهد زور على غيره؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.19.16",
+      "Deut.19.19"
+    ],
+    "answers": [
+      {
+        "answer": "He received the penalty he was seeking against the other person",
+        "answer_ar": "ينال العقوبة التي كان يطلبها للآخر",
+        "isCorrect": true
+      },
+      {
+        "answer": "يُجلد فقط",
+        "answer_ar": "يُجلد فقط",
+        "isCorrect": false
+      },
+      {
+        "answer": "يُنذر فقط",
+        "answer_ar": "يُنذر فقط",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c0f7fa8f-dfed-41a9-9a3c-50c43b4e1a1d",
+    "question": "A man was not to go into battle if he had built a new house but had not yet:",
+    "question_ar": "لم يكن يجب على الرجل أن يخرج للحرب إذا كان قد بنى بيتًا جديدًا ولم يكن قد ______ بعد.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.20.5"
+    ],
+    "answers": [
+      {
+        "answer": "Dedicated it",
+        "answer_ar": "دشّنه",
+        "isCorrect": true
+      },
+      {
+        "answer": "Painted it",
+        "answer_ar": "دهنه",
+        "isCorrect": false
+      },
+      {
+        "answer": "Finished it",
+        "answer_ar": "أكمله",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5bc9b2b8-5ab7-4d6e-9cc6-04f8c043b0d2",
+    "question": "A man was not to go into battle if he had planted a vineyard but had not yet:",
+    "question_ar": "لم يكن يجب على الرجل أن يذهب للحرب إذا كان قد غرس كرمًا ولم يكن قد ______ منه بعد.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.20.6"
+    ],
+    "answers": [
+      {
+        "answer": "Eaten of it",
+        "answer_ar": "أكل منه",
+        "isCorrect": true
+      },
+      {
+        "answer": "Cultivated it",
+        "answer_ar": "فلّحه",
+        "isCorrect": false
+      },
+      {
+        "answer": "Harvested from it",
+        "answer_ar": "حصد منه",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7d095568-5d6b-4ac4-970b-6c2ebd262c71",
+    "question": "If a man was engaged to a woman but had not yet married her he was not to go into battle.",
+    "question_ar": "إذا خُطب رجل لامرأة ولم يتزوجها بعد، لم يكن يجب أن يذهب للحرب.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.20.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "44bc9f89-22d3-44bc-9df1-80b03f9a4d36",
+    "question": "As the men of Israel went out to battle, someone was to come and remind them that the Lord would be going with them to fight for them. Whose role was this?",
+    "question_ar": "عندما كان رجال إسرائيل يخرجون للحرب، كان يجب أن يأتي شخص ليذكرهم أن الرب سيقاتل معهم. من هو هذا الشخص؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.20.2-4"
+    ],
+    "answers": [
+      {
+        "answer": "Priest",
+        "answer_ar": "الكاهن",
+        "isCorrect": true
+      },
+      {
+        "answer": "King",
+        "answer_ar": "الملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "Prophet",
+        "answer_ar": "النبي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9b3c0ebc-c80c-4969-960f-1e91ef9e99d9",
+    "question": "The “fainthearted” soldier in Israel’s army was to be strong in the Lord and go ahead into battle.",
+    "question_ar": "كان على الجندي الضعيف القلب في جيش إسرائيل أن يتشدد في الرب ويدخل المعركة.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.20.8"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "71e7597a-d6ef-4b0c-8140-8036495c23e6",
+    "question": "Before the army of Israel attacked a city outside the Promised Land, they were to make an offer of peace to that city.",
+    "question_ar": "قبل أن يهاجم جيش إسرائيل مدينة خارج أرض الموعد، كان يجب أن يعرض عليها السلام.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.20.10",
+      "Deut.20.16"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "18fd55c3-f8db-4307-946f-4e75a89b984c",
+    "question": "“Of the cities of these peoples which the LORD your God gives you as an ______, you shall let nothing that breathes remain alive,”",
+    "question_ar": "«ومن مدن هؤلاء الشعوب التي يعطيك الرب إلهك إياها إرثًا، لا تُبقِ حيًا مما يتنفس.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.20.16"
+    ],
+    "answers": [
+      {
+        "answer": "Inheritance",
+        "answer_ar": "ميراث",
+        "isCorrect": true
+      },
+      {
+        "answer": "ملك",
+        "answer_ar": "ملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "عهد",
+        "answer_ar": "عهد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7d1e39d4-3f5c-49f0-b7a1-278441a7d50f",
+    "question": "If a man desired to marry a woman who had been taken captive in battle, that woman had to shave her head before they could be married.",
+    "question_ar": "إذا أراد رجل أن يتزوج امرأة أُخذت أسيرة في الحرب، كان يجب أن تحلق رأسها قبل الزواج.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.21.11",
+      "Deut.21.12"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e1abdb90-52df-4ad2-aac6-908ef63fbb39",
+    "question": "If a man took a wife from among the captives of war and decided later he had made a mistake, he could send her away.",
+    "question_ar": "إذا تزوج رجل امرأة من بين الأسرى في الحرب وقرر لاحقًا أنه ارتكب خطأ، كان يمكنه أن يطلقها.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.21.14"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8858c96f-9aa1-4d22-a38e-77a06b0b8ad6",
+    "question": "If a man had two wives, one loved and one unloved, he was allowed to count the firstborn son of the one loved as his true firstborn, even if the unloved bore him a son first.",
+    "question_ar": "إذا كان للرجل زوجتان، واحدة محبوبة والأخرى غير محبوبة، كان يمكنه اعتبار ابن المحبوبة بكراً حتى لو أنجبت غير المحبوبة أولاً.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.21.15-17"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2c5cecf3-354a-4f8a-9c35-b3a6c2e19a98",
+    "question": "What penalty was prescribed for a stubborn and rebellious son who would not change even when corrected by his parents?",
+    "question_ar": "ما هي العقوبة المقررة للابن العاصي والمتمرد الذي لا يتغير حتى عندما ينصحه والداه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.21.18-21"
+    ],
+    "answers": [
+      {
+        "answer": "He was to be stoned to death",
+        "answer_ar": "كان يجب أن يُرجم حتى الموت",
+        "isCorrect": true
+      },
+      {
+        "answer": "كان يُنفى",
+        "answer_ar": "كان يُنفى",
+        "isCorrect": false
+      },
+      {
+        "answer": "كان يُجلد فقط",
+        "answer_ar": "كان يُجلد فقط",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4e5d3b4f-10a4-42b7-969b-fcfb17030a6c",
+    "question": "If a man was executed for a sin worthy of death, his dead body was to be hung on a tree but not left there overnight.",
+    "question_ar": "إذا أُعدم رجل بسبب خطية تستحق الموت، كان يجب أن يُعلق جسده على شجرة ولكن لا يترك هناك حتى الصباح.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.21.22",
+      "Deut.21.23",
+      "Gal.3.13"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e8c98643-4f8c-463e-9085-c9d55e944bfa",
+    "question": "If an Israelite found something another had lost, he was entitled to keep it as his own possession.",
+    "question_ar": "إذا وجد إسرائيلي شيئًا ضائعًا يعود لغيره، كان يحق له أن يحتفظ به كملكه.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.22.1-3"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e0cae35d-4650-40ba-8127-0e9ac1b773e0",
+    "question": "What was an Israelite required to put on the roof of his house?",
+    "question_ar": "ما الذي كان يجب على الإسرائيلي أن يضعه على سطح منزله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.22.8"
+    ],
+    "answers": [
+      {
+        "answer": "A protective railing",
+        "answer_ar": "درابزين (سور واقي)",
+        "isCorrect": true
+      },
+      {
+        "answer": "Chimney",
+        "answer_ar": "مدخنة",
+        "isCorrect": false
+      },
+      {
+        "answer": "The first commandment",
+        "answer_ar": "الوصية الأولى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a502f565-91c2-4063-badb-3fd2d5ed04ae",
+    "question": "It was permissible to yoke a donkey and an ox together to plow a field if a man did not have two oxen.",
+    "question_ar": "كان يجوز ربط حمار وثور معًا لحرث الحقل إذا لم يكن لدى الرجل ثوران.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.22.10"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0c5e682f-0fc0-43a8-84a2-f1a493247a20",
+    "question": "How many tassels were to hang from the robe of an Israelite?",
+    "question_ar": "كم شراشيب (هدب) كان يجب أن تكون في رداء الإسرائيلي؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.22.12",
+      "Num.15.37-41"
+    ],
+    "answers": [
+      {
+        "answer": "Four",
+        "answer_ar": "أربعة",
+        "isCorrect": true
+      },
+      {
+        "answer": "ثلاثة",
+        "answer_ar": "ثلاثة",
+        "isCorrect": false
+      },
+      {
+        "answer": "سبعة",
+        "answer_ar": "سبعة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "31c5eb87-b622-4653-9d0e-b9adcb86c8b2",
+    "question": "If a married woman was caught committing adultery with a man, the penalty for the man was lighter than that for the woman.",
+    "question_ar": "إذا ضبطت امرأة متزوجة وهي تزني مع رجل، كانت عقوبة الرجل أخف من عقوبة المرأة.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.22.22"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "f03e126e-247d-4740-9e88-6248232780e1",
+    "question": "The penalty for adultery was stoning. What was the penalty if an engaged woman had sex with another man?",
+    "question_ar": "عقوبة الزنى كانت الرجم. ما هي عقوبة المرأة المخطوبة إذا ضاجعت رجلاً آخر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.22.23",
+      "Deut.22.24"
+    ],
+    "answers": [
+      {
+        "answer": "Both had to be stoned",
+        "answer_ar": "كان يجب أن يُرجما معًا",
+        "isCorrect": true
+      },
+      {
+        "answer": "دفع غرامة للعريس",
+        "answer_ar": "دفع غرامة للعريس",
+        "isCorrect": false
+      },
+      {
+        "answer": "دفع غرامة لأب العروس",
+        "answer_ar": "دفع غرامة لأب العروس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eebf5bce-f0e7-417d-a6f6-d41e5c96e277",
+    "question": "If a man was found to have sexual relations with an unmarried woman, he had to marry her and pay her father a dowry price. What other condition was placed on him?",
+    "question_ar": "إذا وُجد رجل قد عاشر امرأة غير متزوجة، كان عليه أن يتزوجها ويدفع مهرًا لأبيها. ما هو الشرط الآخر المفروض عليه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.22.28",
+      "Deut.22.29"
+    ],
+    "answers": [
+      {
+        "answer": "He was not permitted to divorce her all his life",
+        "answer_ar": "لم يكن مسموحًا له أن يطلقها مدى حياته",
+        "isCorrect": true
+      },
+      {
+        "answer": "كان يجب أن يدفع مهرًا إضافيًا",
+        "answer_ar": "كان يجب أن يدفع مهرًا إضافيًا",
+        "isCorrect": false
+      },
+      {
+        "answer": "كان عليه أن يخدم في بيت أبيها",
+        "answer_ar": "كان عليه أن يخدم في بيت أبيها",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5b27ae06-03b6-4e93-9331-4adba663e1b4",
+    "question": "One of illegitimate birth could not enter the congregation of the Lord. How many generations of his descendants were also prohibited?",
+    "question_ar": "ابن الزنا لا يدخل جماعة الرب. كم جيلًا من نسله يُمنع أيضًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.23.2"
+    ],
+    "answers": [
+      {
+        "answer": "Ten",
+        "answer_ar": "عشرة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Five",
+        "answer_ar": "خمسة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Seven",
+        "answer_ar": "سبعة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ae947207-4107-4142-8dfd-5ad02ca9d3a7",
+    "question": "If a slave escaped from his master and came to an Israelite, the Israelite was to return him to his master.",
+    "question_ar": "إذا هرب عبد من سيده وجاء إلى إسرائيلي، كان يجب على الإسرائيلي أن يعيده لسيده.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.23.15",
+      "Deut.23.16"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "30d638c4-b1d6-4e32-9956-6e4c105dbcb5",
+    "question": "Every Israelite was required to make a vow to the Lord and not delay in paying it.",
+    "question_ar": "كان يجب على كل إسرائيلي أن ينذر للرب ولا يؤخر الوفاء بنذره.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.23.22",
+      "Deut.23.23"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "25109e90-1c3b-49a3-a531-9a47cb31b52d",
+    "question": "It was permissible for an Israelite to go into his neighbor’s vineyard and eat all the grapes he wanted while he was there.",
+    "question_ar": "كان يُسمح للإسرائيلي أن يدخل كرم جاره ويأكل من العنب بقدر ما يشاء أثناء وجوده هناك.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.23.24"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "502f86d1-c86e-4ba7-883e-59e210bcdd4c",
+    "question": "Mosaic Law states, “When you come into your neighbor’s standing grain, you may pluck the heads with your hand, but you shall not use a ______ on your neighbor’s standing grain.”",
+    "question_ar": "شريعة موسى تقول: «عندما تدخل حقل جارك، يمكنك قطف السنابل بيدك، ولكن لا تستخدم ______ في حقل جارك.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.23.25"
+    ],
+    "answers": [
+      {
+        "answer": "Sickle",
+        "answer_ar": "منجل",
+        "isCorrect": true
+      },
+      {
+        "answer": "فأس",
+        "answer_ar": "فأس",
+        "isCorrect": false
+      },
+      {
+        "answer": "يد أخرى",
+        "answer_ar": "يد أخرى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b572c7e4-e90e-4354-9bc2-b227de2e3298",
+    "question": "Divorce was totally prohibited under Mosaic Law.",
+    "question_ar": "كان الطلاق ممنوعًا تمامًا بموجب شريعة موسى.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.24.1-4",
+      "Matt.19.3"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "dc2a5f8a-bf24-4ee5-89e8-0ebcb76960ae",
+    "question": "“No man shall take the lower or the upper ______ in pledge, for he takes one’s living in pledge.”",
+    "question_ar": "«لا يأخذ أحد الرحى السفلى أو العليا رهنًا، لأنه يأخذ حياة صاحبه رهنًا.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Deut.24.6"
+    ],
+    "answers": [
+      {
+        "answer": "Millstone",
+        "answer_ar": "رحى",
+        "isCorrect": true
+      },
+      {
+        "answer": "جرن",
+        "answer_ar": "جرن",
+        "isCorrect": false
+      },
+      {
+        "answer": "سراج",
+        "answer_ar": "سراج",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f4fcf4a1-f2c1-4e5a-b6c4-9a81e0328e1c",
+    "question": "If a man was found guilty in a Jewish court and a beating was prescribed as punishment, how many blows was he to receive?",
+    "question_ar": "إذا أُدين رجل في محكمة يهودية وقررت المحكمة أن يُجلد، كم جلدة يجب أن يتلقى؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Deut.25.1-3",
+      "2Cor.11.24"
+    ],
+    "answers": [
+      {
+        "answer": "Forty",
+        "answer_ar": "أربعون",
+        "isCorrect": true
+      },
+      {
+        "answer": "ثلاثون",
+        "answer_ar": "ثلاثون",
+        "isCorrect": false
+      },
+      {
+        "answer": "خمسون",
+        "answer_ar": "خمسون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7b7c41b5-86ad-48ad-88ba-0f97ed9c2346",
+    "question": "Israel was commanded to blot out the remembrance of whom from under heaven?",
+    "question_ar": "من هم القوم الذين أمر الله اسرائيل أن يمحوهم عن وجه الأرض؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Deut.25.17-19"
+    ],
+    "answers": [
+      {
+        "answer": "Amalek",
+        "answer_ar": "عماليق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Edom",
+        "answer_ar": "أدوم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ammon",
+        "answer_ar": "عمون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "92c0ab47-64b5-4b2f-b08d-373e38a78b13",
+    "question": "“You shall not have in your bag differing ______, a heavy and a light.”",
+    "question_ar": "«لا يكن في كيسك أوزان ______، كبير وصغير.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Deut.25.13"
+    ],
+    "answers": [
+      {
+        "answer": "Weights",
+        "answer_ar": "أوزان",
+        "isCorrect": true
+      },
+      {
+        "answer": "دراهم",
+        "answer_ar": "دراهم",
+        "isCorrect": false
+      },
+      {
+        "answer": "حجارة",
+        "answer_ar": "حجارة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5be43b94-b3c5-4b04-8b4d-fb5d174101e1",
+    "question": "If a man refused to raise up a name for his dead brother, the widow was to remove the brother’s sandal and spit in his face.",
+    "question_ar": "إذا رفض رجل أن يقيم نسلًا لأخيه الميت، كان يجب على الأرملة أن تخلع نعله وتبصق في وجهه.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Deut.25.7-9"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9c32af74-22fa-4776-912a-58c4c8e41d2f",
+    "question": "After the people had come into the Promised Land, they were to build an altar made of:",
+    "question_ar": "بعد دخول الشعب إلى أرض الموعد، كان عليهم أن يبنوا مذبحًا من:",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Deut.27.6"
+    ],
+    "answers": [
+      {
+        "answer": "Whole stones",
+        "answer_ar": "حجارة كاملة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Cut stones",
+        "answer_ar": "حجارة منحوتة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Rough stones",
+        "answer_ar": "حجارة خشنة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d9812478-b273-465e-bcec-0a89ee099af9",
+    "question": "God promised Israel blessing for obedience and a curse for disobedience. The curse was to be pronounced from Mount Ebal and the blessing from Mount:",
+    "question_ar": "وعد الله إسرائيل بالبركة مقابل الطاعة وباللعنة مقابل العصيان. تُقرأ اللعنة من جبل عيبال والبركة من جبل:",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Deut.27.11-13"
+    ],
+    "answers": [
+      {
+        "answer": "Gerizim",
+        "answer_ar": "جرزيم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Horeb",
+        "answer_ar": "حوريب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Olivet",
+        "answer_ar": "الزيتون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a7843245-9a67-4d0c-8366-4694d0ca85b7",
+    "question": "“The ______ things belong to the LORD our God, but those things which are revealed belong to us and to our children forever, that we may do all the words of this law.”",
+    "question_ar": "«أما ______ فللرب إلهنا، وأما المعلنة فلنا ولأولادنا إلى الأبد لكي نعمل بجميع كلمات هذه الشريعة.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Deut.29.29"
+    ],
+    "answers": [
+      {
+        "answer": "Secret",
+        "answer_ar": "السرائر",
+        "isCorrect": true
+      },
+      {
+        "answer": "معروفة",
+        "answer_ar": "معروفة",
+        "isCorrect": false
+      },
+      {
+        "answer": "ظاهرة",
+        "answer_ar": "ظاهرة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "99f2de69-1e2e-4352-8be1-3997e863e35c",
+    "question": "If rebellious Israel returned to the Lord, He promised to ______ their heart, so they would love the Lord their God with all their heart and all their soul.",
+    "question_ar": "إذا رجع إسرائيل المتمرد إلى الرب، وعد أن ______ قلبهم لكي يحبوا الرب إلههم من كل قلبهم ومن كل نفسهم.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Deut.30.1-6"
+    ],
+    "answers": [
+      {
+        "answer": "Circumcise",
+        "answer_ar": "يختن",
+        "isCorrect": true
+      },
+      {
+        "answer": "يطهر",
+        "answer_ar": "يطهر",
+        "isCorrect": false
+      },
+      {
+        "answer": "ينير",
+        "answer_ar": "ينير",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "35527dbf-9402-4ce8-a13d-19dc1a1a5e92",
+    "question": "As Moses concluded his giving of the law, he said, “I have set before you life and ______, blessing and ______; therefore choose ______, that both you and your descendants may live.”",
+    "question_ar": "عند ختام موسى لإعطاء الشريعة قال: «قد جعلت أمامكم الحياة و______، البركة و______؛ فاختر ______ لكي تحيا أنت ونسلك.»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Deut.30.19"
+    ],
+    "answers": [
+      {
+        "answer": "Death … cursing … life",
+        "answer_ar": "الموت ... اللعنة ... الحياة",
+        "isCorrect": true
+      },
+      {
+        "answer": "شر ... عقوبة ... الخير",
+        "answer_ar": "شر ... عقوبة ... الخير",
+        "isCorrect": false
+      },
+      {
+        "answer": "فرح ... حزن ... الموت",
+        "answer_ar": "فرح ... حزن ... الموت",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4d8247e9-cdc5-4f98-936d-b0f6e859a6f5",
+    "question": "The law was to be read to all the people every seven years at what Jewish feast?",
+    "question_ar": "في أي عيد يهودي كان يجب قراءة الشريعة لجميع الشعب كل سبع سنوات ؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "translated",
+    "verses": [
+      "Deut.31.10-12"
+    ],
+    "answers": [
+      {
+        "answer": "Tabernacles",
+        "answer_ar": "المظال",
+        "isCorrect": true
+      },
+      {
+        "answer": "Passover",
+        "answer_ar": "الفصح",
+        "isCorrect": false
+      },
+      {
+        "answer": "Purim",
+        "answer_ar": "البوريم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "caf28d59-3511-4c99-8ac6-52c1b3f850f0",
+    "question": "God instructed Joshua as he prepared to enter the land of Canaan: “This Book of the Law shall not depart from your mouth, but you shall …”",
+    "question_ar": "أوصى الله يشوع وهو يستعد لدخول أرض كنعان: «لا يبرح سفر هذه الشريعة من فمك، بل ...»",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Josh.1.8"
+    ],
+    "answers": [
+      {
+        "answer": "Meditate in it day and night",
+        "answer_ar": "تتأمل فيه نهارًا وليلًا",
+        "isCorrect": true
+      },
+      {
+        "answer": "تكرره في المجامع",
+        "answer_ar": "تكرره في المجامع",
+        "isCorrect": false
+      },
+      {
+        "answer": "تكتبه على الحيطان",
+        "answer_ar": "تكتبه على الحيطان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6511c87e-15c8-49c8-b04d-04d7422be2b1",
+    "question": "What was read to the children of Israel when they renewed their covenant with God after the defeat of Ai?",
+    "question_ar": "ماذا قُرئ لبني إسرائيل عندما جددوا عهدهم مع الله بعد هزيمة عاي؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "rejected",
+    "verses": [
+      "Josh.8.34",
+      "Deut.27",
+      "Deut.28"
+    ],
+    "answers": [
+      {
+        "answer": "The whole law",
+        "answer_ar": "جميع الشريعة",
+        "isCorrect": true
+      },
+      {
+        "answer": "جزء من الشريعة",
+        "answer_ar": "جزء من الشريعة",
+        "isCorrect": false
+      },
+      {
+        "answer": "وصايا موسى فقط",
+        "answer_ar": "وصايا موسى فقط",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ae77ea9c-c212-4337-b3f5-c353967be4f4",
+    "question": "The inhabitants of Jerusalem tricked Joshua into making a covenant of peace with them by pretending they were from a far-off place.",
+    "question_ar": "خدع سكان أورشليم يشوع ليعقد معهم عهد سلام بادعائهم أنهم من مكان بعيد.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.9.3-9"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e16a6778-dbe5-4ea5-998b-0e8b2c76e355",
+    "question": "At the end of his life, Joshua advised the people to “choose for yourselves this day whom you will serve.” He provided an example for them to follow by saying, “But as for me and my house, we will serve the LORD.”",
+    "question_ar": "في نهاية حياته، نصح يشوع الشعب أن «اختاروا اليوم من تعبدون»، وأعطاهم مثالاً بقوله: «أما أنا وبيتي فنعبد الرب».",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.24.15"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b5161e32-6710-4f9d-bd8a-d776343d54f1",
+    "question": "When the Israelites renewed their vow to serve the Lord at Shechem, Joshua said to them, “You are witnesses against yourselves … to serve Him.”",
+    "question_ar": "عندما جدد بنو إسرائيل عهدهم لعبادة الرب في شكيم، قال لهم يشوع: «أنتم شهود على أنفسكم ... لعبادته».",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.24.22"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d05eb9b2-d6bb-4a0d-8f22-f25b94e76e8c",
+    "question": "All the good things the Lord promised the children of Israel came to pass when they settled in Canaan.",
+    "question_ar": "تحققت كل الأمور الصالحة التي وعد الرب بها بني إسرائيل عندما استقروا في كنعان.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.21.45"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7038c0a7-3dd7-45d9-946d-c1b340e5da48",
+    "question": "When the children of Israel camped at Gilgal after crossing the Jordan, they celebrated the Passover Feast on the fourteenth day of the month at twilight.",
+    "question_ar": "عندما خيّم بنو إسرائيل في الجلجال بعد عبور الأردن، احتفلوا بعيد الفصح في اليوم الرابع عشر من الشهر مساءً.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.5.10"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6d8909e0-0f2f-4d24-bc01-f165a6b0986d",
+    "question": "None of the children of Israel who were born during the forty-year sojourn in the wilderness were circumcised.",
+    "question_ar": "لم يُختن أحد من بني إسرائيل الذين وُلدوا خلال الأربعين سنة في البرية.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.5.5"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e0a35132-4b24-4a2b-bf83-3c274a4d3f42",
+    "question": "Which of the following was not a family of the Levites who received cities in the land of Canaan? (a) Ashdodites; (b) Kohathites; or (c) Gershonites.",
+    "question_ar": "أي مما يلي ليس من عائلات اللاويين الذين نالوا مدنًا في أرض كنعان؟ (أ) أشدوديون؛ (ب) قهاتيون؛ أو (ج) جرشونيون.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.21.10",
+      "Josh.21.27",
+      "Josh.21.34",
+      "Josh.13.3"
+    ],
+    "answers": [
+      {
+        "answer": "Ashdodites",
+        "answer_ar": "الأشدوديون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Kohathites",
+        "answer_ar": "القَهَاتيون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gershonites",
+        "answer_ar": "الجِرشونيون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7ba3fd5d-30fd-4a91-85f7-14ca5e405ddc",
+    "question": "Because the Israelites broke the covenant and did not obey, God said, “I also will no longer drive out before them any of the nations which Joshua left when he died, so that through them I may test Israel, whether they will keep the ways of the LORD … or not.”",
+    "question_ar": "لأن بني إسرائيل نقضوا العهد ولم يطيعوا، قال الله: «لن أطرد بعد من أمامهم أي من الأمم التي تركها يشوع عند موته، لكي أمتحن إسرائيل هل يحفظون طريق الرب أم لا».",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.2.21",
+      "Judg.2.22"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "769e26f8-5e80-43d0-8727-4a6e18c20e67",
+    "question": "The cycle of sin, enemy rule, and deliverance which the Israelites experienced fulfilled the words of Joshua when he said concerning the Canaanites, “They shall be snares and traps to you, and scourges on your sides and thorns in your eyes.”",
+    "question_ar": "دورة الخطية، وسيطرة الأعداء، والخلاص التي مر بها بنو إسرائيل حققت كلمات يشوع عن الكنعانيين: «يكونون لكم فخاخًا وشراكًا وسياطًا في جوانبكم وشوكًا في أعينكم».",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Josh.23.13"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e13235c9-64e8-4f6b-b9c5-24e9da8a1e5c",
+    "question": "Gideon asked God for what sign to show that He would save Israel? (a) Fire consuming an offering; (b) a wet, then dry, fleece of wool; or (c) a rod turning into a serpent.",
+    "question_ar": "أي علامة طلب جدعون من الله ليثبت له أنه سيخلّص إسرائيل؟ (أ) نار تلتهم تقدمة؛ (ب) صوفة مبتلة ثم جافة؛ أو (ج) عصا تتحول إلى حية.",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.6.37",
+      "Judg.6.39"
+    ],
+    "answers": [
+      {
+        "answer": "A wet, then dry, fleece of wool",
+        "answer_ar": "صوفة مبتلة ثم جافة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Fire consuming an offering",
+        "answer_ar": "نار تلتهم تقدمة",
+        "isCorrect": false
+      },
+      {
+        "answer": "A rod turning into a serpent",
+        "answer_ar": "عصا تتحول إلى حية",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bf3024e3-2272-4a9d-97e7-ff75f114dfb6",
+    "question": "God told the Israelites, when they complained about their treatment by the Philistines, Ammonites, and Amorites, “I will deliver you no more. Go and cry out to the gods which you have chosen; let them deliver you in your time of distress.”",
+    "question_ar": "قال الله لبني إسرائيل عندما تذمروا من معاملتهم من قبل الفلسطينيين والعمونيين والأموريين: «لن أخلصكم بعد. اذهبوا وصرخوا إلى الآلهة التي اخترتموها؛ فلتخلصكم في وقت ضيقكم».",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.10.13",
+      "Judg.10.14"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "95ba78a2-1b93-410c-a54e-0f1ce3ae8e24",
+    "question": "The Angel of the Lord told Samson’s mother before he was born that he would be a Nazirite from the age of two until he died.",
+    "question_ar": "قال ملاك الرب لأم شمشون قبل ولادته إنه سيكون نذيرًا من سن الثانية حتى يموت.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.13.6",
+      "Judg.13.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b80c181f-76b3-4191-90a9-0f846244c8d7",
+    "question": "The Israelites vowed at Mizpah that none of them would give his daughter to a man of the tribe of Benjamin for a wife.",
+    "question_ar": "نذر بنو إسرائيل في المصفاة ألا يعطي أحدهم ابنته رجلًا من سبط بنيامين زوجة له.",
+    "type": "True or False",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.21.1"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7d1da746-9c19-4d7e-92b9-5a9c5f2b5f5e",
+    "question": "What did Jotham pronounce on the evil men of Shechem?",
+    "question_ar": "ماذا نطق يوثام على رجال شكيم الأشرار؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "Judg.9.57"
+    ],
+    "answers": [
+      {
+        "answer": "A curse",
+        "answer_ar": "لعنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "A plague",
+        "answer_ar": "وباء",
+        "isCorrect": false
+      },
+      {
+        "answer": "A death sentence",
+        "answer_ar": "حكم بالموت",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d5f879bb-b9bb-4b4e-948c-7ae1945290a8",
+    "question": "In what chapter of 2 Samuel will you find God’s covenant with David to establish his kingdom forever?",
+    "question_ar": "في أي إصحاح من صموئيل الثاني تجد عهد الله مع داود لتثبيت مملكته إلى الأبد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "2Sam.7.4-17"
+    ],
+    "answers": [
+      {
+        "answer": "Seventh",
+        "answer_ar": "الإصحاح السابع",
+        "isCorrect": true
+      },
+      {
+        "answer": "Third",
+        "answer_ar": "الإصحاح الثالث",
+        "isCorrect": false
+      },
+      {
+        "answer": "Tenth",
+        "answer_ar": "الإصحاح العاشر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "155627e2-9391-4f4e-9395-0ce84fd59a2b",
+    "question": "Of whom was God speaking when He said to David, “He shall build a house for My name”?",
+    "question_ar": "عن من كان الله يتحدث إلى داود حين قال: «هو يبني بيتًا لاسمي»؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "2Sam.7.13",
+      "1Kin.5.2-5"
+    ],
+    "answers": [
+      {
+        "answer": "Solomon",
+        "answer_ar": "سليمان",
+        "isCorrect": true
+      },
+      {
+        "answer": "داود",
+        "answer_ar": "داود",
+        "isCorrect": false
+      },
+      {
+        "answer": "أخآب",
+        "answer_ar": "أخآب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "285b06fa-ecf3-4eb7-83bb-35d614ae52b1",
+    "question": "God’s covenant with David concerning an eternal kingdom was reiterated to one of his descendants. Who also received this promise?",
+    "question_ar": "عهد الله مع داود بخصوص ملك أبدي تكرر لأحد نسله. من هو الذي نال هذا الوعد أيضًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "History"
+    ],
+    "tags": [
+      "Law",
+      "Promise"
+    ],
+    "status": "draft",
+    "verses": [
+      "1Kin.9.2",
+      "1Kin.9.4",
+      "1Kin.9.5"
+    ],
+    "answers": [
+      {
+        "answer": "Solomon",
+        "answer_ar": "سليمان",
+        "isCorrect": true
+      },
+      {
+        "answer": "رحبعام",
+        "answer_ar": "رحبعام",
+        "isCorrect": false
+      },
+      {
+        "answer": "يشيا",
+        "answer_ar": "يشيا",
         "isCorrect": false
       }
     ]
