@@ -21,6 +21,10 @@ export type QuestionInput = {
   status: string;
   verses: string[];
   answers: Answer[];
+  createdAt?: string;
+  updatedAt?: string;
+  lastUpdateAt?: string;
+  difficulty?: string;
 };
 
 type QuestionFormProps = {
@@ -37,6 +41,8 @@ const DEFAULT_STATUSES = [
   'published',
   'rejected',
 ];
+
+const DEFAULT_DIFFICULTIES = ['easy', 'medium', 'hard'];
 
 // Helper: error message component
 const FieldError = ({ error }: { error?: string }) =>
@@ -182,6 +188,17 @@ export function PreviewModal({
             ))}
           </ul>
         </div>
+
+        {/* difficulty */}
+        <div className="bg-gray-50 border border-gray-200 rounded p-4 mb-2">
+          <div className="font-semibold text-gray-700 mb-2">Difficulty:</div>
+          <ul className="space-y-2">
+            <li className="flex items-center gap-3">
+              <span className="font-medium text-gray-800">{question.difficulty ? question.difficulty : 'N/A'}</span>
+            </li>
+          </ul>
+        </div>
+
       </div>
     </div>
   );
@@ -195,12 +212,15 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
   const [categoryOptions, setCategoryOptions] = useState<string[]>([]);
   const [tagOptions, setTagOptions] = useState<string[]>([]);
   const [statusOptions, setStatusOptions] = useState<string[]>(DEFAULT_STATUSES);
+  const [difficultyOptions, setDifficultyOptions] = useState<string[]>(DEFAULT_DIFFICULTIES);
 
   // Inputs for live search
   const [tagInput, setTagInput] = useState('');
   const [categoryInput, setCategoryInput] = useState('');
   const [verseInput, setVerseInput] = useState('');
   const [newStatusInput, setNewStatusInput] = useState('');
+
+
 
   // Filtered options
   const filterOptions = (input: string, options: string[]) =>
@@ -386,7 +406,7 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
     <>
       <form
         onSubmit={handleSubmit}
-        className="space-y-6 bg-white p-6 border border-gray-300 rounded shadow-md max-w-2xl mx-auto "
+        className="space-y-6 bg-white p-6 border border-gray-300 rounded shadow-md max-w-2xl mx-auto bt-8 "
       >
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Question (EN)</label>
@@ -712,6 +732,25 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
             </button>
           </div>
           <FieldError error={errors.status} />
+        </div>
+
+        {/* difficulty */}
+        <div>
+          <label className="block text-sm font-medium text-gray-700 mb-1">Difficulty</label>
+          <div className="flex gap-2 mb-1">
+            <select
+              value={data.difficulty ? data.difficulty : 'medium'}
+              onChange={(e) => setData({ ...data, difficulty: e.target.value })}
+              className="p-2 border border-gray-300 rounded bg-gray-100 text-gray-700"
+            >
+              {difficultyOptions.map((difficulty) => (
+                <option key={difficulty} value={difficulty}>
+                  {difficulty}
+                </option>
+              ))}
+            </select>
+          </div>
+          <FieldError error={errors.difficulty} />
         </div>
 
         {/* Form buttons */}

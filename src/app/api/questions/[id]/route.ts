@@ -8,13 +8,13 @@ import { stat } from 'fs';
 // GET /api/questions
 export async function GET(
   _req: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params:  { id: string } }
 ) {
-  const { id } = params;
+  const { id } = await params;
 
   const questions = await loadQuestions();
 
-  // check if the id is doublicated in the array of questions: filter the questions by id, if the length is more than one then the id is doublicated raise error and display the id
+
   const doublicatedId = questions.filter((q: any) => q.id === id);
   if (doublicatedId.length > 1) {
     return Response.json({ error: 'Doublicated id' }, { status: 400 });

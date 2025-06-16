@@ -186,9 +186,9 @@ export default function HomePage() {
     const confirmed = confirm('Are you sure you want to delete this question?');
     if (!confirmed) return;
 
-    const res = await fetch(`/api/questions/${id}`, { method: 'DELETE' });
+    const res = await fetch(`/api/questions/${id}`, { method: 'PATCH', body: JSON.stringify({ status: 'rejected' }) });
     if (res.ok) {
-      setQuestions((prev) => prev.filter((q) => q.id !== id));
+      setRefreshing(!refreshing);
     } else {
       alert('Failed to delete question.');
     }
@@ -196,21 +196,7 @@ export default function HomePage() {
 
   return (
     <main className="p-6 max-w-6xl mx-auto relative">
-      {quickPreviewId && quickPreviewQuestion && (
-        <PreviewModal
-          question={quickPreviewQuestion}
-          open={!!quickPreviewId}
-          onClose={closeQuickPreview}
-        />
-      )}
-      {quickEditId && quickEditQuestion && (
-        <QuickEditModal
-          questionId={quickEditId}
-          open={!!quickEditId}
-          onClose={closeQuickEdit}
-          onSave={handleQuickSave}
-        />
-      )}
+
       <div className="flex flex-wrap gap-4 mb-4">
         <button
           onClick={handleExportAll}
@@ -381,7 +367,7 @@ export default function HomePage() {
                     onClick={() => handleDelete(q.id)}
                     className="text-red-600 hover:text-red-800 font-medium"
                   >
-                    Delete
+                    Reject
                   </button>
                 </td>
               </tr>
@@ -389,7 +375,23 @@ export default function HomePage() {
           </tbody>
         </table>
       </div>
-
+      <div className="mt-40" >
+        {quickPreviewId && quickPreviewQuestion && (
+          <PreviewModal
+            question={quickPreviewQuestion}
+            open={!!quickPreviewId}
+            onClose={closeQuickPreview}
+          />
+        )}
+        {quickEditId && quickEditQuestion && (
+          <QuickEditModal
+            questionId={quickEditId}
+            open={!!quickEditId}
+            onClose={closeQuickEdit}
+            onSave={handleQuickSave}
+          />
+        )}
+      </div>
 
     </main>
   );
