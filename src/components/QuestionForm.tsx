@@ -33,7 +33,7 @@ type QuestionFormProps = {
   mode?: 'add' | 'edit';
 };
 
-const DEFAULT_STATUSES = [
+export const DEFAULT_STATUSES = [
   'draft',
   'translated',
   'proofread1',
@@ -42,7 +42,7 @@ const DEFAULT_STATUSES = [
   'rejected',
 ];
 
-const DEFAULT_DIFFICULTIES = ['easy', 'medium', 'hard'];
+export const DEFAULT_DIFFICULTIES = ['easy', 'medium', 'hard'];
 
 // Helper: error message component
 const FieldError = ({ error }: { error?: string }) =>
@@ -372,6 +372,7 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
     const errs = validate(data);
     setErrors(errs);
     if (Object.keys(errs).length > 0) return;
+    // console.log(data);
     onSubmit({ ...data, id: data.id ?? uuidv4() });
   };
 
@@ -739,12 +740,12 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
           <label className="block text-sm font-medium text-gray-700 mb-1">Difficulty</label>
           <div className="flex gap-2 mb-1">
             <select
-              value={data.difficulty ? data.difficulty : 'medium'}
+              // value={data.difficulty ? data.difficulty : 'medium'}
               onChange={(e) => setData({ ...data, difficulty: e.target.value })}
               className="p-2 border border-gray-300 rounded bg-gray-100 text-gray-700"
             >
               {difficultyOptions.map((difficulty) => (
-                <option key={difficulty} value={difficulty}>
+                <option key={difficulty} value={difficulty} >
                   {difficulty}
                 </option>
               ))}

@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { saveAs } from 'file-saver';
 import { QuickEditModal } from "@/components/QuickEditModal";
 import { PreviewModal } from "@/components/QuestionForm";
+import { DEFAULT_STATUSES, DEFAULT_DIFFICULTIES } from '@/components/QuestionForm';
 
 export type Answer = {
   id: number;
@@ -23,6 +24,8 @@ export type Question = {
   tags?: string[];
   status?: string;
   answers?: Answer[];
+  difficulty?: string;
+  verses?: string[];
 };
 
 
@@ -30,7 +33,6 @@ export default function HomePage() {
 
   const router = useRouter();
   const searchParams = useSearchParams();
-
 
   const [questions, setQuestions] = useState<Question[]>([]);
   const [filtered, setFiltered] = useState<Question[]>([]);
@@ -193,9 +195,26 @@ export default function HomePage() {
       alert('Failed to delete question.');
     }
   };
+  const handleStatusChange = async (id: string, status: string) => {
+    await fetch(`/api/questions/${id}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ status }),
+    });
+    setRefreshing(!refreshing);
+  }
+
+  const handleDifficultyChange = async (id: string, difficulty: string) => {
+    await fetch(`/api/questions/${id}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ difficulty }),
+    });
+    // setRefreshing(!refreshing);
+  }
 
   return (
-    <main className="p-6 max-w-6xl mx-auto relative">
+    <main className="p-6 mx-auto relative">
 
       <div className="flex flex-wrap gap-4 mb-4">
         <button
@@ -278,7 +297,7 @@ export default function HomePage() {
         </div>
       </div>
       {/* statistics */}
-      <div className="mb-6 flex flex-wrap gap-4 text-black dark:text-white">
+      <div className="mb-6 flex flex-wrap gap-4 text-black dark:text-white text-lg font-sans">
         <div>
           {/* all questions count */}
           <span className="block text-sm font-medium">All</span>
@@ -322,15 +341,17 @@ export default function HomePage() {
 
       </div>
       <div className="overflow-auto rounded-lg shadow border border-gray-300">
-        <table className="w-full table-auto text-sm text-left text-gray-700">
+        <table className="w-full table-auto text-xl text-gray-700 ">
           <thead className="bg-blue-100 text-blue-800 uppercase">
             <tr>
               <th className="px-4 py-3 border-b">ID</th>
-              <th className="px-4 py-3 border-b">Question</th>
+              {/* <th className="px-4 py-3 border-b">Question</th> */}
               <th className="px-4 py-3 border-b">Arabic Question</th>
-              <th className="px-4 py-3 border-b">Type</th>
-              <th className="px-4 py-3 border-b">Tags</th>
+              <th className="px-4 py-3 border-b">Arabic answers</th>
+              {/* <th className="px-4 py-3 border-b">Type</th> */}
+              {/* <th className="px-4 py-3 border-b">Tags</th> */}
               <th className="px-4 py-3 border-b">Status</th>
+              <th className="px-4 py-3 border-b">Difficulty</th>
               <th className="px-4 py-3 border-b">Actions</th>
             </tr>
           </thead>
@@ -338,22 +359,54 @@ export default function HomePage() {
             {filtered.map((q) => (
               <tr key={q.id} className="odd:bg-white even:bg-gray-50 border-b hover:bg-yellow-50">
                 <td className="px-4 py-2 border-b text-gray-500 font-mono">{q.id.slice(0, 8)}</td>
-                <td className="px-4 py-2 border-b">{q.question}</td>
-                <td className="px-4 py-2 border-b">{q.question_ar}</td>
-                <td className="px-4 py-2 border-b font-medium">{q.type}</td>
-                <td className="px-4 py-2 border-b">{Array.isArray(q.tags) ? q.tags.join(', ') : ''}</td>
+                {/* <td className="px-4 py-2 border-b">{q.question}</td> */}
+                <td className="px-4 py-2 border-b" dir="rtl">{q.question_ar}</td>
+                <td className="px-4 py-2 border-b" dir='rtl'>
+                  {q.answers?.map((a) =>
+                    <p key={a.id + a.answer} className={`${a.isCorrect ? 'font-semibold' : 'text-red-500'}`}>
+                      {a.answer_ar}
+                    </p>)}
+                </td>
+                {/* <td className="px-4 py-2 border-b font-medium">{q.type}</td> */}
+                {/* <td className="px-4 py-2 border-b">{Array.isArray(q.tags) ? q.tags.join(', ') : ''}</td> */}
                 <td className="px-4 py-2 border-b">
                   <span className="inline-block px-2 py-1 text-xs rounded bg-blue-200 text-blue-800">
                     {q.status ?? 'draft'}
+                    <select
+                      value={q.status}
+                      onChange={(e) => handleStatusChange(q.id, e.target.value)}
+                      className="text-blue-600 hover:text-blue-800 font-medium"
+                    >
+                      {DEFAULT_STATUSES.map((s) => (
+                        <option key={s} value={s}>
+                          {s}
+                        </option>
+                      ))}
+                    </select>
                   </span>
                 </td>
+                <td className="px-4 py-2 border-b">
+                  {
+                    <select
+                      value={q.difficulty}
+                      onChange={(e) => handleDifficultyChange(q.id, e.target.value)}
+                      className="text-blue-600 hover:text-blue-800 font-medium"
+                    >
+                      {DEFAULT_DIFFICULTIES.map((s) => (
+                        <option key={s} value={s}>
+                          {s}
+                        </option>
+                      ))}
+                    </select>
+                  }
+                </td>
                 <td className="px-4 py-2 border-b space-x-4">
-                  <button
+                  {/* <button
                     onClick={() => openQuickPreview(q.id)}
                     className="text-yellow-600 hover:text-yellow-900 font-medium mr-2"
                   >
                     Preview
-                  </button>
+                  </button> */}
                   <button
                     onClick={() => openQuickEdit(q.id)}
                     className="text-orange-600 hover:text-orange-900 font-medium mr-2"
@@ -363,12 +416,12 @@ export default function HomePage() {
                   <Link href={`/${q.id}`} className="text-green-600 hover:text-green-900 font-medium">
                     Visit
                   </Link>
-                  <button
+                  {/* <button
                     onClick={() => handleDelete(q.id)}
                     className="text-red-600 hover:text-red-800 font-medium"
                   >
                     Reject
-                  </button>
+                  </button> */}
                 </td>
               </tr>
             ))}
