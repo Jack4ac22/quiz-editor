@@ -1,3 +1,5 @@
+// src/lib/types/questions.ts
+
 export type Answer = {
   id?: string;
   answer: string;

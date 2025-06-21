@@ -8418,7 +8418,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Num.21.6",
       "John.3.14"
@@ -8453,7 +8453,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Num.22.6"
     ],
@@ -8487,7 +8487,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Num.20.12"
     ],
@@ -8648,7 +8648,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Josh.18.10"
     ],
@@ -8682,7 +8682,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Josh.21.41"
     ],
@@ -8716,7 +8716,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Josh.23.14"
     ],
@@ -8750,11 +8750,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Judg.1.28"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "They did not completely rid the land of Canaanites",
@@ -8884,12 +8883,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Judg.21.21",
       "Judg.21.18"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Kidnapped them",
@@ -8903,7 +8901,7 @@
       },
       {
         "answer": "Stole their household gods",
-        "answer_ar": "سرقوا آلهتهن المنزلية",
+        "answer_ar": "سرقوا آلهتهن الوثنية",
         "isCorrect": false
       }
     ]
@@ -8919,12 +8917,12 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Ruth.1.16",
       "Matt.1.5"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "For wherever you go, I will go; And wherever you lodge, I will lodge; Your people shall be my people, And your God, my God.",
@@ -8954,7 +8952,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Ruth.1.22"
     ],
@@ -8988,13 +8986,13 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Ruth.2.1-7",
       "Lev.19.9",
       "Lev.19.10"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "Gleaning",
@@ -9024,13 +9022,13 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Ruth.4.7",
       "Ruth.4.8",
       "Deut.25.8-10"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "His sandal",
@@ -9060,11 +9058,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.1.13"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "Drunk",
@@ -9163,7 +9161,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.2.21"
     ],
@@ -9226,7 +9224,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.5.2"
     ],
@@ -9260,7 +9258,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.6.1",
       "1Sam.5"
@@ -9287,7 +9285,7 @@
   {
     "id": "b82dfc0a-8fd6-430b-b497-236120e52cf3",
     "question": "How long did the ark of the Lord remain in the house of Abinadab after returning from the Philistines?",
-    "question_ar": "كم بقي تابوت الرب في بيت أبيناداب بعد رجوعه من الفلسطينيين؟",
+    "question_ar": "كم بقي تابوت الرب في بيت أبيناداب بعد استعادته من أرض الفلسطينيين؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -9295,13 +9293,12 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.7.2",
       "2Sam.6.3",
       "2Sam.6.17"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Twenty years",
@@ -9331,7 +9328,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.7.12"
     ],
@@ -9428,7 +9425,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.11.11-15"
     ],
@@ -9462,7 +9459,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.13"
     ],
@@ -9488,7 +9485,7 @@
   {
     "id": "dcb38c6a-692a-4b0a-83b0-34d0c4171d3e",
     "question": "Jonathan had not heard the king’s command to eat no food until the Philistines were defeated. Therefore, while going through a forest, he ate some:",
-    "question_ar": "لم يسمع يوناثان أمر الملك بعدم الأكل حتى يُهزم الفلسطينيون. لذلك، أثناء مروره بغابة، أكل بعض:",
+    "question_ar": "لم يسمع يوناثان أمر الملك بالإمتناع عن الطعام حتى يُهزم الفلسطينيون. ما هو الطعام الذي تناوله أثناء مروره بغابة؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -9496,12 +9493,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.14.24-27",
       "1Sam.14.43-45"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Honey",
@@ -9595,7 +9591,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.16.11",
       "1Pet.5.2"
@@ -9622,7 +9618,7 @@
   {
     "id": "1ca51725-f4db-4b2a-8be8-59d8ef81a56a",
     "question": "What was Samuel doing when God told him that man looks at the outward appearance, but God looks at the heart?",
-    "question_ar": "ماذا كان يفعل صموئيل عندما أخبره الله أن الإنسان ينظر إلى العينين أما الرب فينظر إلى القلب؟",
+    "question_ar": "ماذا كان يفعل صموئيل عندما أخبره الله أن الإنسان ينظر إلى المنظر الخارجي للإنسان أما الرب فينظر إلى القلب؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -9630,11 +9626,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.16.1-7"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Choosing a successor to Saul as king",
@@ -9664,25 +9659,24 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.16.16-23"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "David was a skillful musician",
-        "answer_ar": "كان داود عازفًا ماهرًا",
+        "answer_ar": "داود كان عازفًا ماهرًا",
         "isCorrect": true
       },
       {
         "answer": "David was a skillful shepherd",
-        "answer_ar": "كان داود راعيًا ماهرًا",
+        "answer_ar": "داود كان راعيًا ماهرًا",
         "isCorrect": false
       },
       {
         "answer": "David was a skillful writer",
-        "answer_ar": "كان داود كاتبًا ماهرًا",
+        "answer_ar": "داود كان كاتبًا ماهرًا",
         "isCorrect": false
       }
     ]
@@ -9698,7 +9692,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.16.14"
     ],
@@ -9732,11 +9726,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.17.40"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "Five stones",
@@ -9766,7 +9760,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.17.46"
     ],
@@ -9800,7 +9794,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.18.27",
       "1Sam.18.25"
@@ -9869,7 +9863,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.21.8",
       "1Sam.21.9"
@@ -9938,7 +9932,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.18.10",
       "1Sam.18.11",
@@ -9975,7 +9969,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.23.9",
       "1Sam.23.12"
@@ -10097,7 +10091,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.31.8",
       "2Sam.2.8",
@@ -10133,7 +10127,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1Sam.31.13"
     ],
@@ -10167,7 +10161,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.1.17-27"
     ],
@@ -10201,11 +10195,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.4.4"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "He was crippled",
@@ -10235,7 +10229,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.2.10"
     ],
@@ -10269,12 +10263,12 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.6.16",
       "2Sam.6.23"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "She despised him",
@@ -10304,7 +10298,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.5.11"
     ],
@@ -10367,7 +10361,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.10.4",
       "Lev.19.27"
@@ -10402,7 +10396,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.11.2"
     ],
@@ -10436,11 +10430,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.12.3"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "A little ewe lamb",
@@ -28748,7 +28742,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "easy",
     "verses": [
       "Isa.40.3"
@@ -29209,7 +29203,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "medium",
     "verses": [
       "Jer.5.18"
@@ -29369,8 +29363,8 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
+    "difficulty": "hard",
     "verses": [
       "Jer.7.15"
     ],
@@ -29398,8 +29392,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Jer.8.3"
     ],
@@ -29414,7 +29407,8 @@
         "answer_ar": "خطأ",
         "isCorrect": true
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "a44bb69c-ab28-4338-a110-d1a816692e0a",
@@ -29487,7 +29481,7 @@
   {
     "id": "8f5dde97-7532-483d-87eb-be09adfa611f",
     "question": "With the sign of the clay pots, Jeremiah illustrated that God would fill Judah with drunkenness.",
-    "question_ar": "بإشارة الأواني الفخارية، أوضح إرميا أن الله سيملأ يهوذا بالسكر.",
+    "question_ar": "باستخدام مثل الأواني الفخارية، أوضح إرميا أن الله سيملأ يهوذا بالسكر.",
     "type": "True or False",
     "categories": [
       "Prophecy"
@@ -29495,8 +29489,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
     "verses": [
       "Jer.13.12-14"
     ],
@@ -35753,6 +35746,4263 @@
         "answer": "Jehoahaz",
         "answer_ar": "يهوآحاز",
         "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1e0c6741-3a01-4264-b34b-90f20709f2ad",
+    "question": "Who put Jeremiah in stocks because of his prophesying?",
+    "question_ar": "من وضع إرميا في المقطرة بسبب نبواته؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Jer.20.2"
+    ],
+    "answers": [
+      {
+        "answer": "Zedekiah",
+        "answer_ar": "صدقيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Baruch",
+        "answer_ar": "باروخ",
+        "isCorrect": false
+      },
+      {
+        "answer": "Pashhur",
+        "answer_ar": "فشحور",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "400a3cbe-6c11-4bb1-96a4-1686a3f7762a",
+    "question": "Which king of Judah sent Pashhur to Jeremiah to inquire about Nebuchadnezzar's attack?",
+    "question_ar": "أي ملك من ملوك يهوذا أرسل فشحور إلى إرميا ليسأله عن هجوم نبوخذنصر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Jer.21.1",
+      "Jer.21.2"
+    ],
+    "answers": [
+      {
+        "answer": "Josiah",
+        "answer_ar": "يوشيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Zedekiah",
+        "answer_ar": "صدقيا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Hezekiah",
+        "answer_ar": "حزقيا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ea08005b-40f9-4f1c-8a91-14c5f3b3e2d2",
+    "question": "How long did Jeremiah say the Jews would serve the king of Babylon?",
+    "question_ar": "كم سنة قال إرميا إن اليهود سيخدمون ملك بابل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.25.11"
+    ],
+    "answers": [
+      {
+        "answer": "Forty years",
+        "answer_ar": "أربعون سنة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Seventy years",
+        "answer_ar": "سبعون سنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "One hundred years",
+        "answer_ar": "مئة سنة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "59a304c0-7f0c-41b4-aac1-929c1c5156db",
+    "question": "Hilkiah the prophet took the yoke off Jeremiah’s back and broke it.",
+    "question_ar": "أخذ حلقيا النبي النير عن ظهر إرميا وكسره.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "translated",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.28.10"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "7cb86989-b2e5-4f3b-8054-4fe9f8a5204e",
+    "question": "In Jeremiah, when God promised to rebuild Israel, He reminded them that He had loved them with what kind of love?",
+    "question_ar": "في سفر إرميا، عندما وعد الله بإعادة بناء إسرائيل، بأي نوع من المحبة ذكرهم أنه أحبهم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Jer.31.3"
+    ],
+    "answers": [
+      {
+        "answer": "Everlasting",
+        "answer_ar": "محبة أبدية",
+        "isCorrect": true
+      },
+      {
+        "answer": "Brotherly",
+        "answer_ar": "محبة أخوية",
+        "isCorrect": false
+      },
+      {
+        "answer": "Saving",
+        "answer_ar": "محبة مخلّصة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e0862f1a-d17b-4269-83e5-3fcf4179c88d",
+    "question": "To which country did the people left in Jerusalem flee because they feared Nebuchadnezzar?",
+    "question_ar": "إلى أي بلد هرب من بقي في أورشليم خوفًا من نبوخذنصر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.43.3",
+      "Jer.43.4",
+      "Jer.43.7"
+    ],
+    "answers": [
+      {
+        "answer": "Egypt",
+        "answer_ar": "مصر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Arabia",
+        "answer_ar": "العربية",
+        "isCorrect": false
+      },
+      {
+        "answer": "Persia",
+        "answer_ar": "فارس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1fffb1d0-301f-453e-aac2-3f759a10f2b9",
+    "question": "Where did the Babylonians overtake the army of Zedekiah when they fled Jerusalem?",
+    "question_ar": "أين لحق البابليون بجيش صدقيا عندما هربوا من أورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.52.8"
+    ],
+    "answers": [
+      {
+        "answer": "The Valley of Hinnom",
+        "answer_ar": "وادي هنوم",
+        "isCorrect": false
+      },
+      {
+        "answer": "The plains of Jericho",
+        "answer_ar": "سهول أريحا",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Valley of Salt",
+        "answer_ar": "وادي الملح",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3dbed4b5-9da8-4fef-b3c4-18ae400c43b3",
+    "question": "What law that the Jews had long neglected did Zedekiah temporarily enforce?",
+    "question_ar": "أي شريعة أهملها اليهود طويلاً أعاد صدقيا تطبيقها مؤقتًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Jer.34.8",
+      "Jer.34.9",
+      "Jer.34.10",
+      "Jer.34.11"
+    ],
+    "answers": [
+      {
+        "answer": "Periodic freeing of Hebrew slaves",
+        "answer_ar": "تحرير العبيد العبرانيين دوريًا",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Year of Jubilee",
+        "answer_ar": "سنة اليوبيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Stoning blasphemers",
+        "answer_ar": "رجم المجدفين",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5f5cb69b-c105-45c6-81a1-d2b6e165b7cc",
+    "question": "What family in Judah shunned houses, farming, and wine and were used by Jeremiah as an example of obedience?",
+    "question_ar": "أي عائلة في يهوذا تجنبت السكن والزراعة والخمر واستخدمها إرميا كمثال للطاعة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.35"
+    ],
+    "answers": [
+      {
+        "answer": "The Levites",
+        "answer_ar": "اللاويون",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Rechabites",
+        "answer_ar": "الركابيون",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Nazirites",
+        "answer_ar": "الناصريون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3f47075e-782b-4dc4-b0e9-397457fe8b65",
+    "question": "Which king of Judah cut up and burned the prophecies of Jeremiah that were read to him?",
+    "question_ar": "أي ملك من ملوك يهوذا قطع وأحرق نبوات إرميا التي قُرئت له؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.36.23",
+      "Jer.36.28"
+    ],
+    "answers": [
+      {
+        "answer": "Jehoahaz",
+        "answer_ar": "يهوآحاز",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jehoiakim",
+        "answer_ar": "يهوياقيم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Zedekiah",
+        "answer_ar": "صدقيا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d0cc5e8b-2ec4-4a4b-bf80-4a646f1c2e27",
+    "question": "What did Jehoiakim do that prompted the Lord to promise that no descendant of his would ever be king of Judah?",
+    "question_ar": "ماذا فعل يهوياقيم مما دفع الرب أن يعد بأنه لن يجلس أي من نسله ملكًا على يهوذا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.36.29",
+      "Jer.36.30",
+      "Jer.36.31"
+    ],
+    "answers": [
+      {
+        "answer": "Rebelled against Nebuchadnezzar",
+        "answer_ar": "تمرّد على نبوخذنصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Imprisoned Jeremiah",
+        "answer_ar": "سجن إرميا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Burned the prophecies of Jeremiah",
+        "answer_ar": "أحرق نبوات إرميا",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2181cbff-91d6-4fd3-9c95-76c29dbb3157",
+    "question": "Which king of Judah three times inquired of the Lord through Jeremiah but never had the courage to obey Him?",
+    "question_ar": "أي ملك من ملوك يهوذا سأل الرب ثلاث مرات من خلال إرميا لكنه لم يمتلك الشجاعة ليطيعه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.21.1",
+      "Jer.37.17",
+      "Jer.38.14"
+    ],
+    "answers": [
+      {
+        "answer": "Zedekiah",
+        "answer_ar": "صدقيا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jehoiachin",
+        "answer_ar": "يهوياكين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jehoahaz",
+        "answer_ar": "يهوآحاز",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "aa2b6470-68ff-4c8b-b310-cc636ddc7927",
+    "question": "To which prison did Jeremiah ask King Zedekiah not to return him, lest he die?",
+    "question_ar": "إلى أي سجن طلب إرميا من الملك صدقيا ألّا يعيده، لئلا يموت هناك؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Jer.37.15",
+      "Jer.37.20"
+    ],
+    "answers": [
+      {
+        "answer": "The dungeon of Malchiah",
+        "answer_ar": "سجن ملكيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "The court of the prison",
+        "answer_ar": "فناء السجن",
+        "isCorrect": false
+      },
+      {
+        "answer": "The house of Jonathan the scribe",
+        "answer_ar": "بيت يوناثان الكاتب",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0f15d7fc-94a6-40a2-a77e-f39be991161b",
+    "question": "What was Jeremiah doing when he was arrested and charged with attempting to defect?",
+    "question_ar": "ماذا كان يفعل إرميا عندما تم اعتقاله واتُّهم بمحاولة الانشقاق؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.37.11",
+      "Jer.37.12",
+      "Jer.37.13",
+      "Jer.37.14",
+      "Jer.37.15"
+    ],
+    "answers": [
+      {
+        "answer": "Going fishing",
+        "answer_ar": "كان يصطاد السمك",
+        "isCorrect": false
+      },
+      {
+        "answer": "Checking on his property",
+        "answer_ar": "كان يتفقد ممتلكاته",
+        "isCorrect": true
+      },
+      {
+        "answer": "Encouraging disciples",
+        "answer_ar": "كان يشجّع التلاميذ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2a445eeb-93c2-421c-9a38-053d39085b87",
+    "question": "Zedekiah’s officials wished to execute Jeremiah for undermining the will of the nation to war against Babylon.",
+    "question_ar": "رغِبَ مسؤولو صدقيا في إعدام إرميا لأنه أضعف عزيمة الأمة في الحرب ضد بابل.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "translated",
+    "difficulty": "easy",
+    "verses": [
+      "Jer.38.4"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "512b4a17-630a-4f42-94e8-6d13561b7601",
+    "question": "What nation, which would fall to Babylon, contained the cities of Migdol, Noph, Tahpanhes, and No?",
+    "question_ar": "أي أمة، التي ستسقط في يد بابل، احتوت على مدن مجدل، نوف، تحفنحيس، ونو؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.46.14",
+      "Jer.46.25"
+    ],
+    "answers": [
+      {
+        "answer": "Judah",
+        "answer_ar": "يهوذا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Assyria",
+        "answer_ar": "أشور",
+        "isCorrect": false
+      },
+      {
+        "answer": "Egypt",
+        "answer_ar": "مصر",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "6e89d61b-cce3-4e13-8d98-45ea58d3e845",
+    "question": "Why was Zedekiah afraid to take Jeremiah’s advice to surrender to the Babylonians?",
+    "question_ar": "لماذا خاف صدقيا من اتباع نصيحة إرميا بالاستسلام للبابليين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.38.19"
+    ],
+    "answers": [
+      {
+        "answer": "He feared Nebuchadnezzar",
+        "answer_ar": "كان يخاف نبوخذنصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "He feared torture",
+        "answer_ar": "كان يخاف من التعذيب",
+        "isCorrect": false
+      },
+      {
+        "answer": "He feared previous Jewish defectors",
+        "answer_ar": "كان يخاف من اليهود المنشقين سابقًا",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d9cf4e32-4ebc-4e94-a9ff-f982344a973f",
+    "question": "What happened on the ninth day of the fourth month of the eleventh year of Zedekiah’s reign?",
+    "question_ar": "ماذا حدث في اليوم التاسع من الشهر الرابع من السنة الحادية عشرة لملك صدقيا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Jer.39.2",
+      "Jer.39.3"
+    ],
+    "answers": [
+      {
+        "answer": "Jerusalem was entered by Babylon",
+        "answer_ar": "دخلت بابل أورشليم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jeremiah was imprisoned",
+        "answer_ar": "سُجن إرميا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gedaliah was assassinated",
+        "answer_ar": "تم اغتيال جدليا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "198933ff-03b4-4bd1-9fae-1df8cc52ef48",
+    "question": "What was Seraiah to do with the prophecy of Jeremiah against Babylon after he had read it aloud in Babylon?",
+    "question_ar": "ماذا كان على سرايا أن يفعل بنبوة إرميا ضد بابل بعد أن يقرأها في بابل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.51.63"
+    ],
+    "answers": [
+      {
+        "answer": "Take it back to Jeremiah in Egypt",
+        "answer_ar": "يأخذها لإرميا في مصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Present it to Nebuchadnezzar",
+        "answer_ar": "يقدمها لنبوخذنصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Tie a rock to it and throw it into the Euphrates",
+        "answer_ar": "يربطها بحجر ويطرحها في نهر الفرات",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "da5b4961-df17-4a11-a6bc-bf30ce7b6c64",
+    "question": "Who was appointed by the Babylonians as governor of Judah after its conquest?",
+    "question_ar": "من عيّنه البابليون حاكمًا على يهوذا بعد غزوها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Jer.40.5"
+    ],
+    "answers": [
+      {
+        "answer": "Gedaliah",
+        "answer_ar": "جدليا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ebed-Melech",
+        "answer_ar": "عبيد ملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ishmael",
+        "answer_ar": "إسماعيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3b3c3624-03f2-4d5c-b20e-d5ef746e1de0",
+    "question": "Who inspired Ishmael, a member of the royal family, to murder Gedaliah the governor appointed by Babylon over Judah?",
+    "question_ar": "من ألهم إشماعيل، أحد أفراد العائلة المالكة، لقتل جدليا الحاكم الذي عيّنه بابل على يهوذا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jer.40.14",
+      "Jer.41.1"
+    ],
+    "answers": [
+      {
+        "answer": "Baalis, king of Ammon",
+        "answer_ar": "بعليس، ملك عمون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jeremiah",
+        "answer_ar": "إرميا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Deposed King Zedekiah",
+        "answer_ar": "الملك صدقيا المعزول",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cbd82a1f-15a3-41df-89bc-5a445345a3b8",
+    "question": "What did Jeremiah lament in Lamentations?",
+    "question_ar": "ماذا رثى إرميا في مراثيه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Lam.1.1",
+      "Lam.1.6",
+      "Lam.1.8"
+    ],
+    "answers": [
+      {
+        "answer": "The fall of Jerusalem",
+        "answer_ar": "سقوط أورشليم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Judah’s idolatry",
+        "answer_ar": "عبادة يهوذا للأصنام",
+        "isCorrect": false
+      },
+      {
+        "answer": "His personal calamities",
+        "answer_ar": "مصائبه الشخصية",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "05d59e59-9614-490e-95c7-2062b46dff52",
+    "question": "In Lamentations, how does Jeremiah usually refer to Jerusalem?",
+    "question_ar": "في سفر المراثي، كيف يشير إرميا عادةً إلى أورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Lam.1.15",
+      "Lam.2.13"
+    ],
+    "answers": [
+      {
+        "answer": "As a virgin daughter",
+        "answer_ar": "كعذراء ابنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "As a harlot",
+        "answer_ar": "كزانية",
+        "isCorrect": false
+      },
+      {
+        "answer": "As a toothless hag",
+        "answer_ar": "كامرأة عجوز بلا أسنان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "349b9026-b7fd-4ce7-9f93-e2bc5a97a3a2",
+    "question": "Part of Jeremiah’s first lament is written as though Jerusalem were speaking to passersby who marvel at her destruction.",
+    "question_ar": "جزء من مراثي إرميا الأولى مكتوب وكأن أورشليم تتحدث إلى المارة الذين يندهشون من دمارها.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Lam.1.12",
+      "Lam.1.22"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cfd7c6f3-f4c1-42d6-a4c8-d1f9342c8599",
+    "question": "Who did Jeremiah lament had been an enemy to the temple, feasts, king, and priest in Jerusalem?",
+    "question_ar": "من الذي رثى إرميا أنه أصبح عدوًا للهيكل والأعياد والملك والكاهن في أورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Lam.2.5",
+      "Lam.2.7"
+    ],
+    "answers": [
+      {
+        "answer": "The Lord",
+        "answer_ar": "الرب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Nebuchadnezzar",
+        "answer_ar": "نبوخذنصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Marduk",
+        "answer_ar": "مردوخ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3879b09f-0ef7-49b3-9e4c-45792e97e6a2",
+    "question": "Which of these did Jeremiah not remember in his Lamentations as an encouragement from God?",
+    "question_ar": "أي من هذه لم يتذكرها إرميا في مراثيه كتشجيع من الله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Lam.3.22",
+      "Lam.3.23"
+    ],
+    "answers": [
+      {
+        "answer": "His sanctuary",
+        "answer_ar": "هيكله",
+        "isCorrect": true
+      },
+      {
+        "answer": "His mercies",
+        "answer_ar": "مراحمه",
+        "isCorrect": false
+      },
+      {
+        "answer": "His faithfulness",
+        "answer_ar": "أمانته",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d8c88cd5-d5c3-4d59-b4eb-e2b85949dbb6",
+    "question": "By what phrase did God address Ezekiel?",
+    "question_ar": "بأي عبارة خاطب الله حزقيال؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.2.1",
+      "Ezek.2.3",
+      "Ezek.2.8",
+      "Ezek.3.1",
+      "Ezek.3.3",
+      "Ezek.3.4",
+      "Ezek.3.10"
+    ],
+    "answers": [
+      {
+        "answer": "Son of man",
+        "answer_ar": "ابن آدم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Son of Israel",
+        "answer_ar": "ابن إسرائيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "My messenger",
+        "answer_ar": "رسولي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0fcfb32b-b2e6-4c82-bb14-49b4f7f594f7",
+    "question": "The rims of the four wheels in Ezekiel’s vision were full of hands.",
+    "question_ar": "حواف العجلات الأربع في رؤية حزقيال كانت مليئة بالأيادي.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.1.18"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "cd197b08-9180-46d1-bc16-6de4e0b43c09",
+    "question": "To insure that Ezekiel would not be a reprover to rebellious Israel, God made him:",
+    "question_ar": "لكي لا يكون حزقيال مؤنّبًا لإسرائيل المتمردة، ماذا جعله الله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.3.26",
+      "Ezek.3.27"
+    ],
+    "answers": [
+      {
+        "answer": "Mute",
+        "answer_ar": "أبكم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Blind",
+        "answer_ar": "أعمى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Lame",
+        "answer_ar": "أعرج",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e168ff38-d064-4983-81aa-fbd7645f3192",
+    "question": "How many days did Ezekiel lie on his left side to bear the iniquity of the house of Israel?",
+    "question_ar": "كم عدد الأيام التي اضطجع فيها حزقيال على جنبه الأيسر ليتحمل إثم بيت إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.4.5"
+    ],
+    "answers": [
+      {
+        "answer": "390",
+        "answer_ar": "٣٩٠",
+        "isCorrect": true
+      },
+      {
+        "answer": "40",
+        "answer_ar": "٤٠",
+        "isCorrect": false
+      },
+      {
+        "answer": "400",
+        "answer_ar": "٤٠٠",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c266d67f-2638-49b5-9f3e-63e663b4a894",
+    "question": "Ezekiel saw all the following abominations in the temple except:",
+    "question_ar": "رأى حزقيال كل الرجاسات التالية في الهيكل ما عدا:",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.8.10",
+      "Ezek.8.14"
+    ],
+    "answers": [
+      {
+        "answer": "Women weeping for Tammuz",
+        "answer_ar": "نساء يبكين على تموز",
+        "isCorrect": false
+      },
+      {
+        "answer": "Sacrifice of blemished animals",
+        "answer_ar": "تقديم ذبائح من حيوانات بها عيوب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Idols portrayed on the walls",
+        "answer_ar": "أصنام مصورة على الجدران",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "164b48d0-0244-4e2c-a9eb-328fce0c1609",
+    "question": "The leader of Jerusalem clothed in linen with a writer’s inkhorn was to mark those who sighed over all the abominations done in the city.",
+    "question_ar": "كان قائد أورشليم المرتدي الكتان وحامل دواة الكاتب يضع علامة على الذين يتنهدون على كل الرجاسات التي تُفعل في المدينة.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.9.4"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e5a6a391-953f-4b38-9a63-2c1b1b9fa1f5",
+    "question": "The leaders sent to slay those without the mark in Jerusalem were to begin at the temple.",
+    "question_ar": "كان على القادة المرسلين لقتل من ليس لديهم العلامة في أورشليم أن يبدأوا من الهيكل.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.9.6"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7eb4f5a7-98d7-45cb-b7a4-7ff205afcdf9",
+    "question": "Who did Ezekiel see go in among the wheels and cherubim to get coals for fire to scatter over Jerusalem?",
+    "question_ar": "من رأى حزقيال يدخل بين البكرات والكروبيم ليأخذ جمرًا لنثره على أورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.9.1",
+      "Ezek.10.6",
+      "Ezek.10.7"
+    ],
+    "answers": [
+      {
+        "answer": "Jeremiah",
+        "answer_ar": "إرميا",
+        "isCorrect": false
+      },
+      {
+        "answer": "The man who marked those to be spared",
+        "answer_ar": "الرجل الذي وضع العلامة على الذين نُجوا",
+        "isCorrect": true
+      },
+      {
+        "answer": "God",
+        "answer_ar": "الله",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b276ed46-3ef7-46b4-9b9d-21744d07fa44",
+    "question": "How many men did God point out to Ezekiel who devised iniquity and gave wicked counsel to Jerusalem?",
+    "question_ar": "كم رجلاً أشار الله إليهم لحزقيال بأنهم يدبرون الشر ويعطون مشورة شريرة لأورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.11.1",
+      "Ezek.11.2"
+    ],
+    "answers": [
+      {
+        "answer": "Six",
+        "answer_ar": "ستة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ten",
+        "answer_ar": "عشرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Twenty-five",
+        "answer_ar": "خمسة وعشرون",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "7776d708-5140-4b3b-902e-85d1a625b878",
+    "question": "In Ezekiel, God compared Israel’s prophets to foxes in the desert.",
+    "question_ar": "في سفر حزقيال، شبه الله أنبياء إسرائيل بالثعالب في الصحراء.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.13.4"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "82c0c181-d924-4425-b5c6-16f2d08c8c2a",
+    "question": "According to Ezekiel, whose father was an Amorite and mother a Hittite?",
+    "question_ar": "بحسب حزقيال، من كان أبوه أموريًا وأمه حثّية؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.16.3"
+    ],
+    "answers": [
+      {
+        "answer": "Ezekiel’s",
+        "answer_ar": "حزقيال",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jerusalem’s",
+        "answer_ar": "أورشليم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jeremiah’s",
+        "answer_ar": "إرميا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a76d1543-1886-42b6-b07e-7ed7203f6c8e",
+    "question": "According to Ezekiel, Jerusalem’s acts of harlotry were extended to the Egyptians, the Philistines, the Assyrians, and the Chaldeans, but not the Greeks.",
+    "question_ar": "بحسب حزقيال، امتدت زنا أورشليم إلى المصريين، الفلسطينيين، الآشوريين، والكلدانيين، ولكن ليس إلى اليونانيين.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.16.26",
+      "Ezek.16.29"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b7edbcb3-5edb-4763-a8a1-b83e2e682fc2",
+    "question": "Ezekiel charged that Jerusalem was more corrupt in all her ways than her sisters Samaria and Sodom.",
+    "question_ar": "اتهم حزقيال أورشليم بأنها كانت أكثر فسادًا في كل طرقها من أختيها السامرة وسدوم.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.16.46",
+      "Ezek.16.47"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0f869ebf-9eb7-4640-94e1-013bd13e8b6f",
+    "question": "Israel’s response to Ezekiel’s teaching on judgment was, 'The way of the Lord is not fair.'",
+    "question_ar": "كان رد إسرائيل على تعليم حزقيال عن الدينونة: 'طريق الرب غير مستوية.'",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.18.29"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3ae30d4e-f73b-4b82-b9a5-10d5914e3e75",
+    "question": "Ezekiel reminded Israel that the Lord had given them what as a sign 'that they might know that I am the LORD who sanctifies them'?",
+    "question_ar": "ذكّر حزقيال إسرائيل أن الرب أعطاهم ماذا كعلامة 'لكي يعلموا أني أنا الرب الذي يقدسهم'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.20.12"
+    ],
+    "answers": [
+      {
+        "answer": "The tabernacle",
+        "answer_ar": "الخيمة",
+        "isCorrect": false
+      },
+      {
+        "answer": "The sacrificial system",
+        "answer_ar": "نظام الذبائح",
+        "isCorrect": false
+      },
+      {
+        "answer": "His Sabbaths",
+        "answer_ar": "سبوته",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "38840b11-f94f-4a6f-87aa-b5fd8321c03d",
+    "question": "What instrument of God's destruction was 'sharpened and also polished!... to make a dreadful slaughter' in Jerusalem by the king of Babylon?",
+    "question_ar": "ما الأداة التي استخدمها الله للهلاك وكانت 'مسنونة ومصقولة... لإحداث مذبحة رهيبة' في أورشليم على يد ملك بابل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.21.9",
+      "Ezek.21.10"
+    ],
+    "answers": [
+      {
+        "answer": "A sword",
+        "answer_ar": "سيف",
+        "isCorrect": true
+      },
+      {
+        "answer": "A rapier",
+        "answer_ar": "سيف رفيع",
+        "isCorrect": false
+      },
+      {
+        "answer": "A torch",
+        "answer_ar": "شعلة نار",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "51d5c4cd-4ebc-4d76-9cc1-94faef1ad0dc",
+    "question": "Who in Jerusalem did Ezekiel say were guilty of not distinguishing between holy and unholy, and hiding their eyes from God's Sabbaths?",
+    "question_ar": "من في أورشليم قال عنهم حزقيال إنهم مذنبون بعدم التمييز بين المقدس والدنس، وبتغميض أعينهم عن سبوت الله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.22.26"
+    ],
+    "answers": [
+      {
+        "answer": "The priests",
+        "answer_ar": "الكهنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "The prophets",
+        "answer_ar": "الأنبياء",
+        "isCorrect": false
+      },
+      {
+        "answer": "The prophetesses",
+        "answer_ar": "النبيات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b04cb7c7-1738-45c3-80a6-b0fc3053f3f8",
+    "question": "God commanded Ezekiel to record the exact day when the king of Babylon began his siege of Jerusalem.",
+    "question_ar": "أمر الله حزقيال أن يسجل اليوم المحدد الذي بدأ فيه ملك بابل حصاره لأورشليم.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.24.1",
+      "Ezek.24.2"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "97b08e11-e71c-4e0d-9178-b75b3b504016",
+    "question": "The lovers who executed judgment on Oholah, or Samaria, were:",
+    "question_ar": "العشاق الذين نفذوا الحكم على أهولة، أو السامرة، كانوا:",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.23.5",
+      "Ezek.23.9"
+    ],
+    "answers": [
+      {
+        "answer": "Egyptians",
+        "answer_ar": "المصريون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Assyrians",
+        "answer_ar": "الآشوريون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Babylonians",
+        "answer_ar": "الكلدانيون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e43ef0df-279b-4e0b-96f0-3ecb8b85ab38",
+    "question": "God told Ezekiel his period of muteness would be over when he heard that Jerusalem had fallen.",
+    "question_ar": "قال الله لحزقيال إن فترة صمته ستنتهي عندما يسمع بسقوط أورشليم.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.24.21",
+      "Ezek.24.25",
+      "Ezek.24.26",
+      "Ezek.24.27"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eb83ef7a-70e7-4723-84f1-5f9a990927c6",
+    "question": "God delivered the territory of which people to the men of the East because they rejoiced when Israel was destroyed?",
+    "question_ar": "سلّم الله أرض أي شعب لرجال المشرق لأنهم فرحوا عندما دُمّرت إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.25.3",
+      "Ezek.25.4",
+      "Ezek.25.6",
+      "Ezek.25.7"
+    ],
+    "answers": [
+      {
+        "answer": "Ammon",
+        "answer_ar": "عمون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Moab",
+        "answer_ar": "موآب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Edom",
+        "answer_ar": "أدوم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "39ac7399-b76b-4b71-9702-3d694b07b061",
+    "question": "What happened on the day Ezekiel’s wife died?",
+    "question_ar": "ماذا حدث في اليوم الذي ماتت فيه زوجة حزقيال؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.24.15",
+      "Ezek.24.27"
+    ],
+    "answers": [
+      {
+        "answer": "Edom fell",
+        "answer_ar": "سقطت أدوم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jerusalem fell",
+        "answer_ar": "سقطت أورشليم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ezekiel died also",
+        "answer_ar": "مات حزقيال أيضًا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "86720426-c1f2-4b6c-8323-e5d4e3027a37",
+    "question": "Who said in his pride, 'I am a god, I sit in the seat of gods, In the midst of the seas'?",
+    "question_ar": "من قال في كبريائه: 'أنا إله، أجلس في مجلس الآلهة في وسط البحار'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.28.2"
+    ],
+    "answers": [
+      {
+        "answer": "The prince of Israel",
+        "answer_ar": "رئيس إسرائيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "The king of Babylon",
+        "answer_ar": "ملك بابل",
+        "isCorrect": false
+      },
+      {
+        "answer": "The prince of Tyre",
+        "answer_ar": "رئيس صور",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8f3fd6dc-55e6-41a6-81e0-7f3dc5092746",
+    "question": "How many years had Ezekiel been in captivity when he received word of Jerusalem’s capture?",
+    "question_ar": "كم سنة قضاها حزقيال في السبي عندما وصله خبر سقوط أورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.33.21"
+    ],
+    "answers": [
+      {
+        "answer": "Twenty-five",
+        "answer_ar": "خمسة وعشرون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Twelve",
+        "answer_ar": "اثنتا عشرة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Thirty",
+        "answer_ar": "ثلاثون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0c2baf10-983c-441e-89e7-2b9e4c9cb08e",
+    "question": "Ezekiel learned of Jerusalem’s capture in a vision.",
+    "question_ar": "تعلّم حزقيال عن سقوط أورشليم من خلال رؤيا.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.33.21"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "acaf9790-79c4-4f69-9f53-539fc429e4fa",
+    "question": "According to Ezekiel, why did God restore and prosper Israel?",
+    "question_ar": "بحسب حزقيال، لماذا أعاد الله إسرائيل وباركها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.36.22"
+    ],
+    "answers": [
+      {
+        "answer": "His holy name",
+        "answer_ar": "اسمه القدوس",
+        "isCorrect": true
+      },
+      {
+        "answer": "His prophets who had been scorned",
+        "answer_ar": "أنبياؤه الذين احتُقروا",
+        "isCorrect": false
+      },
+      {
+        "answer": "The gentile nations who despised Israel’s God",
+        "answer_ar": "الأمم الأممية التي احتقرت إله إسرائيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4a697a1a-210e-4dcf-a735-43db0bbffaae",
+    "question": "The bones said, “Our bones are dry, our hope is lost, and we ourselves are cut off!”",
+    "question_ar": "قالت العظام: «يبست عظامنا، وفقدنا رجاءنا، وانقطعنا!»",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.37.11"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1bcf3011-595b-4c60-8054-54231c5bdb70",
+    "question": "Against whom was Ezekiel told to prophesy, described as the prince of Rosh, Meshech, and Tubal?",
+    "question_ar": "ضد من أُمر حزقيال أن يتنبأ، ووُصف بأنه رئيس روش وماشك وتوبال؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.38.2"
+    ],
+    "answers": [
+      {
+        "answer": "Gog",
+        "answer_ar": "جوج",
+        "isCorrect": true
+      },
+      {
+        "answer": "Zedekiah",
+        "answer_ar": "صدقيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Zadok",
+        "answer_ar": "صادوق",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "249ab44d-3c67-49cb-88e6-08c3c64b8b87",
+    "question": "The land of Magog is located in what direction from Israel?",
+    "question_ar": "أين تقع أرض ماجوج نسبة إلى إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.38.14",
+      "Ezek.38.15"
+    ],
+    "answers": [
+      {
+        "answer": "The far north",
+        "answer_ar": "الشمال البعيد",
+        "isCorrect": true
+      },
+      {
+        "answer": "The near east",
+        "answer_ar": "الشرق القريب",
+        "isCorrect": false
+      },
+      {
+        "answer": "The south",
+        "answer_ar": "الجنوب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9053a5e0-82c6-4c67-83f1-1cc9bdb2ad6f",
+    "question": "For how long will the weapons of Gog’s forces fuel fires in the cities of Israel?",
+    "question_ar": "كم من الوقت ستُستخدم أسلحة قوات جوج كوقود للنار في مدن إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.39.9"
+    ],
+    "answers": [
+      {
+        "answer": "Seven years",
+        "answer_ar": "سبع سنوات",
+        "isCorrect": true
+      },
+      {
+        "answer": "Three years",
+        "answer_ar": "ثلاث سنوات",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ten years",
+        "answer_ar": "عشر سنوات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5ef509ab-29aa-4e3f-8a84-746389fe1e13",
+    "question": "How long will it take the house of Israel to bury Gog’s dead army to cleanse their land?",
+    "question_ar": "كم من الوقت سيستغرق بيت إسرائيل لدفن جيش جوج الميت لتطهير الأرض؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.39.11",
+      "Ezek.39.12"
+    ],
+    "answers": [
+      {
+        "answer": "Seven months",
+        "answer_ar": "سبعة أشهر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Seven days",
+        "answer_ar": "سبعة أيام",
+        "isCorrect": false
+      },
+      {
+        "answer": "Seven years",
+        "answer_ar": "سبع سنوات",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bb292bde-1140-4ac3-b97d-849a0f42ec76",
+    "question": "In what year of Judah’s captivity did God show Ezekiel the vision of the new temple?",
+    "question_ar": "في أي سنة من سبي يهوذا أظهر الله لحزقيال رؤيا الهيكل الجديد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Ezek.40.1",
+      "Ezek.40.5"
+    ],
+    "answers": [
+      {
+        "answer": "Twenty-fifth",
+        "answer_ar": "الخامسة والعشرون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Twelfth",
+        "answer_ar": "الثانية عشرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Tenth",
+        "answer_ar": "العاشرة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "62d2fd01-dde3-4d68-9172-f3cabc1b0095",
+    "question": "According to Ezekiel, whose sons were the priests who will officiate in the new temple?",
+    "question_ar": "بحسب حزقيال، أبناء من هم الكهنة الذين سيخدمون في الهيكل الجديد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.40.46"
+    ],
+    "answers": [
+      {
+        "answer": "Zadok’s",
+        "answer_ar": "صادوق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Zedekiah’s",
+        "answer_ar": "صدقيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Zechariah’s",
+        "answer_ar": "زكريا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cb41c96a-d301-4d21-8f6d-3c7ec0b20c08",
+    "question": "The name of the new city Ezekiel saw was 'THE LORD IS THERE.'",
+    "question_ar": "اسم المدينة الجديدة التي رآها حزقيال كان «هُنَاكَ الرَّبّ».",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Ezek.48.35"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a0a9b712-c4fd-41c8-85e4-e4e2a9e2aa94",
+    "question": "The three gates on each side of the new city Ezekiel saw were named for the tribes of Israel.",
+    "question_ar": "كانت الأبواب الثلاثة على كل جانب من المدينة الجديدة التي رآها حزقيال مسماة على أسماء أسباط إسرائيل.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Ezek.48.31",
+      "Ezek.48.32",
+      "Ezek.48.33",
+      "Ezek.48.34"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8b5b3925-12c6-43e4-a424-8f8c92cbacdb",
+    "question": "Who was king of Judah when Nebuchadnezzar conquered Jerusalem?",
+    "question_ar": "من كان ملك يهوذا عندما غزا نبوخذنصر أورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Dan.1.1",
+      "Dan.1.2"
+    ],
+    "answers": [
+      {
+        "answer": "Solomon",
+        "answer_ar": "سليمان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joash",
+        "answer_ar": "يوآش",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jehoiakim",
+        "answer_ar": "يهوياقيم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "1d7e645a-84b4-42e4-a3e6-6ec1dbeef1cd",
+    "question": "The more familiar names of Hananiah, Mishael, and Azariah are Shadrach, Meshach, and Abed-Nego.",
+    "question_ar": "الأسماء الأكثر شيوعًا لحَنَنيا وميشائيل وعزريا هي شدرخ وميشخ وعبدنغو.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Dan.1.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3c1b7dc4-dca4-4cb6-a71e-7d7a7f10eb41",
+    "question": "What did Daniel and his three friends eat for ten days instead of the king’s food and wine?",
+    "question_ar": "ماذا أكل دانيال وأصحابه الثلاثة لمدة عشرة أيام بدلاً من طعام الملك وخمره؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Dan.1.12",
+      "Dan.1.14"
+    ],
+    "answers": [
+      {
+        "answer": "Bread and milk",
+        "answer_ar": "خبز وحليب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Vegetables and water",
+        "answer_ar": "خضروات وماء",
+        "isCorrect": true
+      },
+      {
+        "answer": "Barley cakes and pomegranate juice",
+        "answer_ar": "خبز شعير وعصير رمان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3ef5ff91-bf9c-4fa3-b180-20cf432b8ce2",
+    "question": "Daniel had skill in understanding all visions and dreams.",
+    "question_ar": "كان لدانيال مهارة في فهم جميع الرؤى والأحلام.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Dan.1.17"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6e42b3b8-96fb-4707-9d6a-2a62e7c42715",
+    "question": "Nebuchadnezzar found Daniel and his friends ten times better than his magicians and astrologers.",
+    "question_ar": "وجد نبوخذنصر دانيال وأصحابه أفضل عشر مرات من مجوسه ومنجميه.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Dan.1.20"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a569d6a3-0b80-4630-b3be-fd640a2c36ec",
+    "question": "What happened to Daniel, Shadrach, Meshach, and Abed-Nego because Daniel interpreted Nebuchadnezzar’s dream?",
+    "question_ar": "ماذا حدث لدانيال وشدرخ وميشخ وعبدنغو لأن دانيال فسّر حلم نبوخذنصر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Dan.2.48",
+      "Dan.2.49"
+    ],
+    "answers": [
+      {
+        "answer": "They were all killed",
+        "answer_ar": "قُتلوا جميعًا",
+        "isCorrect": false
+      },
+      {
+        "answer": "They were all promoted",
+        "answer_ar": "تَرَقّوا جميعًا",
+        "isCorrect": true
+      },
+      {
+        "answer": "They were all imprisoned",
+        "answer_ar": "سُجنوا جميعًا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5c03c5c6-c6a9-490a-9528-3074e27a49cb",
+    "question": "Nebuchadnezzar ordered the furnace to be heated seven times hotter than usual because Shadrach, Meshach, and Abed-Nego refused to worship his image.",
+    "question_ar": "أمر نبوخذنصر بتسخين الأتون سبع مرات أكثر من المعتاد لأن شدرخ وميشخ وعبدنغو رفضوا عبادة صورته.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Dan.3.19"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3148f7ae-2ce5-41ef-a8dc-858fbc1841cf",
+    "question": "Nebuchadnezzar praised the God of Shadrach, Meshach, and Abed-Nego, saying there is no other God who can deliver like this.",
+    "question_ar": "سبّح نبوخذنصر إله شدرخ وميشخ وعبدنغو قائلاً إنه لا يوجد إله آخر يستطيع أن يُنقذ مثل هذا.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Dan.3.29"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "91cb6564-bb44-4f4e-8e6c-ea0dcf3b3314",
+    "question": "The gold and silver vessels used by Belshazzar came from the temple in Jerusalem.",
+    "question_ar": "الآنية الذهبية والفضية التي استخدمها بيلشاصر جاءت من هيكل أورشليم.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Dan.5.2"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "66d9c1ae-4f34-4cc1-bb87-5b63f0fe4e61",
+    "question": "How soon after Daniel’s revelation that Belshazzar would lose his kingdom to the Medes and Persians was this king slain?",
+    "question_ar": "كم من الوقت مر بعد إعلان دانيال أن بلشاصر سيفقد مملكته حتى قُتل هذا الملك؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Dan.5.30"
+    ],
+    "answers": [
+      {
+        "answer": "Ten years",
+        "answer_ar": "عشر سنوات",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ten days",
+        "answer_ar": "عشرة أيام",
+        "isCorrect": false
+      },
+      {
+        "answer": "That same night",
+        "answer_ar": "في تلك الليلة نفسها",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ae93e2f7-d270-4984-a2ad-5935ddc1e334",
+    "question": "Who received Belshazzar’s kingdom after he was killed?",
+    "question_ar": "من استلم مملكة بلشاصر بعد أن قُتل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Dan.5.30",
+      "Dan.5.31"
+    ],
+    "answers": [
+      {
+        "answer": "Cyrus the Persian",
+        "answer_ar": "كورش الفارسي",
+        "isCorrect": false
+      },
+      {
+        "answer": "Darius the Mede",
+        "answer_ar": "داريوس المادي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Alexander the Great",
+        "answer_ar": "الإسكندر الأكبر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e28d18a9-9442-49c6-9ad5-e6d6971c6f60",
+    "question": "Which prophet to Israel prophesied through the same lengthy time span as Isaiah did in Judah?",
+    "question_ar": "أي نبي لإسرائيل تنبأ خلال نفس المدة الطويلة التي تنبأ فيها إشعياء في يهوذا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Hos.1.1",
+      "Is.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "Hosea",
+        "answer_ar": "هوشع",
+        "isCorrect": true
+      },
+      {
+        "answer": "Amos",
+        "answer_ar": "عاموس",
+        "isCorrect": false
+      },
+      {
+        "answer": "Nahum",
+        "answer_ar": "ناحوم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "547c2c14-df93-45a7-bab5-0e87a2542cb1",
+    "question": "What was the name of the prostitute whom Hosea married?",
+    "question_ar": "ما اسم الزانية التي تزوجها هوشع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Hos.1.2",
+      "Hos.1.3"
+    ],
+    "answers": [
+      {
+        "answer": "Tamar",
+        "answer_ar": "ثامار",
+        "isCorrect": false
+      },
+      {
+        "answer": "Rahab",
+        "answer_ar": "راحاب",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gomer",
+        "answer_ar": "جومر",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0fa8693e-7a2e-41ed-9fc4-d3c96288b3a5",
+    "question": "What name appears in Hosea as a personal name, a place name, and a word of praise for God’s bountiful blessings?",
+    "question_ar": "ما الاسم الذي ورد في سفر هوشع كاسم شخص واسم مكان وكلمة مديح لبركات الله الوفيرة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Hos.1.4",
+      "Hos.2.22"
+    ],
+    "answers": [
+      {
+        "answer": "Gomer",
+        "answer_ar": "جومر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Lo-Ammi",
+        "answer_ar": "لو-عمي",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jezreel",
+        "answer_ar": "يزرعيل",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "81ce7d43-2be0-4dbb-bf38-89a194bd8d8f",
+    "question": "What did Hosea purchase for fifteen shekels of silver and one and one-half homers of barley?",
+    "question_ar": "ماذا اشترى هوشع بخمسة عشر شاقلًا من الفضة و homer ونصف من الشعير؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Hos.3.1",
+      "Hos.3.2"
+    ],
+    "answers": [
+      {
+        "answer": "A field",
+        "answer_ar": "حقلاً",
+        "isCorrect": false
+      },
+      {
+        "answer": "A slave",
+        "answer_ar": "عبداً",
+        "isCorrect": false
+      },
+      {
+        "answer": "The freedom of his adulterous wife",
+        "answer_ar": "حرية زوجته الزانية",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0bc357db-875e-49c3-97e6-9b297b9d8ff2",
+    "question": "What idol did Hosea make reference to as an offense of Samaria?",
+    "question_ar": "إلى أي صنم أشار هوشع كخطيئة للسامرة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Hos.8.5",
+      "Hos.8.6"
+    ],
+    "answers": [
+      {
+        "answer": "A fish",
+        "answer_ar": "سمكة",
+        "isCorrect": false
+      },
+      {
+        "answer": "A calf",
+        "answer_ar": "عجل",
+        "isCorrect": true
+      },
+      {
+        "answer": "A man",
+        "answer_ar": "رجل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1c76e9e4-4a01-4ac3-a0e2-1d95b6d9f57b",
+    "question": "Hosea compared the future of Israel to two cities destroyed with Sodom and Gomorrah. Name them.",
+    "question_ar": "ما المدينتان اللتان شبّه بهما هوشع مستقبل إسرائيل، وهما مدمرتان مع سدوم وعمورة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Hos.11.8",
+      "Deut.29.23"
+    ],
+    "answers": [
+      {
+        "answer": "Admah and Zeboiim",
+        "answer_ar": "أدمة وصبويم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Bethsaida and Chorazin",
+        "answer_ar": "بيت صيدا وكورزين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Debir and Lachish",
+        "answer_ar": "دبير ولخيش",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "73cc107b-2ad6-4e78-a26d-0bdde937e75f",
+    "question": "In Hosea, what parental task is used as a parallel of God’s love for Israel in the wilderness?",
+    "question_ar": "في سفر هوشع، ما العمل الأبوي الذي يُستخدم كتشبيه لمحبة الله لإسرائيل في البرية؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Hos.11.3"
+    ],
+    "answers": [
+      {
+        "answer": "Teaching to talk",
+        "answer_ar": "تعليم الكلام",
+        "isCorrect": false
+      },
+      {
+        "answer": "Teaching to walk",
+        "answer_ar": "تعليم المشي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Disciplining",
+        "answer_ar": "التأديب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "aa7d5f91-16e4-4e71-98cc-bafc61e6e5cb",
+    "question": "Besides the locusts what other devastation had Judah experienced at the time of Joel’s prophecy?",
+    "question_ar": "ما الكارثة الأخرى التي اختبرها يهوذا في زمن نبوة يوئيل بجانب الجراد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Joel.1.20"
+    ],
+    "answers": [
+      {
+        "answer": "Drought",
+        "answer_ar": "جفاف",
+        "isCorrect": true
+      },
+      {
+        "answer": "Plague of frogs",
+        "answer_ar": "وباء الضفادع",
+        "isCorrect": false
+      },
+      {
+        "answer": "War",
+        "answer_ar": "حرب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7e003ff1-b84e-4038-bcd6-36498ac42483",
+    "question": "According to Joel 2:13, God is gracious and merciful, slow to anger, and relents from doing harm.",
+    "question_ar": "بحسب يوئيل ٢:١٣، الله رؤوف ورحيم، بطيء الغضب ويُنقذ من الشر.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Joel.2.13"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "22f6d3f0-7ab6-45b4-8ce1-071b25db5290",
+    "question": "To whom had the Philistines sold the people of Judah and Jerusalem?",
+    "question_ar": "إلى من باع الفلسطينيون شعب يهوذا وأورشليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Joel.3.6"
+    ],
+    "answers": [
+      {
+        "answer": "Romans",
+        "answer_ar": "الرومان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Babylonians",
+        "answer_ar": "الكلدانيون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Greeks",
+        "answer_ar": "اليونانيون",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0d4c9f5a-8a0e-4b10-8e34-367e0cbb32cd",
+    "question": "Who was king of Israel when Amos prophesied?",
+    "question_ar": "من كان ملك إسرائيل عندما تنبأ عاموس؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Amos.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "Jeroboam",
+        "answer_ar": "يربعام",
+        "isCorrect": true
+      },
+      {
+        "answer": "Omri",
+        "answer_ar": "عمري",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jehu",
+        "answer_ar": "ياهو",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8d81e8bc-94f7-4406-b403-bdca50cd3920",
+    "question": "What did Amos call the rich women of Samaria who oppressed the poor?",
+    "question_ar": "بماذا وصف عاموس نساء السامرة الغنيات اللواتي ظلمن المساكين؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Amos.4.1"
+    ],
+    "answers": [
+      {
+        "answer": "Sows of Syria",
+        "answer_ar": "خنزيرات سوريا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ewes of Edom",
+        "answer_ar": "نعاج أدوم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Cows of Bashan",
+        "answer_ar": "بقرات باشان",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c2d4c024-70fd-402c-9fa9-33c452f27b8f",
+    "question": "What did Amos say happened at Bethel and Gilgal?",
+    "question_ar": "ماذا قال عاموس إنه حدث في بيت إيل وجِلجال؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Amos.4.4",
+      "Amos.5.5"
+    ],
+    "answers": [
+      {
+        "answer": "Jacob offered to God",
+        "answer_ar": "يعقوب قدَّم قربانًا لله",
+        "isCorrect": false
+      },
+      {
+        "answer": "Israel worshiped idols",
+        "answer_ar": "عبدت إسرائيل الأوثان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Israel built ivory houses",
+        "answer_ar": "بنت إسرائيل بيوتًا من العاج",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c5e8b57f-8c33-4744-a77d-bef70e78e3db",
+    "question": "In what city was Amos told never to prophesy again because it was the residence of the king of Israel?",
+    "question_ar": "في أي مدينة قيل لعاموس ألا يتنبأ فيها مجددًا لأنها كانت مقر إقامة ملك إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Amos.7.13"
+    ],
+    "answers": [
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Samaria",
+        "answer_ar": "السامرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Gilgal",
+        "answer_ar": "جلجال",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b28a09fa-1a02-4620-bbb2-3e71d37fc9da",
+    "question": "Where did Amaziah tell Amos to go and prophesy instead of Israel?",
+    "question_ar": "إلى أين طلب أمصيا من عاموس أن يذهب ليتنبأ بدلاً من إسرائيل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Amos.7.12"
+    ],
+    "answers": [
+      {
+        "answer": "Nineveh",
+        "answer_ar": "نينوى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Judah",
+        "answer_ar": "يهوذا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Edom",
+        "answer_ar": "أدوم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fc81fae0-5a67-4d54-a6ab-e367879e1781",
+    "question": "Which prophet described himself as 'a herdsman and a tender of sycamore fruit'?",
+    "question_ar": "أي نبي وصف نفسه بأنه 'راعٍ وقاطع جميز'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Amos.7.14"
+    ],
+    "answers": [
+      {
+        "answer": "Amos",
+        "answer_ar": "عاموس",
+        "isCorrect": true
+      },
+      {
+        "answer": "Zephaniah",
+        "answer_ar": "صفنيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Nahum",
+        "answer_ar": "ناحوم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "697fd3c2-361f-499b-a857-022e3f746aec",
+    "question": "According to Amos 5:26, Sikkuth and Chiun are names of gods.",
+    "question_ar": "بحسب عاموس ٥:٢٦، سِكّوث وكيون هما اسمان لآلهة.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Amos.5.26"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a2bde3b3-679e-4bd7-8701-4aa145caad26",
+    "question": "Which nation was described as 'You who dwell in the clefts of the rock'?",
+    "question_ar": "أي أمة وُصِفت بأنها 'الساكنة في شقوق الصخر'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Obad.1.3"
+    ],
+    "answers": [
+      {
+        "answer": "Philistia",
+        "answer_ar": "فلسطين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Egypt",
+        "answer_ar": "مصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Edom",
+        "answer_ar": "أدوم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fa2dd26f-5404-4649-b96d-9c6f1f1fc6ea",
+    "question": "Which city of Edom did Obadiah connect by name with mighty men?",
+    "question_ar": "أي مدينة من أدوم ربطها عوبديا بالرجال الأقوياء؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Obad.1.9"
+    ],
+    "answers": [
+      {
+        "answer": "Teman",
+        "answer_ar": "تيمان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Bozrah",
+        "answer_ar": "بُصرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Petra",
+        "answer_ar": "البتراء",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "19078b9f-fd3b-4960-bf2d-f2bb13c17c5f",
+    "question": "To what city did God send Jonah to preach against its wickedness?",
+    "question_ar": "إلى أي مدينة أرسل الله يونان ليكرز ضد شرها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Jon.1.1",
+      "Jon.1.2"
+    ],
+    "answers": [
+      {
+        "answer": "Nineveh",
+        "answer_ar": "نينوى",
+        "isCorrect": true
+      },
+      {
+        "answer": "Tarshish",
+        "answer_ar": "ترشيش",
+        "isCorrect": false
+      },
+      {
+        "answer": "Sidon",
+        "answer_ar": "صيدا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ad87b621-6f42-42a3-9827-76b6d7c0a243",
+    "question": "Jonah tried to escape the presence of the Lord by fleeing to what place?",
+    "question_ar": "حاول يونان الهروب من وجه الرب بالفرار إلى أي مكان؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Jon.1.3"
+    ],
+    "answers": [
+      {
+        "answer": "Tarshish",
+        "answer_ar": "ترشيش",
+        "isCorrect": true
+      },
+      {
+        "answer": "Joppa",
+        "answer_ar": "يافا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Sidon",
+        "answer_ar": "صيدا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8734d285-7c9e-49e2-bcd3-7e4e66b4eeb9",
+    "question": "What did Jonah tell the men on the ship to do to calm the stormy seas?",
+    "question_ar": "ماذا قال يونان للرجال في السفينة لتهدئة البحر الهائج؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jon.1.12"
+    ],
+    "answers": [
+      {
+        "answer": "Throw him overboard",
+        "answer_ar": "ارموه في البحر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Throw out their cargo",
+        "answer_ar": "ارموا الحمولة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Pray to God",
+        "answer_ar": "صلّوا لله",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b9e655fb-d707-41de-a6f5-f0f2f52bd490",
+    "question": "What had God prepared to save Jonah from drowning when he was cast into the sea?",
+    "question_ar": "ما الذي أعده الله لإنقاذ يونان من الغرق عندما طُرح في البحر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Jon.1.17"
+    ],
+    "answers": [
+      {
+        "answer": "A great fish to swallow him",
+        "answer_ar": "سمكة عظيمة لابتلاعه",
+        "isCorrect": true
+      },
+      {
+        "answer": "A passing ship",
+        "answer_ar": "سفينة عابرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "A lifeboat",
+        "answer_ar": "قارب نجاة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5094bb94-ef2f-4ef1-95d6-d7f358a4acfe",
+    "question": "Who was the only prophet to whom Jesus likened Himself?",
+    "question_ar": "من هو النبي الوحيد الذي شبّه يسوع نفسه به؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.12.39",
+      "Matt.12.40"
+    ],
+    "answers": [
+      {
+        "answer": "Jonah",
+        "answer_ar": "يونان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Joel",
+        "answer_ar": "يوئيل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Daniel",
+        "answer_ar": "دانيال",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3fcdf0ee-2a6d-4fe9-b0cc-2cb275528053",
+    "question": "Where was Jonah when he prayed, 'I will pay what I have vowed. Salvation is of the LORD'?",
+    "question_ar": "أين كان يونان عندما صلى: 'أوفي ما نذرت. الخلاص للرب'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jon.2.1",
+      "Jon.2.9"
+    ],
+    "answers": [
+      {
+        "answer": "In the fish’s belly",
+        "answer_ar": "في بطن الحوت",
+        "isCorrect": true
+      },
+      {
+        "answer": "In the bottom of the ship",
+        "answer_ar": "في قاع السفينة",
+        "isCorrect": false
+      },
+      {
+        "answer": "In Nineveh",
+        "answer_ar": "في نينوى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2b0e9fd1-4ff6-465e-9781-38f012ec8d9c",
+    "question": "Who commanded, 'But let man and beast be covered with sackcloth, and cry mightily to God; yes, let every one turn from his evil way'?",
+    "question_ar": "من الذي أمر: 'وليُغطَّ الإنسان والبهائم بمسوح، ويصرخوا إلى الله بشدة، ويرجع كل واحد عن طريقه الرديئة'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Jon.3.6",
+      "Jon.3.7",
+      "Jon.3.8"
+    ],
+    "answers": [
+      {
+        "answer": "The king of Nineveh",
+        "answer_ar": "ملك نينوى",
+        "isCorrect": true
+      },
+      {
+        "answer": "God",
+        "answer_ar": "الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "Nebuchadnezzar",
+        "answer_ar": "نبوخذنصر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5f92b5cd-2dbe-4458-a75c-d7c1c1b04f2a",
+    "question": "According to Jonah, the population of Nineveh was more than:",
+    "question_ar": "بحسب يونان، كان عدد سكان نينوى أكثر من:",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Jon.4.11"
+    ],
+    "answers": [
+      {
+        "answer": "120,000",
+        "answer_ar": "١٢٠٬٠٠٠",
+        "isCorrect": true
+      },
+      {
+        "answer": "200,000",
+        "answer_ar": "٢٠٠٬٠٠٠",
+        "isCorrect": false
+      },
+      {
+        "answer": "2,000",
+        "answer_ar": "٢٠٠٠",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "91ae835f-d8f1-4205-9814-f65308dcad1a",
+    "question": "Micah, who predicted the birth of Jesus in Bethlehem, appeared as a character in one of the major prophets. Which major prophet quoted him?",
+    "question_ar": "ميخا، الذي تنبأ بميلاد يسوع في بيت لحم، ظهر كشخصية في أحد الأنبياء الكبار. من هو النبي الذي اقتبسه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Jer.26.18"
+    ],
+    "answers": [
+      {
+        "answer": "Jeremiah",
+        "answer_ar": "إرميا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Isaiah",
+        "answer_ar": "إشعياء",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ezekiel",
+        "answer_ar": "حزقيال",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f48f9f62-ff02-4ec6-b74e-d76f7d518c45",
+    "question": "What did Micah tell the daughter of Zion to do with her iron horn and bronze hoofs?",
+    "question_ar": "ماذا قال ميخا لابنة صهيون أن تفعل بقرنها الحديدي وحوافرها النحاسية؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mic.4.13"
+    ],
+    "answers": [
+      {
+        "answer": "Gore the nations",
+        "answer_ar": "نطح الأمم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Thresh the nations",
+        "answer_ar": "درس الأمم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Teach the nations",
+        "answer_ar": "تعليم الأمم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6e413933-05a8-4d50-b5b4-7d6ed07a18e5",
+    "question": "Whom did Micah describe as those who chant 'Peace' while preparing war against those who give them nothing?",
+    "question_ar": "من وصفهم ميخا بأنهم ينادون بـ\"سلام\" بينما يهيئون الحرب ضد من لا يعطيهم شيئاً؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Mic.3.5"
+    ],
+    "answers": [
+      {
+        "answer": "Judges",
+        "answer_ar": "القضاة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Priests",
+        "answer_ar": "الكهنة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Prophets",
+        "answer_ar": "الأنبياء",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "4a52b2b3-8d3c-42c9-858c-c7a68b56a5e8",
+    "question": "Who was the major foreign enemy in Micah’s prophecies?",
+    "question_ar": "من كان العدو الأجنبي الرئيسي في نبوات ميخا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mic.5.5",
+      "Mic.7.12"
+    ],
+    "answers": [
+      {
+        "answer": "Assyria",
+        "answer_ar": "أشور",
+        "isCorrect": true
+      },
+      {
+        "answer": "Babylon",
+        "answer_ar": "بابل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Persia",
+        "answer_ar": "فارس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2f783f88-f8f5-4c64-a943-1eae768e2ec0",
+    "question": "Which two kings of Israel did Micah refer to as representing national evil?",
+    "question_ar": "أي ملكين من ملوك إسرائيل أشار إليهما ميخا لتمثيل شر الأمة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mic.6.16"
+    ],
+    "answers": [
+      {
+        "answer": "Jehu and Jeroboam",
+        "answer_ar": "ياهو ويربعام",
+        "isCorrect": false
+      },
+      {
+        "answer": "Omri and Ahab",
+        "answer_ar": "عمري وأخاب",
+        "isCorrect": true
+      },
+      {
+        "answer": "Ishmael and Ahab",
+        "answer_ar": "إسماعيل وأخاب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b5fa9e38-1bcb-47a4-a729-e1f19aee2f38",
+    "question": "Micah ended his prophecy with a word of hope which mentioned two patriarchs: 'You will give truth to Jacob and mercy to Abraham.'",
+    "question_ar": "أنهى ميخا نبوته بكلمة رجاء ذاكراً اثنين من الآباء: \"ستعطي الحق ليعقوب والرحمة لإبراهيم\".",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mic.7.20"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f4b40d5f-3cc6-4dce-91e5-7c6bc6892105",
+    "question": "Nahum contains vivid descriptions of ancient warfare.",
+    "question_ar": "يحتوي سفر ناحوم على أوصاف حية للحروب القديمة.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Nah.2.1-7",
+      "Nah.3.1-4"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "04122df7-28e7-41aa-bff2-1ea3e6dba544",
+    "question": "About which empire’s doom did Nahum prophesy?",
+    "question_ar": "عن سقوط أي إمبراطورية تنبأ ناحوم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Nah.3.18",
+      "Nah.3.19"
+    ],
+    "answers": [
+      {
+        "answer": "Egypt",
+        "answer_ar": "مصر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Assyria",
+        "answer_ar": "أشور",
+        "isCorrect": true
+      },
+      {
+        "answer": "Persia",
+        "answer_ar": "فارس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6f2dc97d-1e0c-41a3-aef7-4aa5c0a2cf89",
+    "question": "What Egyptian city did Nahum say had fallen like Nineveh would?",
+    "question_ar": "أي مدينة مصرية قال ناحوم إنها سقطت كما ستسقط نينوى؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Nah.2.8",
+      "Nah.3.8",
+      "Nah.3.10"
+    ],
+    "answers": [
+      {
+        "answer": "No Amon",
+        "answer_ar": "نو آمون",
+        "isCorrect": true
+      },
+      {
+        "answer": "Cairo",
+        "answer_ar": "القاهرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Alexandria",
+        "answer_ar": "الإسكندرية",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5b43a5b7-9e25-4de6-a879-7a1082d71e5c",
+    "question": "According to Nahum, what would happen to Nineveh when the gates of the river are opened?",
+    "question_ar": "ماذا سيحدث لنينوى عندما تُفتح أبواب النهر، بحسب ناحوم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Nah.2.6"
+    ],
+    "answers": [
+      {
+        "answer": "The king would drown",
+        "answer_ar": "الملك سيغرق",
+        "isCorrect": false
+      },
+      {
+        "answer": "The fire would go out forever",
+        "answer_ar": "ستنطفئ النار إلى الأبد",
+        "isCorrect": false
+      },
+      {
+        "answer": "The palace would dissolve",
+        "answer_ar": "سينهار القصر",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ae52d5ae-cf49-4b17-94c7-f879c82ebd02",
+    "question": "What was Habakkuk’s profession?",
+    "question_ar": "ما كانت مهنة حبقوق؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Hab.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "Herdsman",
+        "answer_ar": "راعٍ",
+        "isCorrect": false
+      },
+      {
+        "answer": "Priest",
+        "answer_ar": "كاهن",
+        "isCorrect": false
+      },
+      {
+        "answer": "Prophet",
+        "answer_ar": "نبي",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2f6f1ec1-1f7f-4ff1-8427-731e728fb64e",
+    "question": "Which prophet challenged God’s fairness and positioned himself on a watchtower to hear God’s reply?",
+    "question_ar": "أي نبي تحدى عدالة الله ووقف على برج المراقبة لسماع رد الله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Hab.2.1"
+    ],
+    "answers": [
+      {
+        "answer": "Jeremiah",
+        "answer_ar": "إرميا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jonah",
+        "answer_ar": "يونان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Habakkuk",
+        "answer_ar": "حبقوق",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d25b1c9e-b2c3-4a5d-8826-3d6aa4ff0379",
+    "question": "Which prophet said, “The just shall live by his faith”?",
+    "question_ar": "أي نبي قال: \"أما البار فبإيمانه يحيا\"؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Hab.2.4"
+    ],
+    "answers": [
+      {
+        "answer": "Habakkuk",
+        "answer_ar": "حبقوق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Isaiah",
+        "answer_ar": "إشعياء",
+        "isCorrect": false
+      },
+      {
+        "answer": "Zephaniah",
+        "answer_ar": "صفنيا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c4c1c5eb-f2c5-4cd3-94c0-cf728aa29b57",
+    "question": "Zephaniah may be the only prophet in the Bible who was descended from a king.",
+    "question_ar": "قد يكون صفنيا هو النبي الوحيد في الكتاب المقدس الذي ينحدر من سلالة ملك.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Zeph.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bd26e1d7-59f6-4649-a7c5-243b708b5d75",
+    "question": "During which king’s reign did Zephaniah prophesy in Judah?",
+    "question_ar": "في عهد أي ملك تنبأ صفنيا في يهوذا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Zeph.1.1"
+    ],
+    "answers": [
+      {
+        "answer": "Uzziah",
+        "answer_ar": "عزيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Josiah",
+        "answer_ar": "يوشيا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Manasseh",
+        "answer_ar": "منسى",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f69df83e-58d0-4ec8-aee7-df39d969bc3c",
+    "question": "Zephaniah prophesied after Josiah had made his famous reforms.",
+    "question_ar": "تنبأ صفنيا بعد أن قام يوشيا بإصلاحاته المشهورة.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Zeph.1.4",
+      "Zeph.1.9"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8053c273-0504-44f4-99e0-2e36e320a802",
+    "question": "Zephaniah focuses on Jerusalem and refers to it as though he were a resident.",
+    "question_ar": "يركز صفنيا على أورشليم ويشير إليها كما لو كان أحد سكانها.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Zeph.1.4",
+      "Zeph.1.9",
+      "Zeph.1.10",
+      "Zeph.3.1",
+      "Zeph.3.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cbf1d176-c7a8-4eb6-bf30-cb8a930c3a94",
+    "question": "According to Haggai, Judah was experiencing drought and a lack of prosperity because they had forsaken God’s command to rebuild the temple.",
+    "question_ar": "وفقاً لحجي، كانت يهوذا تعاني من الجفاف ونقص الرخاء لأنها تخلت عن أمر الله بإعادة بناء الهيكل.",
+    "type": "True or False",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Hag.1.6",
+      "Hag.1.11"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4b276735-c99f-49e8-9686-1cb51eaf0385",
+    "question": "What happened to Zechariah on the night of February 15, 519 B.C.?",
+    "question_ar": "ماذا حدث لزكريا في ليلة 15 فبراير عام 519 قبل الميلاد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Zech.1.7",
+      "Zech.6.8"
+    ],
+    "answers": [
+      {
+        "answer": "He got married",
+        "answer_ar": "تزوج",
+        "isCorrect": false
+      },
+      {
+        "answer": "He had a series of eight visions",
+        "answer_ar": "رأى سلسلة من ثماني رؤى",
+        "isCorrect": true
+      },
+      {
+        "answer": "He first prophesied of Messiah",
+        "answer_ar": "تنبأ أول مرة عن المسيح",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3f2de594-0cb7-40fc-8cc4-10e740d5fcfc",
+    "question": "Who does the context suggest were the two olive trees that fed oil to the lampstand in Zechariah’s vision?",
+    "question_ar": "من هما الشخصيتان اللتان تمثلان شجرتي الزيتون اللتين زودتا المنارة بالزيت في رؤيا زكريا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Zech.3.6",
+      "Zech.4.10"
+    ],
+    "answers": [
+      {
+        "answer": "Haggai and Zechariah",
+        "answer_ar": "حجي وزكريا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joshua and Zerubbabel",
+        "answer_ar": "يشوع وزربابل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Gabriel and Michael",
+        "answer_ar": "جبرائيل وميخائيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e3ed1c42-2dc3-4324-95c6-350ba8c47f2e",
+    "question": "As son of Berechiah and grandson of Iddo, what would have been Zechariah’s career?",
+    "question_ar": "باعتباره ابن برخيا وحفيد عدّو، ما المهنة التي كان يُتوقع أن يمارسها زكريا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Zech.1.1",
+      "Neh.12.1",
+      "Neh.12.4",
+      "Neh.12.16"
+    ],
+    "answers": [
+      {
+        "answer": "Prince",
+        "answer_ar": "أمير",
+        "isCorrect": false
+      },
+      {
+        "answer": "Priest",
+        "answer_ar": "كاهن",
+        "isCorrect": true
+      },
+      {
+        "answer": "Temple musician",
+        "answer_ar": "عازف في الهيكل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a1a0e3f2-91c3-4c6e-93fc-2bcf62062eb3",
+    "question": "When Zechariah prophesied, what position did Joshua hold?",
+    "question_ar": "عندما تنبأ زكريا، ما المنصب الذي كان يشغله يشوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Zech.3.8"
+    ],
+    "answers": [
+      {
+        "answer": "King",
+        "answer_ar": "ملك",
+        "isCorrect": false
+      },
+      {
+        "answer": "Governor",
+        "answer_ar": "حاكم",
+        "isCorrect": false
+      },
+      {
+        "answer": "High priest",
+        "answer_ar": "الكاهن العظيم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "94dc4ea2-2b8a-4d03-baf8-e1dfd83c191c",
+    "question": "What did Zechariah place in the rebuilt temple as a memorial of the coming Messiah?",
+    "question_ar": "ماذا وضع زكريا في الهيكل المُعاد بناؤه كتذكار للمسيا القادم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Zech.6.14"
+    ],
+    "answers": [
+      {
+        "answer": "A branch",
+        "answer_ar": "غصن",
+        "isCorrect": false
+      },
+      {
+        "answer": "A young donkey",
+        "answer_ar": "جحش",
+        "isCorrect": false
+      },
+      {
+        "answer": "A crown",
+        "answer_ar": "تاج",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "10f37f1d-e0a4-4b6d-9f5e-7ef8a75f961c",
+    "question": "Zechariah had harsh words for leaders who had caused Judah to stray. What did he call them?",
+    "question_ar": "ما الوصف الذي أطلقه زكريا على القادة الذين أضلوا يهوذا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Zech.11.4",
+      "Zech.11.17"
+    ],
+    "answers": [
+      {
+        "answer": "Paltry princes",
+        "answer_ar": "أمراء تافهون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Lazy vinedressers",
+        "answer_ar": "كرّامين كسالى",
+        "isCorrect": false
+      },
+      {
+        "answer": "Worthless shepherds",
+        "answer_ar": "رعاة لا قيمة لهم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "28012467-e9ea-4fc6-9468-865e9d17ebd7",
+    "question": "Whom did Malachi charge with corrupting the covenant of Levi?",
+    "question_ar": "من اتهم ملاخي بإفساد عهد لاوي؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mal.2.7",
+      "Mal.2.8"
+    ],
+    "answers": [
+      {
+        "answer": "The priests",
+        "answer_ar": "الكهنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Gentiles",
+        "answer_ar": "الأمم",
+        "isCorrect": false
+      },
+      {
+        "answer": "The idolatrous people",
+        "answer_ar": "الناس الوثنيون",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9f31b701-77d2-4565-84a0-24ac9bcb0ac0",
+    "question": "With whom did Malachi warn the Israelites not to deal treacherously?",
+    "question_ar": "مع من حذّر ملاخي بني إسرائيل من أن يغدروا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mal.2.14",
+      "Mal.2.15"
+    ],
+    "answers": [
+      {
+        "answer": "Their neighbors",
+        "answer_ar": "جيرانهم",
+        "isCorrect": false
+      },
+      {
+        "answer": "God",
+        "answer_ar": "الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "Their wives",
+        "answer_ar": "زوجاتهم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "889e3874-b5a3-4e3d-9735-20767fc3183c",
+    "question": "In what way had Israel robbed God, according to Malachi?",
+    "question_ar": "بأي طريقة سرق إسرائيل الله بحسب ملاخي؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mal.3.8"
+    ],
+    "answers": [
+      {
+        "answer": "Loyalty",
+        "answer_ar": "الولاء",
+        "isCorrect": false
+      },
+      {
+        "answer": "Tithes and offerings",
+        "answer_ar": "العشور والتقدمات",
+        "isCorrect": true
+      },
+      {
+        "answer": "Sacrifices",
+        "answer_ar": "الذبائح",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5aa0a37e-72a2-4df8-9bd4-7d7aeabfa869",
+    "question": "What did Malachi caution the Israelites to remember at the end of his prophecy?",
+    "question_ar": "ما الذي حذّر ملاخي بني إسرائيل أن يتذكروه في نهاية نبوّته؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Prophecy"
+    ],
+    "tags": [
+      "History"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mal.4.4"
+    ],
+    "answers": [
+      {
+        "answer": "God’s protection",
+        "answer_ar": "حماية الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "God’s deliverance",
+        "answer_ar": "خلاص الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Law of Moses",
+        "answer_ar": "شريعة موسى",
+        "isCorrect": true
       }
     ]
   }

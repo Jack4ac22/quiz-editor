@@ -1,9 +1,10 @@
+// src/lib/bible/books-aliases.js
 /**
  * A mapping from canonical OSIS book IDs to an array of acceptable book names.
  * Names are stored in lower case so that input strings can be normalized before matching.
  * This mapping includes common English variants and several Arabic names.
  */
-const BOOK_ALIASES = {
+export const BOOK_ALIASES = {
   // Old Testament (39 books)
   "Gen": [
     "genesis", "gen", "التكوين", "تكوين", "تك"

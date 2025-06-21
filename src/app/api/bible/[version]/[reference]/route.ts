@@ -1,3 +1,5 @@
+// src/app/api/bible/[version]/[reference]/route.ts
+
 import { NextRequest } from 'next/server';
 import { parseBibleReferenceRange } from '@/lib/bible/parsing';
 import { getVersesFromParsedReference } from '@/lib/bible/bible-references';

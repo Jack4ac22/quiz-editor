@@ -1,3 +1,4 @@
+// src/lib/bible/bible-references.js
 import fs from 'fs';
 import path from 'path';
 

@@ -1,3 +1,4 @@
+// src/lib/bible/parsing.js
 import { BOOK_ALIASES } from "@/lib/bible/books-aliases";
 
 /**
