@@ -10464,7 +10464,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.12.18-20"
     ],
@@ -10498,7 +10498,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.13.19"
     ],
@@ -10532,11 +10532,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.14.28-33"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Two years",
@@ -10553,7 +10552,8 @@
         "answer_ar": "سنة واحدة",
         "isCorrect": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   },
   {
     "id": "c0c3a3a1-c9cb-4a90-85b3-1b37636238a3",
@@ -10595,11 +10595,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.18.33"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "I had died in your place!",
@@ -10658,13 +10658,12 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.21.1",
       "Josh.9.3",
       "Josh.9.15-20"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Famine",
@@ -10681,7 +10680,8 @@
         "answer_ar": "عاصفة برد",
         "isCorrect": false
       }
-    ]
+    ],
+    "difficulty": "hard"
   },
   {
     "id": "10a41f81-64fa-4de3-8018-488bc81e2b7e",
@@ -10694,11 +10694,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Sam.21.3-7"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "answers": [
       {
         "answer": "Seven",
@@ -10728,12 +10728,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
-      "2Sam.24.12",
-      "2Sam.24.13"
+      "2Sam.24.11-12"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Three possible punishments",
@@ -10763,11 +10761,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.1.50"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Horns",
@@ -10797,11 +10794,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.1.38-40"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Mule",
@@ -10831,11 +10827,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.2.28-35"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "In the tabernacle",
@@ -10865,11 +10860,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.3.9"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Good ... evil",
@@ -10878,7 +10872,7 @@
       },
       {
         "answer": "Truth ... lies",
-        "answer_ar": "الحق ... الباطل",
+        "answer_ar": "الحق ... الكذب",
         "isCorrect": false
       },
       {
@@ -10899,11 +10893,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.3.16-27"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "Baby (or child, or son)",
@@ -10933,7 +10927,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.6.38"
     ],
@@ -10967,11 +10961,11 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.7.21"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "Boaz",
@@ -10993,7 +10987,7 @@
   {
     "id": "c059be40-71c5-4259-b8e5-9397c3d70d80",
     "question": "During the reign of Solomon, there was so much wealth in Israel that ______ was as common in Jerusalem as stones.",
-    "question_ar": "في زمن سليمان كان هناك غنى كثير في إسرائيل حتى أن ______ أصبح شائعًا في أورشليم كالحجارة.",
+    "question_ar": "في زمن سليمان كان هناك غنى كثير في إسرائيل، ما هو الأمر الذي أصبح متوافراً في أورشليم كالحجارة.",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -11001,11 +10995,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.10.27"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Silver",
@@ -11022,12 +11015,13 @@
         "answer_ar": "النحاس",
         "isCorrect": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "9c0f418b-efb8-45ef-98b1-f3bdb2d1aaf3",
     "question": "Was it the older men or younger men who counseled King Rehoboam to be a servant to the people of Israel in his leadership of the nation?",
-    "question_ar": "هل كان الشيوخ أم الشبان هم من نصحوا الملك رحبعام أن يكون خادمًا لشعب إسرائيل في قيادته للأمة؟",
+    "question_ar": "من هم الذين نصحوا الملك رحبعام أن يكون خادمًا لشعب إسرائيل في قيادته للأمة؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -11035,12 +11029,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
-      "1kgs.12.6",
-      "1kgs.12.7"
+      "1kgs.12.6-7"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "The older men",
@@ -11070,11 +11062,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.12.25-28"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Golden calves",
@@ -11104,7 +11095,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.13.3",
       "1kgs.13.33"
@@ -11139,11 +11130,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "1kgs.12.21"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Benjamin",
