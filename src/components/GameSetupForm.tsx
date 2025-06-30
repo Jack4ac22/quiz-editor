@@ -2,18 +2,32 @@
 
 "use client";
 
-import { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
-interface GameSetupFormProps {
+interface Book {
+  code: string;
+  name: string;
+}
+
+interface Options {
   categories: string[];
   tags: string[];
   types: string[];
-  books: { code: string; name: string }[];
   verses: string[];
 }
 
-export default function GameSetupForm({ categories, tags, types, books, verses }: GameSetupFormProps) {
+interface GameSetupFormProps {
+  books: Book[];
+}
+
+export default function GameSetupForm({ books }: GameSetupFormProps) {
+  const [options, setOptions] = useState<Options>({
+    categories: [],
+    tags: [],
+    types: [],
+    verses: [],
+  });
   const [numQuestions, setNumQuestions] = useState(10);
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
@@ -23,10 +37,25 @@ export default function GameSetupForm({ categories, tags, types, books, verses }
   const [useAndLogic, setUseAndLogic] = useState(true);
   const router = useRouter();
 
+  // Fetch categories, tags, types, and verses from API
+  useEffect(() => {
+    async function loadOptions() {
+      try {
+        const res = await fetch('/api/questions/options');
+        if (!res.ok) throw new Error('Failed to load options');
+        const data: Options = await res.json();
+        setOptions(data);
+      } catch (err) {
+        console.error(err);
+      }
+    }
+    loadOptions();
+  }, []);
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     const criteria = {
-      numQuestions,
+      count: numQuestions,
       categories: selectedCategories,
       tags: selectedTags,
       types: selectedTypes,
@@ -69,7 +98,7 @@ export default function GameSetupForm({ categories, tags, types, books, verses }
           onChange={(e) => setSelectedCategories(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {categories.map(cat => <option key={cat} value={cat}>{cat}</option>)}
+          {options.categories.map(cat => <option key={cat} value={cat}>{cat}</option>)}
         </select>
       </div>
 
@@ -81,7 +110,7 @@ export default function GameSetupForm({ categories, tags, types, books, verses }
           onChange={(e) => setSelectedTags(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {tags.map(tag => <option key={tag} value={tag}>{tag}</option>)}
+          {options.tags.map(tag => <option key={tag} value={tag}>{tag}</option>)}
         </select>
       </div>
 
@@ -93,7 +122,7 @@ export default function GameSetupForm({ categories, tags, types, books, verses }
           onChange={(e) => setSelectedTypes(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {types.map(tp => <option key={tp} value={tp}>{tp}</option>)}
+          {options.types.map(tp => <option key={tp} value={tp}>{tp}</option>)}
         </select>
       </div>
 
@@ -117,7 +146,7 @@ export default function GameSetupForm({ categories, tags, types, books, verses }
           onChange={(e) => setSelectedVerses(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {verses.map(v => <option key={v} value={v}>{v}</option>)}
+          {options.verses.map(v => <option key={v} value={v}>{v}</option>)}
         </select>
       </div>
 
@@ -132,7 +161,8 @@ export default function GameSetupForm({ categories, tags, types, books, verses }
           <span>Use AND logic (uncheck for OR logic)</span>
         </label>
       </div>
+
       <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded">Start Game</button>
     </form>
-  )
+  );
 }

@@ -43597,5 +43597,661 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "id": "3b5ec57e-1dd1-4b91-9b6c-4f79a99a1775",
+    "question": "What situation did the scribes and Pharisees present to test Jesus after He returned from the Mount of Olives?",
+    "question_ar": "ما الموقف الذي قدمه الكتبة والفريسيون لاختبار يسوع بعد عودته من جبل الزيتون؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.8.3",
+      "John.8.4"
+    ],
+    "answers": [
+      {
+        "answer": "Sabbath breakers",
+        "answer_ar": "كاسري السبت",
+        "isCorrect": false
+      },
+      {
+        "answer": "The woman caught in adultery",
+        "answer_ar": "المرأة التي أُمسكت في الزنا",
+        "isCorrect": true
+      },
+      {
+        "answer": "The woman at the well",
+        "answer_ar": "المرأة عند البئر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "de0c8c2f-cb36-474c-b574-ec9e042d4f60",
+    "question": "Who condemned the woman caught in adultery?",
+    "question_ar": "من الذي دان المرأة التي أُمسكت في الزنا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.8.11"
+    ],
+    "answers": [
+      {
+        "answer": "Her accusers",
+        "answer_ar": "مشتكيها",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jesus",
+        "answer_ar": "يسوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "No one",
+        "answer_ar": "لا أحد",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8b1e0fd3-9a58-4d64-8ba4-4b3bfb76b1df",
+    "question": "Who told Jesus that His testimony was not valid because He bore witness of Himself?",
+    "question_ar": "من قال ليسوع إن شهادته غير صحيحة لأنه شهد لنفسه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.8.13"
+    ],
+    "answers": [
+      {
+        "answer": "The Pharisees",
+        "answer_ar": "الفريسيون",
+        "isCorrect": true
+      },
+      {
+        "answer": "The crowd",
+        "answer_ar": "الجمهور",
+        "isCorrect": false
+      },
+      {
+        "answer": "The temple priest",
+        "answer_ar": "كاهن الهيكل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "94f69b8c-6ed1-41d1-b9cd-5a2531f0c859",
+    "question": "Jesus told the Jews they were neither children of Abraham nor was God their Father.",
+    "question_ar": "قال يسوع لليهود إنهم ليسوا أولاد إبراهيم ولا الله هو أبوهم.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.8.39",
+      "John.8.42"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2a8c94c0-3811-4c79-b653-4d54b58684e2",
+    "question": "Jesus told the Jews, 'You are of your father the Devil, who was a murderer from the beginning.'",
+    "question_ar": "قال يسوع لليهود: 'أنتم من أب هو إبليس، وكان قتالاً للناس منذ البدء.'",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.8.44"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "be040ec7-50b7-406f-b318-3a3be8ef7987",
+    "question": "Why did Jesus say the man was born blind?",
+    "question_ar": "لماذا قال يسوع إن الرجل وُلِد أعمى؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.9.3"
+    ],
+    "answers": [
+      {
+        "answer": "To reveal the works of God",
+        "answer_ar": "لكي تُظهَر أعمال الله فيه",
+        "isCorrect": true
+      },
+      {
+        "answer": "To punish him for his sin",
+        "answer_ar": "لعقابه على خطاياه",
+        "isCorrect": false
+      },
+      {
+        "answer": "To punish his parents for their sins",
+        "answer_ar": "لعقاب والديه على خطاياهما",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a0d3dc3a-134e-4d8e-88d2-f21cc97e1c2f",
+    "question": "The Jews claimed Jesus had a demon because He said, 'If anyone keeps My word he shall never taste death.'",
+    "question_ar": "قال اليهود إن يسوع به شيطان لأنه قال: 'إن حفظ أحد كلامي فلن يرى الموت إلى الأبد.'",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.8.52"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7adfce95-3a96-4ef0-b6b7-3b4d4308b297",
+    "question": "Who were afraid to confess Jesus as Christ for fear of being put out of the synagogue?",
+    "question_ar": "من الذين خافوا أن يعترفوا بأن يسوع هو المسيح خوفاً من الطرد من المجمع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.9.22"
+    ],
+    "answers": [
+      {
+        "answer": "The Pharisees",
+        "answer_ar": "الفريسيون",
+        "isCorrect": false
+      },
+      {
+        "answer": "The blind man’s parents",
+        "answer_ar": "والدا الأعمى",
+        "isCorrect": true
+      },
+      {
+        "answer": "The neighbors",
+        "answer_ar": "الجيران",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b4d49a88-8a0b-4c8a-9941-01a30a4ad471",
+    "question": "Jesus said, 'He who does not enter the sheepfold by the door, but climbs up some other way, is a thief and a robber.'",
+    "question_ar": "قال يسوع: 'من لا يدخل من باب الحظيرة بل يصعد من مكان آخر فهو سارق ولص.'",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.10.1"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "149a3a63-215b-417c-8a2f-445ce42f9096",
+    "question": "To whom did Jesus say, 'I am the resurrection and the life'?",
+    "question_ar": "لمن قال يسوع: 'أنا هو القيامة والحياة'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.11.24",
+      "John.11.25"
+    ],
+    "answers": [
+      {
+        "answer": "Mary",
+        "answer_ar": "مريم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Martha",
+        "answer_ar": "مرثا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Lazarus",
+        "answer_ar": "لعازر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a22aeb5b-b1f4-44cd-9c8f-055a7a2b8b04",
+    "question": "What did Jesus do to cause the Jews to say, “See how He loved Him”?",
+    "question_ar": "ماذا فعل يسوع ليدفع اليهود إلى القول: «انظروا كيف كان يحبه»؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.11.35"
+    ],
+    "answers": [
+      {
+        "answer": "Raised Lazarus",
+        "answer_ar": "أقام لعازر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Wept",
+        "answer_ar": "بكى",
+        "isCorrect": true
+      },
+      {
+        "answer": "Comforted Mary and Martha",
+        "answer_ar": "عزّى مريم ومرثا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c9df779e-2f58-4cb0-a50b-3546b04d2dfb",
+    "question": "Who convinced the Pharisees that it was politically and personally expedient for them that Jesus die?",
+    "question_ar": "من أقنع الفريسيين أن من المصلحة السياسية والشخصية لهم أن يموت يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.11.49",
+      "John.11.50"
+    ],
+    "answers": [
+      {
+        "answer": "Caiaphas, the high priest",
+        "answer_ar": "قيافا، رئيس الكهنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Jewish nation",
+        "answer_ar": "الأمة اليهودية",
+        "isCorrect": false
+      },
+      {
+        "answer": "Judas Iscariot",
+        "answer_ar": "يهوذا الإسخريوطي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0c1d647a-5e30-46a1-ae54-76c5aa6c4f7a",
+    "question": "Jesus said to the Jews, “If you do not believe that I am He, you will die in your sins.”",
+    "question_ar": "قال يسوع لليهود: «إن لم تؤمنوا أني أنا هو، تموتون في خطاياكم».",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.8.24"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3836246c-2b99-4c57-9dbf-5185275cc12d",
+    "question": "Isaiah 42:6 identifies Jesus’ “other sheep … which are not of this fold” as the Gentiles.",
+    "question_ar": "يُعرّف إشعياء ٤٢:٦ «الخراف الأخرى ... التي ليست من هذه الحظيرة» بأنها الأمم.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "John.10.16"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3d558a75-0e7e-4898-a10a-69744ed57627",
+    "question": "Who anointed Jesus’ feet with oil and dried them with her hair?",
+    "question_ar": "من دهنت قدمي يسوع بالزيت وجففتهما بشعرها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.12.1",
+      "John.12.2",
+      "John.12.3"
+    ],
+    "answers": [
+      {
+        "answer": "Mary, the sister of Lazarus and Martha",
+        "answer_ar": "مريم، أخت لعازر ومرثا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Martha",
+        "answer_ar": "مرثا",
+        "isCorrect": false
+      },
+      {
+        "answer": "A woman in Simon’s house",
+        "answer_ar": "امرأة في بيت سمعان",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7e0f8a98-e747-4985-85f7-b2b43934f720",
+    "question": "Who, that had been dead, sat eating with Jesus and His disciples and Mary and Martha in Bethany six days before the Passover?",
+    "question_ar": "من الذي كان ميتًا وجلس يأكل مع يسوع وتلاميذه ومريم ومرثا في بيت عنيا قبل الفصح بستة أيام؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.12.1",
+      "John.12.2"
+    ],
+    "answers": [
+      {
+        "answer": "Lazarus",
+        "answer_ar": "لعازر",
+        "isCorrect": true
+      },
+      {
+        "answer": "Nicodemus",
+        "answer_ar": "نيقوديموس",
+        "isCorrect": false
+      },
+      {
+        "answer": "Simon the leper",
+        "answer_ar": "سمعان الأبرص",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "33ef4fd1-7c4f-4a25-8fa6-d98c9df43b18",
+    "question": "Who objected to Mary’s wasting expensive oil on Jesus’ feet?",
+    "question_ar": "من اعترض على إهدار مريم للزيت الثمين على قدمي يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.12.4",
+      "John.12.5"
+    ],
+    "answers": [
+      {
+        "answer": "Martha",
+        "answer_ar": "مرثا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Lazarus",
+        "answer_ar": "لعازر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Judas",
+        "answer_ar": "يهوذا",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ec0cc274-6012-4c61-9085-4452d5c4ed1f",
+    "question": "Whom else did the chief priests consider killing since many people believed in Jesus because of him?",
+    "question_ar": "من أيضًا فكّر رؤساء الكهنة في قتله لأن كثيرين آمنوا بيسوع بسببه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.12.10",
+      "John.12.11"
+    ],
+    "answers": [
+      {
+        "answer": "Nicodemus",
+        "answer_ar": "نيقوديموس",
+        "isCorrect": false
+      },
+      {
+        "answer": "Lazarus",
+        "answer_ar": "لعازر",
+        "isCorrect": true
+      },
+      {
+        "answer": "The man born blind",
+        "answer_ar": "الأعمى منذ الولادة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fa885054-5ef0-4d93-ade4-1d2a2392446f",
+    "question": "Which Old Testament prophet wrote of Jesus, “Fear not, daughter of Zion; Behold, your King is coming, Sitting on a donkey’s colt”?",
+    "question_ar": "أي نبي من العهد القديم كتب عن يسوع: «لا تخافي يا ابنة صهيون، هوذا ملكك يأتي جالسًا على جحش أتان»؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.12.15",
+      "Zech.9.9"
+    ],
+    "answers": [
+      {
+        "answer": "Isaiah",
+        "answer_ar": "إشعياء",
+        "isCorrect": false
+      },
+      {
+        "answer": "Hosea",
+        "answer_ar": "هوشع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Zechariah",
+        "answer_ar": "زكريا",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "61d0d98e-09b7-4873-b1fc-1ebc53a1f241",
+    "question": "When Jesus said, “And I, if I am lifted up from the earth, will draw all peoples to Myself,” He indicated what kind of death He would die.",
+    "question_ar": "عندما قال يسوع: «وأنا إن ارتفعت عن الأرض أجذب إليّ الجميع»، كان يشير إلى نوع الموت الذي سيموت به.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.12.32"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
   }
 ]

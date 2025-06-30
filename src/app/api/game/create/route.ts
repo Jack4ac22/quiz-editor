@@ -1,4 +1,4 @@
-// src/app/api/questions/route.ts 
+// src/app/api/game/create/route.ts 
 import { NextRequest } from 'next/server';
 import { signJwt } from '@/lib/jwt';
 import { loadQuestions } from '@/lib/questionStore';
