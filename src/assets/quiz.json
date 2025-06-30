@@ -44253,5 +44253,330 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "id": "a934d2a1-b07e-4e45-b30d-928c3f52c3e6",
+    "question": "According to Jesus at the Passover Feast, from whom did His authority come?",
+    "question_ar": "وفقًا لما قاله يسوع في عيد الفصح، من أين أتت سلطته؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.12.49"
+    ],
+    "answers": [
+      {
+        "answer": "The Father who sent Him",
+        "answer_ar": "الآب الذي أرسله",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Holy Spirit",
+        "answer_ar": "الروح القدس",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Scriptures",
+        "answer_ar": "الكتب المقدسة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5e0e3fc2-0f29-44e5-8040-bc646e51a225",
+    "question": "Which disciple protested Jesus’ washing his feet?",
+    "question_ar": "أي تلميذ اعترض على غسل يسوع لقدميه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.13.8"
+    ],
+    "answers": [
+      {
+        "answer": "Peter",
+        "answer_ar": "بطرس",
+        "isCorrect": true
+      },
+      {
+        "answer": "Judas Iscariot",
+        "answer_ar": "يهوذا الإسخريوطي",
+        "isCorrect": false
+      },
+      {
+        "answer": "Thomas",
+        "answer_ar": "توما",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fdd769b3-3d55-4b4d-8797-b8cc1f515f6f",
+    "question": "Who prompted the disciple leaning on Jesus to ask about the betrayer?",
+    "question_ar": "من الذي دفع التلميذ المتكئ على يسوع أن يسأله عن الخائن؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.13.24"
+    ],
+    "answers": [
+      {
+        "answer": "Peter",
+        "answer_ar": "بطرس",
+        "isCorrect": true
+      },
+      {
+        "answer": "John",
+        "answer_ar": "يوحنا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Judas",
+        "answer_ar": "يهوذا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a67df5fd-3cd2-4fcb-bc25-45f8a2b5c9c1",
+    "question": "Judas refused the dipped bread Jesus gave him and left immediately.",
+    "question_ar": "رفض يهوذا الخبز المغموس الذي أعطاه له يسوع وغادر على الفور.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.13.30"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0dd2d048-65a2-4d8c-a76f-cb62dd0bd1f2",
+    "question": "Jesus said believers in Him would do the works He did and greater ones also.",
+    "question_ar": "قال يسوع إن الذين يؤمنون به سيقومون بالأعمال التي قام بها وأعظم منها أيضًا.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.14.12"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "063d1a27-8ab4-405e-982a-f9e6ad0f6f03",
+    "question": "What word did Jesus use to describe how He would not leave the disciples when He went away?",
+    "question_ar": "ما الكلمة التي استخدمها يسوع ليصف بها كيف لن يترك التلاميذ عند رحيله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.14.18"
+    ],
+    "answers": [
+      {
+        "answer": "Orphans",
+        "answer_ar": "يتامى",
+        "isCorrect": true
+      },
+      {
+        "answer": "Deserted",
+        "answer_ar": "مهجورين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Forever",
+        "answer_ar": "إلى الأبد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3b12c6b6-689c-464f-89cd-5c7e417fa98f",
+    "question": "Who asked Pilate to change the title on Jesus’ cross?",
+    "question_ar": "من طلب من بيلاطس تغيير العنوان المكتوب على صليب يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.19.21"
+    ],
+    "answers": [
+      {
+        "answer": "The chief priests of the Jews",
+        "answer_ar": "رؤساء كهنة اليهود",
+        "isCorrect": true
+      },
+      {
+        "answer": "The disciples",
+        "answer_ar": "التلاميذ",
+        "isCorrect": false
+      },
+      {
+        "answer": "The soldiers",
+        "answer_ar": "الجنود",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f06601db-94f0-4cfa-9a7a-7c733f13f1fa",
+    "question": "“And whatever you ask in My name, that I will do, that the ______ may be glorified in the ______.”",
+    "question_ar": "«ومهما سألتم باسمي، فذلك أفعله، لكي يتمجد ______ في ______.»",
+    "type": "Fill in the Blank",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.14.13"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d202a8e1-7cc0-423e-96f8-80b7b45de0d5",
+    "question": "What name did Jesus use to describe the Helper the Father would give?",
+    "question_ar": "ما الاسم الذي استخدمه يسوع لوصف المعين الذي سيرسله الآب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.14.17"
+    ],
+    "answers": [
+      {
+        "answer": "Spirit of truth",
+        "answer_ar": "روح الحق",
+        "isCorrect": true
+      },
+      {
+        "answer": "Spirit of power",
+        "answer_ar": "روح القوة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Spirit of holiness",
+        "answer_ar": "روح القداسة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "1de3c51c-e4d1-4aa3-bd1d-72945758698a",
+    "question": "According to John 15, who is the vinedresser?",
+    "question_ar": "وفقًا لإنجيل يوحنا 15، من هو الكرام؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.15.1"
+    ],
+    "answers": [
+      {
+        "answer": "The Father",
+        "answer_ar": "الآب",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Son",
+        "answer_ar": "الابن",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Holy Spirit",
+        "answer_ar": "الروح القدس",
+        "isCorrect": false
+      }
+    ]
   }
 ]
