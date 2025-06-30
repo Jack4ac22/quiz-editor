@@ -73,8 +73,8 @@ export default function GamePage() {
   let score = 0;
   if (submitted) {
     score = questions.reduce((sum, q) => {
-      const correct = q.answers.find((a: any) => a.isCorrect);
-      return sum + (answers[q.id] === (correct?.id?.toString() ?? correct?.id) ? 1 : 0);
+      const correctIndex = String(q.answers.findIndex(a => a.isCorrect));
+      return sum + (answers[q.id] === correctIndex ? 1 : 0);
     }, 0);
   }
 

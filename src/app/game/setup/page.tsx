@@ -1,24 +1,39 @@
 // src/app/game/setup/page.tsx
 
 import GameSetupForm from "@/components/GameSetupForm";
+import { loadQuestions } from "@/lib/questionStore";
 
-export default function SetupPage() {
-  // TODO: replace with real data fetching
-  const categories = ["History", "Poetry", "Prophecy", "Gospels", "Acts", "Epistles"];
-  const tags = ["Introduction", "Key Figures", "Events"];
-  const types = ["multiple-choice", "true-false", "fill-in-the-blank"];
+export default async function SetupPage() {
+
+  const questions = await loadQuestions();
+
+  const categoriesSet = new Set<string>();
+  const tagsSet = new Set<string>();
+  const typesSet = new Set<string>();
+  const versesSet = new Set<string>();
+
+  questions.forEach((q: any) => {
+    q.categories.forEach((c: string) => categoriesSet.add(c));
+    q.tags.forEach((t: string) => tagsSet.add(t));
+    typesSet.add(q.type);
+    // q.verses.forEach((v: string) => versesSet.add(v));
+  });
+
+  const categories = Array.from(categoriesSet).sort();
+  const tags = Array.from(tagsSet).sort();
+  const types = Array.from(typesSet).sort();
+  const verses = Array.from(versesSet).sort();
   const books = [
+    // You can dynamically derive books from verses or load from a separate file
     { code: "Gen", name: "Genesis" },
     { code: "Ex", name: "Exodus" },
-    { code: "Lev", name: "Leviticus" },
-    // ... other books
+    // ... etc.
   ];
 
   return (
     <div className="container mx-auto p-6">
       <h1 className="text-2xl font-bold mb-4">Game Setup</h1>
-      {/* @ts-ignore */}
-      <GameSetupForm categories={categories} tags={tags} types={types} books={books} />
+      <GameSetupForm categories={categories} tags={tags} types={types} books={books} verses={verses} />
     </div>
   );
 }

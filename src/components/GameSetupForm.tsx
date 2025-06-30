@@ -10,14 +10,16 @@ interface GameSetupFormProps {
   tags: string[];
   types: string[];
   books: { code: string; name: string }[];
+  verses: string[];
 }
 
-export default function GameSetupForm({ categories, tags, types, books }: GameSetupFormProps) {
+export default function GameSetupForm({ categories, tags, types, books, verses }: GameSetupFormProps) {
   const [numQuestions, setNumQuestions] = useState(10);
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [selectedTypes, setSelectedTypes] = useState<string[]>([]);
   const [selectedBooks, setSelectedBooks] = useState<string[]>([]);
+  const [selectedVerses, setSelectedVerses] = useState<string[]>([]);
   const [useAndLogic, setUseAndLogic] = useState(true);
   const router = useRouter();
 
@@ -29,18 +31,19 @@ export default function GameSetupForm({ categories, tags, types, books }: GameSe
       tags: selectedTags,
       types: selectedTypes,
       books: selectedBooks,
+      verses: selectedVerses,
       logic: useAndLogic ? "AND" : "OR",
     };
-    try {
-      const res = await fetch("/api/game/create", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(criteria),
-      });
+    const res = await fetch("/api/game/create", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(criteria),
+    });
+    if (res.ok) {
       const { token } = await res.json();
       router.push(`/game?token=${encodeURIComponent(token)}`);
-    } catch (error) {
-      console.error("Failed to create game", error);
+    } else {
+      console.error("Game creation failed:", await res.text());
     }
   };
 
@@ -63,14 +66,10 @@ export default function GameSetupForm({ categories, tags, types, books }: GameSe
         <select
           multiple
           value={selectedCategories}
-          onChange={(e) =>
-            setSelectedCategories(Array.from(e.target.selectedOptions, (opt) => opt.value))
-          }
+          onChange={(e) => setSelectedCategories(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {categories.map((cat) => (
-            <option key={cat} value={cat}>{cat}</option>
-          ))}
+          {categories.map(cat => <option key={cat} value={cat}>{cat}</option>)}
         </select>
       </div>
 
@@ -79,14 +78,10 @@ export default function GameSetupForm({ categories, tags, types, books }: GameSe
         <select
           multiple
           value={selectedTags}
-          onChange={(e) =>
-            setSelectedTags(Array.from(e.target.selectedOptions, (opt) => opt.value))
-          }
+          onChange={(e) => setSelectedTags(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {tags.map((tag) => (
-            <option key={tag} value={tag}>{tag}</option>
-          ))}
+          {tags.map(tag => <option key={tag} value={tag}>{tag}</option>)}
         </select>
       </div>
 
@@ -95,14 +90,10 @@ export default function GameSetupForm({ categories, tags, types, books }: GameSe
         <select
           multiple
           value={selectedTypes}
-          onChange={(e) =>
-            setSelectedTypes(Array.from(e.target.selectedOptions, (opt) => opt.value))
-          }
+          onChange={(e) => setSelectedTypes(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {types.map((tp) => (
-            <option key={tp} value={tp}>{tp}</option>
-          ))}
+          {types.map(tp => <option key={tp} value={tp}>{tp}</option>)}
         </select>
       </div>
 
@@ -111,14 +102,22 @@ export default function GameSetupForm({ categories, tags, types, books }: GameSe
         <select
           multiple
           value={selectedBooks}
-          onChange={(e) =>
-            setSelectedBooks(Array.from(e.target.selectedOptions, (opt) => opt.value))
-          }
+          onChange={(e) => setSelectedBooks(Array.from(e.target.selectedOptions, opt => opt.value))}
           className="w-full border rounded p-2"
         >
-          {books.map((book) => (
-            <option key={book.code} value={book.code}>{book.name}</option>
-          ))}
+          {books.map(book => <option key={book.code} value={book.code}>{book.name}</option>)}
+        </select>
+      </div>
+
+      <div className="mb-4">
+        <label className="block font-medium mb-1">Verses (optional)</label>
+        <select
+          multiple
+          value={selectedVerses}
+          onChange={(e) => setSelectedVerses(Array.from(e.target.selectedOptions, opt => opt.value))}
+          className="w-full border rounded p-2"
+        >
+          {verses.map(v => <option key={v} value={v}>{v}</option>)}
         </select>
       </div>
 
@@ -127,16 +126,13 @@ export default function GameSetupForm({ categories, tags, types, books }: GameSe
           <input
             type="checkbox"
             checked={useAndLogic}
-            onChange={() => setUseAndLogic((prev) => !prev)}
+            onChange={() => setUseAndLogic(prev => !prev)}
             className="form-checkbox"
           />
           <span>Use AND logic (uncheck for OR logic)</span>
         </label>
       </div>
-
-      <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded">
-        Start Game
-      </button>
+      <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded">Start Game</button>
     </form>
-  );
+  )
 }

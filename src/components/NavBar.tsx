@@ -9,6 +9,7 @@ export default function NavBar() {
           <Link href="/" className="font-bold text-2xl tracking-tight hover:text-blue-200">Quiz Editor</Link>
           <Link href="/" className="hover:text-blue-200">Home</Link>
           <Link href="/add" className="hover:text-blue-200">Add Question</Link>
+          <Link href="/game/setup" className="hover:text-blue-200">New Game</Link>
         </div>
       </div>
     </nav>
