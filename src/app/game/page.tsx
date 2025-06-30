@@ -1,3 +1,4 @@
+// src/app/game/page.tsx
 'use client';
 
 import { useEffect, useState } from 'react';

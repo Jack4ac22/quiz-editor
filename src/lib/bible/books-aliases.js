@@ -275,5 +275,3 @@ export const BOOK_ALIASES = {
   // (Additional books such as those from the Ethiopian Orthodox Canon, LXX, or variant can be added following the same pattern.)
 };
 
-// Export the mapping for use in parsing functions.
-export { BOOK_ALIASES };
