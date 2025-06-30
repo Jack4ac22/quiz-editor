@@ -1,4 +1,5 @@
 // src/app/game/setup/page.tsx
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 import GameSetupForm from "@/components/GameSetupForm";
 import { loadQuestions } from "@/lib/questionStore";
