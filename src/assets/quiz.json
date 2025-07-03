@@ -11827,12 +11827,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
-      "2Chr.26.14-16",
-      "2Chr.26.17-18"
+      "2Chr.26.14-18"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Offered an incense offering in the temple",
@@ -11854,7 +11852,7 @@
   {
     "id": "b8fd77da-028d-4c43-bcb2-51777a36d3d7",
     "question": "Hezekiah led the people in celebration of the Feast of Unleavened Bread with such exuberance that it went on an additional ______ days.",
-    "question_ar": "قَاد حزقيا الشعب للاحتفال بعيد الفطير بحماسة شديدة حتى استمر العيد ______ أيام إضافية.",
+    "question_ar": "قَاد حزقيا الشعب للاحتفال بعيد الفطير بحماسة شديدة حتى استمر العيد لأيام إضافية. كم كان عدد تلك الأيام؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -11862,11 +11860,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "2Chr.30.21-23"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Seven",
@@ -11883,7 +11880,8 @@
         "answer_ar": "عشرة",
         "isCorrect": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "d6cb68e2-e3c2-4cd3-b82e-f511c222e24e",
@@ -11896,11 +11894,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Ezra.3.2"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "An altar of burnt offering",
@@ -11914,7 +11911,7 @@
       },
       {
         "answer": "A synagogue",
-        "answer_ar": "كنيس",
+        "answer_ar": "كنيس (سيناغوغ)",
         "isCorrect": false
       }
     ]
@@ -11930,11 +11927,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Ezra.9.8"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Remnant",
@@ -11956,7 +11952,7 @@
   {
     "id": "5c167b89-0ff2-4cd5-8f90-ec633807da65",
     "question": "Haman wrote a law 'to annihilate all the ______, both young and old, little children and women.'",
-    "question_ar": "كتب هامان قانونًا 'ليهلك جميع الـ______, من الصغير إلى الكبير، الأطفال والنساء.'",
+    "question_ar": "كتب هامان شريعة (دستوراً) يفضي بإهلاك فئة كاملة بصغارهم وكبارهم، من كان هؤلاء الذين أراد أن يُهلكهم؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -11964,11 +11960,10 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Esth.3.13"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Jews",
@@ -11998,7 +11993,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Esth.7.9",
       "Esth.7.10"
@@ -12033,7 +12028,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Esth.9.26-32"
     ],
@@ -14187,7 +14182,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Lev.23.5"
     ],
@@ -14222,7 +14217,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Lev.23.34",
       "Lev.23.42",
@@ -14250,7 +14245,7 @@
   {
     "id": "d3c4f33f-c06d-4a4c-9f57-04cf4f48bcf5",
     "question": "The Year of Jubilee occurred every ______ year, according to Jewish law.",
-    "question_ar": "سنة اليوبيل كانت تحدث كل ______ سنة بحسب الشريعة اليهودية.",
+    "question_ar": "بحسب الشريعة اليهودية، كم كان عدد سنوات بين سنيّ اليوبيل؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -14259,25 +14254,24 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Lev.25.10"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Fiftieth",
-        "answer_ar": "خمسين",
+        "answer_ar": "خمسين سنة",
         "isCorrect": true
       },
       {
         "answer": "سبع",
-        "answer_ar": "سبع",
+        "answer_ar": "سبع سنين",
         "isCorrect": false
       },
       {
         "answer": "مئة",
-        "answer_ar": "مئة",
+        "answer_ar": "مئة سنة",
         "isCorrect": false
       }
     ]
@@ -14294,7 +14288,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Lev.25.39",
       "Lev.25.42"
@@ -14321,7 +14315,7 @@
   {
     "id": "3819d544-5db7-400e-b244-dc0030fc272e",
     "question": "Which of the following would not result from the Israelites disobeying God’s commandments?",
-    "question_ar": "أي من التالي لن يكون نتيجة لعصيان بني إسرائيل لوصايا الله؟",
+    "question_ar": "أي من البلايا التالية لن تكون نتيجة لعصيان بني إسرائيل لوصايا الله؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -14330,11 +14324,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Lev.26.44"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "People wiped from the face of the earth",
@@ -14356,7 +14349,7 @@
   {
     "id": "d492e67a-8773-4332-b8a8-c67e6549a11e",
     "question": "The only reason for not paying the set valuation for a person consecrated to the Lord was if one were too ______.",
-    "question_ar": "السبب الوحيد لعدم دفع التقدير المقرر للشخص المكرس للرب هو إذا كان ______ جدًا.",
+    "question_ar": "ما هو السبب الوحيد لعدم دفع الفداء المقرر للشخص المكرس للرب؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -14365,25 +14358,24 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Lev.27.8"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Poor",
-        "answer_ar": "فقير",
+        "answer_ar": "إن كان فقير",
         "isCorrect": true
       },
       {
         "answer": "صغير",
-        "answer_ar": "صغير",
+        "answer_ar": "إن كان صغير السن",
         "isCorrect": false
       },
       {
         "answer": "كبير السن",
-        "answer_ar": "كبير السن",
+        "answer_ar": "إن كان كبير السن",
         "isCorrect": false
       }
     ]
@@ -14400,11 +14392,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Num.14.34"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Day",
@@ -14435,11 +14426,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Num.15.10"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Wine",
@@ -14453,7 +14443,7 @@
       },
       {
         "answer": "Spring water",
-        "answer_ar": "ماء نبع",
+        "answer_ar": "ماء من أحد الينابيع",
         "isCorrect": false
       }
     ]
@@ -14495,7 +14485,7 @@
   {
     "id": "e8e8e166-82e4-4e37-8998-56f758c8f74d",
     "question": "God told Aaron, “I have given the children of Levi all the ______ in Israel as an inheritance in return for the work which they perform, the work of the tabernacle of meeting.”",
-    "question_ar": "قال الله لهارون: «إني أعطيت بني لاوي كل ______ في إسرائيل ميراثًا بدل عملهم في خيمة الاجتماع.»",
+    "question_ar": "حين خاطب الله هارون بخصوص نصيب لاوي، ما الذي قال الله أنَّه قد أعطاه لبني لاوي بدل خدمتهم في خيمة الاجتماع؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -14504,12 +14494,11 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Num.18.21",
       "Josh.21"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Tithes",
@@ -14518,12 +14507,12 @@
       },
       {
         "answer": "حقول",
-        "answer_ar": "حقول",
+        "answer_ar": "حقول أورشليم",
         "isCorrect": false
       },
       {
         "answer": "ذهب",
-        "answer_ar": "ذهب",
+        "answer_ar": "ذهب الهيكل",
         "isCorrect": false
       }
     ]
@@ -14531,7 +14520,7 @@
   {
     "id": "e892e39e-b2ce-4bb1-b276-c90e59e02722",
     "question": "God promised the children of Gad, Reuben, and the half-tribe of Manasseh the land of ______, east of the Jordan, if they would help the rest of the Israelites possess the land of Canaan.",
-    "question_ar": "وعد الله بني جاد ورأوبين ونصف سبط منسى بأرض ______ شرق الأردن إذا ساعدوا باقي بني إسرائيل في امتلاك أرض كنعان.",
+    "question_ar": "وعد الله بني جاد ورأوبين ونصف سبط منسى بأرض تقع شرق الأردن إذا ساعدوا باقي بني إسرائيل في امتلاك أرض كنعان. أي أرض كان تلك؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -14540,12 +14529,11 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Num.32.29",
       "Num.32.33"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Gilead",
@@ -14562,7 +14550,8 @@
         "answer_ar": "أريحا",
         "isCorrect": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "b453bbab-38e2-4fc2-957b-0a11d95fcde0",
@@ -15059,11 +15048,11 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.12.17-19"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "The tribe of Levi—the Levites",
@@ -15272,7 +15261,7 @@
   {
     "id": "92461465-e346-493e-929e-4392d1b959d6",
     "question": "The Israelites were not to shave what part of their heads for the dead, the front or back?",
-    "question_ar": "أي جزء من رؤوسهم كان يُحظر على بني إسرائيل حلقه من أجل الميت، الجبهة أم الخلف؟",
+    "question_ar": "أي جزء من رؤوسهم كان يُحظر على بني إسرائيل حلقه من أجل الميت؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -15285,7 +15274,6 @@
     "verses": [
       "Deut.14.1"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "The front of their heads",
@@ -15307,7 +15295,7 @@
   {
     "id": "4aee6cfd-bb1c-47ae-97c8-84f6362257f5",
     "question": "Two conditions made an animal detestable and inedible to the children of Israel. Name one of them.",
-    "question_ar": "شرطان جعلا الحيوان نجسًا وغير صالح للأكل لدى بني إسرائيل. اذكر أحدهما.",
+    "question_ar": "أي من الشروط التالية تجعل من الحيوان نجساً بحسب الشريعة، ويكون غير صالح للأكل لبني اسرائيل؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -15316,11 +15304,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.14.6"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "An uncloven hoof",
@@ -15329,12 +15316,12 @@
       },
       {
         "answer": "عدم القدرة على السباحة",
-        "answer_ar": "عدم القدرة على السباحة",
+        "answer_ar": "لا يعيش في الماء",
         "isCorrect": false
       },
       {
         "answer": "لا يعيش في البرية",
-        "answer_ar": "لا يعيش في البرية",
+        "answer_ar": "لا يزحف على بطنه",
         "isCorrect": false
       }
     ]
@@ -15351,7 +15338,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.14.7"
     ],
@@ -15386,11 +15373,11 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.14.8"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "answers": [
       {
         "answer": "Swine do not chew the cud",
@@ -15421,7 +15408,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Deut.14.21"
     ],
@@ -15456,7 +15443,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.14.28",
       "Deut.14.29"
@@ -15552,7 +15539,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.15.12"
     ],
@@ -15578,7 +15565,7 @@
   {
     "id": "1e64b700-1d08-47b7-8777-7a53d1bc14e5",
     "question": "If a man or woman wanted to remain a slave for life to a fellow Hebrew, then the master was to take an awl and thrust it through the slave’s ______.",
-    "question_ar": "إذا أراد رجل أو امرأة أن يبقى عبدًا مدى الحياة لأخيه العبراني، كان السيد يثقب الـ______ بالمخرز.",
+    "question_ar": "إذا أراد رجل أو امرأة أن يبقى عبدًا مدى الحياة لأخيه العبراني، أي عضو من أعضاء جسمه كان السيد يثقب بالمخرز.",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -15587,11 +15574,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.15.17"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Ear",
@@ -15600,12 +15586,12 @@
       },
       {
         "answer": "يده",
-        "answer_ar": "يده",
+        "answer_ar": "أنفه",
         "isCorrect": false
       },
       {
         "answer": "قدمه",
-        "answer_ar": "قدمه",
+        "answer_ar": "شفته العليا",
         "isCorrect": false
       }
     ]
@@ -15613,7 +15599,7 @@
   {
     "id": "768ea37c-e6cf-4eb7-a8df-984d74b06416",
     "question": "What were the Hebrews not allowed to do to the firstborn males of the flock?",
-    "question_ar": "ماذا لم يكن يُسمح للعبرانيين أن يفعلوا بذكور أبكار الغنم؟",
+    "question_ar": "أمر لم يكن يُسمح للعبرانيين أن يفعلوا بذكور أبكار الغنم، ما هو؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -15622,11 +15608,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.15.19"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Shear them",
@@ -15640,7 +15625,7 @@
       },
       {
         "answer": "Ride them",
-        "answer_ar": "يركبوهم",
+        "answer_ar": "يحرثوا عليهم",
         "isCorrect": false
       }
     ]
@@ -15657,7 +15642,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.16.3"
     ],
@@ -15683,7 +15668,7 @@
   {
     "id": "25cfdd2d-eebc-43b6-93d3-616748d8dbf7",
     "question": "The unleavened bread to be eaten during Passover was called the bread of:",
-    "question_ar": "كان الفطير الذي يُؤكل في الفصح يُسمى خبز:",
+    "question_ar": "ما هو الإسم الذي كان يُطلق على الفطير الذي يُؤكل في الفصح؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -15692,11 +15677,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.16.3"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Affliction",
@@ -15748,7 +15732,7 @@
   {
     "id": "2cc9f5f5-02b0-4ea4-84b6-490b4ab747da",
     "question": "The Feast of Weeks followed Passover by how many weeks?",
-    "question_ar": "بعد كم أسبوع جاء عيد الأسابيع بعد الفصح؟",
+    "question_ar": "كم أسبوع يفصل عيد الأسابيع عن عيد الفصح؟",
     "type": "Multiple Choice",
     "categories": [
       "History"
@@ -15757,12 +15741,10 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
-      "Deut.16.9",
-      "Deut.16.10"
+      "Deut.16.9-10"
     ],
-    "difficulty": "medium",
     "answers": [
       {
         "answer": "Seven",
@@ -15793,7 +15775,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.16.10"
     ],
@@ -15828,7 +15810,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "translated",
     "verses": [
       "Deut.16.16"
     ],
@@ -15863,7 +15845,7 @@
       "Law",
       "Promise"
     ],
-    "status": "draft",
+    "status": "rejected",
     "verses": [
       "Deut.16.17"
     ],
@@ -29527,7 +29509,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Jer.16.2",
@@ -29625,8 +29607,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
     "verses": [
       "Jer.19.9"
     ],
@@ -44486,27 +44467,28 @@
     "id": "f06601db-94f0-4cfa-9a7a-7c733f13f1fa",
     "question": "“And whatever you ask in My name, that I will do, that the ______ may be glorified in the ______.”",
     "question_ar": "«ومهما سألتم باسمي، فذلك أفعله، لكي يتمجد ______ في ______.»",
-    "type": "Fill in the Blank",
+    "type": "True or False",
     "categories": [
       "Gospels"
     ],
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "rejected",
     "verses": [
       "John.14.13"
     ],
     "answers": [
       {
+        "id": 1,
         "answer": "True",
         "answer_ar": "صحيح",
         "isCorrect": true
       },
       {
+        "id": 2,
         "answer": "False",
-        "answer_ar": "خطأ",
+        "answer_ar": "خاطئ",
         "isCorrect": false
       }
     ]
@@ -44576,6 +44558,2963 @@
         "answer": "The Holy Spirit",
         "answer_ar": "الروح القدس",
         "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0cb24b7e-e650-4b01-9b2b-55c1be00f29d",
+    "question": "Who is glorified by the believers’ bearing much fruit?",
+    "question_ar": "من يتمجّد عندما يأتي المؤمنون بثمر كثير؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.15.8"
+    ],
+    "answers": [
+      {
+        "answer": "The believer",
+        "answer_ar": "المؤمن",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Father",
+        "answer_ar": "الآب",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Son",
+        "answer_ar": "الابن",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0a87fc2a-f54a-4f94-9218-11225e8edc5f",
+    "question": "Jesus told His disciples, 'You are My ______ if you do whatever I command you.'",
+    "question_ar": "قال يسوع لتلاميذه: «أنتم ______ إن فعلتم ما أوصيكم به».",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.15.14"
+    ],
+    "answers": [
+      {
+        "answer": "Friends",
+        "answer_ar": "أصدقائي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Servants",
+        "answer_ar": "عبيدي",
+        "isCorrect": false
+      },
+      {
+        "answer": "Disciples",
+        "answer_ar": "تلاميذي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "bc349cc0-dc1a-45df-ae77-1de7be9f0418",
+    "question": "Who will guide believers into all truth?",
+    "question_ar": "من سيرشد المؤمنين إلى كل الحق؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.16.13"
+    ],
+    "answers": [
+      {
+        "answer": "Jesus",
+        "answer_ar": "يسوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Spirit of truth",
+        "answer_ar": "روح الحق",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Father",
+        "answer_ar": "الآب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "659ea5ff-8f00-4fa3-90c6-c3f8021db546",
+    "question": "Jesus said the advantage to His going away was that He would send the Helper to His believers.",
+    "question_ar": "قال يسوع إن فائدة ذهابه هي أنه سيرسل المعين إلى المؤمنين به.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.16.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "fce33a1a-7cf4-4ef5-b0c5-ffb9c7b6b865",
+    "question": "Jesus described what the relationship between Himself and the believer should be by saying, 'Abide in Me, and I in you.'",
+    "question_ar": "وصف يسوع العلاقة بينه وبين المؤمن قائلاً: «اثبتوا فيّ وأنا فيكم».",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.15.4"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0ff476e0-6e8b-4416-9b0d-2e82b6f889b5",
+    "question": "To what location did the Jews lead Jesus from Caiaphas in order to avoid defilement?",
+    "question_ar": "إلى أي مكان قاد اليهود يسوع من قيافا لئلا يتنجسوا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.18.28"
+    ],
+    "answers": [
+      {
+        "answer": "Praetorium",
+        "answer_ar": "دار الولاية",
+        "isCorrect": true
+      },
+      {
+        "answer": "Temple",
+        "answer_ar": "الهيكل",
+        "isCorrect": false
+      },
+      {
+        "answer": "Upper Room",
+        "answer_ar": "العلية",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "42a3b846-c1e1-4f00-934f-c1e839ed77f1",
+    "question": "In His prayer for His disciples, Jesus said, 'None of them is lost except the son of perdition.'",
+    "question_ar": "قال يسوع في صلاته لتلاميذه: «لم يهلك منهم أحد إلا ابن الهلاك».",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.17.12"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cd70f379-53ac-4d48-83e1-73004be75e9b",
+    "question": "Who drew his sword and cut off the high priest’s servant’s ear?",
+    "question_ar": "من الذي استل سيفه وقطع أذن عبد رئيس الكهنة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.18.10"
+    ],
+    "answers": [
+      {
+        "answer": "Simon Peter",
+        "answer_ar": "سِمعان بطرس",
+        "isCorrect": true
+      },
+      {
+        "answer": "Judas Iscariot",
+        "answer_ar": "يهوذا الإسخريوطي",
+        "isCorrect": false
+      },
+      {
+        "answer": "John",
+        "answer_ar": "يوحنا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "59c0e02d-2280-4e9f-9494-1eb9e6b92eb3",
+    "question": "Who betrayed Jesus?",
+    "question_ar": "من الذي خان يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.13.21",
+      "John.13.26"
+    ],
+    "answers": [
+      {
+        "answer": "Judas Iscariot",
+        "answer_ar": "يهوذا الإسخريوطي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Simon Peter",
+        "answer_ar": "سِمعان بطرس",
+        "isCorrect": false
+      },
+      {
+        "answer": "Pontius Pilate",
+        "answer_ar": "بِيلاطُس البنطي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0e8ffaf9-6e40-496a-bf63-b02c9f49d51a",
+    "question": "To what name did Jesus answer in the garden at His arrest?",
+    "question_ar": "لأي اسم أجاب يسوع في البستان عند اعتقاله؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.18.5"
+    ],
+    "answers": [
+      {
+        "answer": "Messiah",
+        "answer_ar": "المسيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Son of God",
+        "answer_ar": "ابن الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jesus of Nazareth",
+        "answer_ar": "يسوع الناصري",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "f3ed10dc-2d48-49c0-9203-1557d117e2cf",
+    "question": "What was the name of the brook Jesus crossed to reach the garden where He was arrested?",
+    "question_ar": "ما اسم الوادي الذي عبره يسوع للوصول إلى البستان حيث تم القبض عليه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.18.1"
+    ],
+    "answers": [
+      {
+        "answer": "Jordan",
+        "answer_ar": "الأردن",
+        "isCorrect": false
+      },
+      {
+        "answer": "Tiberias",
+        "answer_ar": "طبرية",
+        "isCorrect": false
+      },
+      {
+        "answer": "Kidron",
+        "answer_ar": "قدرون",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e5bb30fa-54fd-48e2-b72f-e7165ff4cecd",
+    "question": "When Jesus made clay and anointed the blind man’s eyes, He sent him to the pool of Siloam to wash.",
+    "question_ar": "عندما صنع يسوع طينًا ومسح عيني الأعمى، أرسله إلى بركة سلوام ليغتسل.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.9.6",
+      "John.9.7"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "b01a4aa7-16e4-4664-8546-878b88eb45b5",
+    "question": "Mary, Martha, and Lazarus lived in what city?",
+    "question_ar": "في أي مدينة عاش مريم ومرثا ولعازر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.11.1"
+    ],
+    "answers": [
+      {
+        "answer": "Bethsaida",
+        "answer_ar": "بيت صيدا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Bethany",
+        "answer_ar": "بيت عنيا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3d6673fb-4036-4321-b847-1d0d84287df2",
+    "question": "Who drew his sword and chopped off someone’s ear when Jesus was seized in Gethsemane?",
+    "question_ar": "من الذي استل سيفه وقطع أذن أحدهم عندما تم القبض على يسوع في جثسيماني؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.18.10"
+    ],
+    "answers": [
+      {
+        "answer": "Peter",
+        "answer_ar": "بطرس",
+        "isCorrect": true
+      },
+      {
+        "answer": "John",
+        "answer_ar": "يوحنا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Judas",
+        "answer_ar": "يهوذا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3cf1a6b8-0e0d-4a3b-9870-70c87c6efb91",
+    "question": "Who was the robber the Jews wanted released instead of Jesus?",
+    "question_ar": "من هو اللص الذي أراد اليهود إطلاق سراحه بدلًا من يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.18.40"
+    ],
+    "answers": [
+      {
+        "answer": "Barabbas",
+        "answer_ar": "باراباس",
+        "isCorrect": true
+      },
+      {
+        "answer": "Simon",
+        "answer_ar": "سيمون",
+        "isCorrect": false
+      },
+      {
+        "answer": "Thaddeus",
+        "answer_ar": "تداوس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9e5f3b14-bcbc-4ff2-86d6-4a8e0b66b683",
+    "question": "Which woman was not identified as standing by Jesus’ cross in John 19?",
+    "question_ar": "أي امرأة لم تُذكر أنها كانت واقفة عند صليب يسوع في يوحنا 19؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.19.25"
+    ],
+    "answers": [
+      {
+        "answer": "Jesus’ mother",
+        "answer_ar": "أم يسوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "John the Baptist’s mother",
+        "answer_ar": "أم يوحنا المعمدان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Mary, Clopas’s wife",
+        "answer_ar": "مريم زوجة كلوبا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f474ee5d-6e71-4ed6-93c4-c260b43077a4",
+    "question": "To what city did Jesus go and remain with His disciples after Caiaphas prophesied about His death?",
+    "question_ar": "إلى أي مدينة ذهب يسوع وبقي مع تلاميذه بعد أن تنبأ قيافا عن موته؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.11.54"
+    ],
+    "answers": [
+      {
+        "answer": "Bethany",
+        "answer_ar": "بيت عنيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Sychar",
+        "answer_ar": "سيخار",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ephraim",
+        "answer_ar": "أفرائيم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "8598b6f9-6ed7-45a0-b927-4b4f7ff6605c",
+    "question": "What city was the location for Jesus’ triumphal entry?",
+    "question_ar": "ما هي المدينة التي دخلها يسوع دخولًا ملوكيًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.12.12",
+      "John.12.13"
+    ],
+    "answers": [
+      {
+        "answer": "Jerusalem",
+        "answer_ar": "أورشليم",
+        "isCorrect": true
+      },
+      {
+        "answer": "Nazareth",
+        "answer_ar": "الناصرة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Bethany",
+        "answer_ar": "بيت عنيا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a8010b66-8a12-4d2b-b45a-5a0cfb51dc30",
+    "question": "What city was the disciple Philip from?",
+    "question_ar": "من أي مدينة كان التلميذ فيلبس؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.12.21"
+    ],
+    "answers": [
+      {
+        "answer": "Bethany",
+        "answer_ar": "بيت عنيا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Bethsaida",
+        "answer_ar": "بيت صيدا",
+        "isCorrect": true
+      },
+      {
+        "answer": "Bethel",
+        "answer_ar": "بيت إيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "58b49ca8-1ab3-4e80-86ec-f800f1f3e703",
+    "question": "Who cried out for Pilate to crucify Jesus?",
+    "question_ar": "من الذي صرخ مطالبًا بيلاطس أن يصلب يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.19.6"
+    ],
+    "answers": [
+      {
+        "answer": "The soldiers",
+        "answer_ar": "الجنود",
+        "isCorrect": false
+      },
+      {
+        "answer": "The chief priests and officers",
+        "answer_ar": "رؤساء الكهنة والخدام",
+        "isCorrect": true
+      },
+      {
+        "answer": "The Jewish populace",
+        "answer_ar": "الجمهور اليهودي",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5e14e9b4-5310-43a4-859b-2a1deac5c62d",
+    "question": "What does the Hebrew word Golgotha mean?",
+    "question_ar": "ماذا تعني الكلمة العبرية جلجثة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.19.17",
+      "Luke.23.33"
+    ],
+    "answers": [
+      {
+        "answer": "The Place of a Skull",
+        "answer_ar": "مكان الجمجمة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Hill of Death",
+        "answer_ar": "تل الموت",
+        "isCorrect": false
+      },
+      {
+        "answer": "Valley of Bones",
+        "answer_ar": "وادي العظام",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0e1051c3-bd82-4a77-8c79-f62eac88f78a",
+    "question": "Where was Pilate when he finally gave in to the Jews’ demands to crucify Jesus?",
+    "question_ar": "أين كان بيلاطس عندما استجاب أخيرًا لمطالب اليهود بصلب يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.19.13"
+    ],
+    "answers": [
+      {
+        "answer": "In the judgment seat",
+        "answer_ar": "في منصة القضاء",
+        "isCorrect": true
+      },
+      {
+        "answer": "In his bed chamber",
+        "answer_ar": "في غرفة نومه",
+        "isCorrect": false
+      },
+      {
+        "answer": "In the temple",
+        "answer_ar": "في الهيكل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ebea8d1b-e185-4985-99d6-41a3b994d93b",
+    "question": "How many people were crucified alongside Jesus?",
+    "question_ar": "كم عدد الأشخاص الذين صُلبوا مع يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.19.18",
+      "Mark.15.27"
+    ],
+    "answers": [
+      {
+        "answer": "Two",
+        "answer_ar": "اثنان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Three",
+        "answer_ar": "ثلاثة",
+        "isCorrect": false
+      },
+      {
+        "answer": "One",
+        "answer_ar": "واحد",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "49fa5792-4bc1-47f3-b21c-7ab34222a7b4",
+    "question": "Who came to the tomb early in the morning and found the stone had been taken away?",
+    "question_ar": "من أتى إلى القبر في الصباح الباكر ووجد الحجر مرفوعًا؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.20.1"
+    ],
+    "answers": [
+      {
+        "answer": "Mary Magdalene",
+        "answer_ar": "مريم المجدلية",
+        "isCorrect": true
+      },
+      {
+        "answer": "Mary, Jesus’ mother",
+        "answer_ar": "مريم أم يسوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Simon Peter",
+        "answer_ar": "سمعان بطرس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "db84fd2c-76c3-4b1e-a235-2428498fe4b3",
+    "question": "What two men were responsible for preparing Jesus’ body for burial?",
+    "question_ar": "من هما الرجلان المسؤولان عن تجهيز جسد يسوع للدفن؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.19.38",
+      "John.19.40"
+    ],
+    "answers": [
+      {
+        "answer": "Nicodemus and Joseph of Arimathea",
+        "answer_ar": "نيقوديموس ويوسف الرامي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Peter and John",
+        "answer_ar": "بطرس ويوحنا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Nicodemus and John",
+        "answer_ar": "نيقوديموس ويوحنا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a7fbd4fc-d823-4de0-b002-4454f364e0c1",
+    "question": "After the Crucifixion, what secret disciple of Jesus asked Pilate if he could take Jesus’ body away?",
+    "question_ar": "بعد الصلب، من هو التلميذ السري الذي طلب من بيلاطس أن يأخذ جسد يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.19.38"
+    ],
+    "answers": [
+      {
+        "answer": "Joseph of Arimathea",
+        "answer_ar": "يوسف الرامي",
+        "isCorrect": true
+      },
+      {
+        "answer": "Nicodemus",
+        "answer_ar": "نيقوديموس",
+        "isCorrect": false
+      },
+      {
+        "answer": "Caiaphas",
+        "answer_ar": "قيافا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0a1c8303-b934-47d7-9614-d6d93e9d7303",
+    "question": "Did Peter or the disciple whom Jesus loved win the footrace to the tomb?",
+    "question_ar": "من فاز بالسباق إلى القبر: بطرس أم التلميذ الذي كان يسوع يحبه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.20.2",
+      "John.20.4"
+    ],
+    "answers": [
+      {
+        "answer": "The disciple whom Jesus loved",
+        "answer_ar": "التلميذ الذي كان يسوع يحبه",
+        "isCorrect": true
+      },
+      {
+        "answer": "Peter",
+        "answer_ar": "بطرس",
+        "isCorrect": false
+      },
+      {
+        "answer": "John",
+        "answer_ar": "يوحنا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6220d9c0-8ff8-4c0e-94b7-5cf9dc258ad2",
+    "question": "Who entered Jesus’ tomb first after He had risen from the dead?",
+    "question_ar": "من دخل قبر يسوع أولًا بعد قيامته من الأموات؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People",
+      "Places"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "John.20.6"
+    ],
+    "answers": [
+      {
+        "answer": "Simon Peter",
+        "answer_ar": "سمعان بطرس",
+        "isCorrect": true
+      },
+      {
+        "answer": "Mary Magdalene",
+        "answer_ar": "مريم المجدلية",
+        "isCorrect": false
+      },
+      {
+        "answer": "The disciple whom Jesus loved",
+        "answer_ar": "التلميذ الذي كان يسوع يحبه",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dc9c6ea1-b2d3-4e5b-902f-1d8e787f3e4d",
+    "question": "Thomas did not believe that Jesus was risen from the dead because he was not in the room when Jesus first came and stood in the disciples’ midst.",
+    "question_ar": "توما لم يؤمن بقيامة يسوع لأنه لم يكن في الغرفة عندما جاء يسوع أولاً ووقف في وسط التلاميذ.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.20.24",
+      "John.20.25"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ee7c8a4e-8ea3-4f6a-a496-b61b64cf1c02",
+    "question": "Who dragged the net full of large fish after Jesus had told the disciples to recast the net?",
+    "question_ar": "من سحب الشبكة الممتلئة بالسمك الكبير بعد أن أمر يسوع التلاميذ بإلقاء الشبكة من جديد؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "People"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "John.21.11"
+    ],
+    "answers": [
+      {
+        "answer": "Peter",
+        "answer_ar": "بطرس",
+        "isCorrect": true
+      },
+      {
+        "answer": "John",
+        "answer_ar": "يوحنا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Nathanael",
+        "answer_ar": "نثنائيل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0d49dd45-8e5b-4ac2-8bc6-361dbd726c8e",
+    "question": "Mary was found with child of the Holy Spirit before coming together with Joseph.",
+    "question_ar": "وُجدت مريم حبلى من الروح القدس قبل أن تجتمع بيوسف.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.1.18"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ba6c3bfa-03fb-4fe0-8f60-01db2ce0020c",
+    "question": "According to Matthew 1:23, what name was to be given to the Son born of the virgin?",
+    "question_ar": "بحسب متى 1:23، ما الاسم الذي كان سيُعطى للابن المولود من العذراء؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.1.23"
+    ],
+    "answers": [
+      {
+        "answer": "Immanuel",
+        "answer_ar": "عمانوئيل",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jesus",
+        "answer_ar": "يسوع",
+        "isCorrect": false
+      },
+      {
+        "answer": "Son of God",
+        "answer_ar": "ابن الله",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d5ae7a54-b6f4-47d4-8473-658fc0b44ae5",
+    "question": "The wise men saw the star both in the East and later as it led them to Bethlehem.",
+    "question_ar": "رأى المجوس النجم في المشرق ولاحقًا عندما قادهم إلى بيت لحم.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.2.2",
+      "Matt.2.9"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "0e2aa402-70f4-4b90-9744-5d40fdcfb0f4",
+    "question": "What did the wise men say they saw in the East that caused them to search for the King of the Jews?",
+    "question_ar": "ماذا قال المجوس إنهم رأوا في المشرق مما دفعهم للبحث عن ملك اليهود؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.2.2"
+    ],
+    "answers": [
+      {
+        "answer": "His star",
+        "answer_ar": "نَجمَه",
+        "isCorrect": true
+      },
+      {
+        "answer": "An angel",
+        "answer_ar": "مَلاك",
+        "isCorrect": false
+      },
+      {
+        "answer": "A prophecy",
+        "answer_ar": "نُبوءة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4b0c0fc0-33c0-4c2c-87a0-f17fba6db671",
+    "question": "How did Joseph know not to return to Judea with Jesus after Egypt?",
+    "question_ar": "كيف عرف يوسف ألا يعود إلى اليهودية بيسوع بعد مصر؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.2.22"
+    ],
+    "answers": [
+      {
+        "answer": "He was warned in a dream",
+        "answer_ar": "تم تحذيره في حلم",
+        "isCorrect": true
+      },
+      {
+        "answer": "An angel blocked the road",
+        "answer_ar": "ملاك سد الطريق",
+        "isCorrect": false
+      },
+      {
+        "answer": "A finger wrote on a wall",
+        "answer_ar": "كتبت إصبع على الحائط",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9fa2f76a-b964-465f-a8a1-064cb186fd79",
+    "question": "Who saw the Holy Spirit descending on Jesus like a dove?",
+    "question_ar": "من رأى الروح القدس ينزل على يسوع مثل حمامة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.3.16",
+      "John.1.32"
+    ],
+    "answers": [
+      {
+        "answer": "Jesus and John the Baptist",
+        "answer_ar": "يسوع ويوحنا المعمدان",
+        "isCorrect": true
+      },
+      {
+        "answer": "Only Jesus",
+        "answer_ar": "يسوع فقط",
+        "isCorrect": false
+      },
+      {
+        "answer": "All present",
+        "answer_ar": "الجميع",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "00e5b7cc-cc0c-4e67-89f2-90a760a96f48",
+    "question": "Satan challenged Jesus to jump from the temple and be caught by angels.",
+    "question_ar": "تحدى الشيطان يسوع أن يقفز من الهيكل ليتم التقاطه من قِبَل الملائكة.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.4.5",
+      "Matt.4.6"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5175fc1c-36b3-4b5c-9357-b3f26d0a36df",
+    "question": "What illness had the man suffered from whom Jesus instructed to show himself to the priest?",
+    "question_ar": "من أي مرض شُفي الرجل الذي أمره يسوع أن يري نفسه للكاهن؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.8.2",
+      "Matt.8.4"
+    ],
+    "answers": [
+      {
+        "answer": "Leprosy",
+        "answer_ar": "البرص",
+        "isCorrect": true
+      },
+      {
+        "answer": "Demon possession",
+        "answer_ar": "مس شيطاني",
+        "isCorrect": false
+      },
+      {
+        "answer": "Paralysis",
+        "answer_ar": "شلل",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "6dd5403a-52cc-4e4f-8c9d-9143c7f481ae",
+    "question": "Who said to Jesus, 'Only speak a word, and my servant will be healed'?",
+    "question_ar": "من قال ليسوع: 'قل كلمة فقط، فيُشفى خادمي'؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.8.8"
+    ],
+    "answers": [
+      {
+        "answer": "A centurion",
+        "answer_ar": "قائد مئة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Jairus",
+        "answer_ar": "ياير",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Canaanite woman",
+        "answer_ar": "المرأة الكنعانية",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2c2b25a4-2827-4f23-a1ae-490761b244ae",
+    "question": "Herod’s slaughter of children in Bethlehem was compared by Matthew to the sorrow of Rachel.",
+    "question_ar": "مجزرة هيرودس لأطفال بيت لحم قورنت في إنجيل متى بحزن راحيل.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.2.18"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "7f60e1f1-6f24-4044-bd7e-9b5ab9d882a4",
+    "question": "What name is needed to complete this quotation of Hosea by Matthew: “Out of ______ I called My Son”?",
+    "question_ar": "ما الاسم المطلوب لإكمال هذا الاقتباس من هوشع الذي ذكره متى: «من ______ دعوت ابني»؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.2.15"
+    ],
+    "answers": [
+      {
+        "answer": "Mary",
+        "answer_ar": "مريم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Bethlehem",
+        "answer_ar": "بيت لحم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Egypt",
+        "answer_ar": "مصر",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "fd034bb9-cce2-4a9e-82a3-4727eb342e44",
+    "question": "John the Baptist used what two symbols for judgment when foretelling Jesus would judge sinners?",
+    "question_ar": "ما الرمزان اللذان استخدمهما يوحنا المعمدان للدينونة عندما تنبأ بأن يسوع سيدين الخطاة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.3.10",
+      "Matt.3.12"
+    ],
+    "answers": [
+      {
+        "answer": "An ax and a winnowing fan",
+        "answer_ar": "فأس ومذراة",
+        "isCorrect": true
+      },
+      {
+        "answer": "A balance and a gavel",
+        "answer_ar": "ميزان ومطرقة القاضي",
+        "isCorrect": false
+      },
+      {
+        "answer": "A judge and a king",
+        "answer_ar": "قاضٍ وملك",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "f5c6931b-3f59-4471-84ef-253174e70176",
+    "question": "What was Jesus doing when a great tempest arose while He and the disciples were in a boat?",
+    "question_ar": "ماذا كان يفعل يسوع عندما هبت عاصفة عظيمة بينما كان هو والتلاميذ في قارب؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.8.24"
+    ],
+    "answers": [
+      {
+        "answer": "He was sleeping",
+        "answer_ar": "كان نائمًا",
+        "isCorrect": true
+      },
+      {
+        "answer": "He was praying",
+        "answer_ar": "كان يصلي",
+        "isCorrect": false
+      },
+      {
+        "answer": "He was calming the sea",
+        "answer_ar": "كان يهدئ البحر",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "13df802f-60f8-4bba-9269-105fa96c3c3e",
+    "question": "Which Gospel writer tells that there were two demon-possessed men among the tombs?",
+    "question_ar": "أي من كتبة الأناجيل يذكر أن رجلين ممسوسين كانا بين القبور؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.8.28"
+    ],
+    "answers": [
+      {
+        "answer": "Matthew",
+        "answer_ar": "متى",
+        "isCorrect": true
+      },
+      {
+        "answer": "Mark",
+        "answer_ar": "مرقس",
+        "isCorrect": false
+      },
+      {
+        "answer": "Luke",
+        "answer_ar": "لوقا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "35744a15-e4aa-4a3f-aaa6-2a548548fddf",
+    "question": "In Matthew’s Gospel, Jairus’s daughter is said to be dead when Jairus meets Jesus.",
+    "question_ar": "في إنجيل متى، يُقال إن ابنة يايرس كانت ميتة عندما قابله.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.9.18",
+      "Mark.5.35",
+      "Luke.8.49"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d870bd3c-4e45-4531-975b-53e438c4d582",
+    "question": "What interrupted Jesus on His way to heal Jairus’s daughter?",
+    "question_ar": "ما الذي قاطع يسوع في طريقه لشفاء ابنة يايرس؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.9.20"
+    ],
+    "answers": [
+      {
+        "answer": "A funeral procession",
+        "answer_ar": "موكب جنازة",
+        "isCorrect": false
+      },
+      {
+        "answer": "A woman with a hemorrhage",
+        "answer_ar": "امرأة بنزيف دم",
+        "isCorrect": true
+      },
+      {
+        "answer": "A demon-possessed man",
+        "answer_ar": "رجل ممسوس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d624e33e-7554-4935-9f01-bb844c2224f4",
+    "question": "How long had the woman who touched the hem of Jesus’ garment had a flow of blood?",
+    "question_ar": "كم سنة كانت المرأة التي لمست هدب ثوب يسوع تعاني من نزيف الدم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.9.20"
+    ],
+    "answers": [
+      {
+        "answer": "Three years",
+        "answer_ar": "ثلاث سنوات",
+        "isCorrect": false
+      },
+      {
+        "answer": "Twelve years",
+        "answer_ar": "اثنتا عشرة سنة",
+        "isCorrect": true
+      },
+      {
+        "answer": "Twenty years",
+        "answer_ar": "عشرون سنة",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "8883b9f0-7689-44d3-a706-c2825e54a8e6",
+    "question": "The woman with the flow of blood came up to Jesus and touched the hem of His garment.",
+    "question_ar": "المرأة التي تعاني من نزيف الدم اقتربت من يسوع ولمست هدب ثوبه.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.9.20"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3d26a7d7-4ba9-4eb7-bb91-9d219fa8ff3f",
+    "question": "Which Gospel is the only one to record the healing of two blind men who followed Jesus to the house?",
+    "question_ar": "أي إنجيل هو الوحيد الذي يسجل شفاء رجلين أعمى تبعا يسوع إلى المنزل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Matt.9.27-31"
+    ],
+    "answers": [
+      {
+        "answer": "Matthew",
+        "answer_ar": "متى",
+        "isCorrect": true
+      },
+      {
+        "answer": "Mark",
+        "answer_ar": "مرقس",
+        "isCorrect": false
+      },
+      {
+        "answer": "Luke",
+        "answer_ar": "لوقا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "aad1b0a1-e41e-4087-8d71-5aa813e38fae",
+    "question": "Whose son did the two blind men say Jesus was?",
+    "question_ar": "ابن من قال الرجلان الأعمى أن يسوع هو؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.9.27"
+    ],
+    "answers": [
+      {
+        "answer": "God’s",
+        "answer_ar": "الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "Joseph’s",
+        "answer_ar": "يوسف",
+        "isCorrect": false
+      },
+      {
+        "answer": "David’s",
+        "answer_ar": "داود",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "7c48be48-72d6-49a7-a2f3-51de7dcff6a1",
+    "question": "When Jesus told the two blind men whom He healed, “See that no one knows it,” they kept the secret carefully.",
+    "question_ar": "عندما قال يسوع لرَجُلَين أعمَيين شَفاهما: «انظُرا، لا يَعلَم أحد»، هل حافَظا على السِّر بدقّة؟",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.9.31"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "496de94d-9cfd-4e14-b2e6-47a517b12d08",
+    "question": "Jesus warned His disciples they would be brought before governors and kings for a testimony to whom?",
+    "question_ar": "حذّر يسوع تلاميذه من أنهم سيُؤتى بهم أمام ولاة وملوك شهادةً لمن؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.10.18"
+    ],
+    "answers": [
+      {
+        "answer": "Jews and Gentiles",
+        "answer_ar": "اليهود والأمم",
+        "isCorrect": false
+      },
+      {
+        "answer": "Scribes and Pharisees",
+        "answer_ar": "الكتبة والفريسيين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Rulers and the Gentiles",
+        "answer_ar": "الولاة والأمم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "f112539b-8fa3-420e-8bb1-00a49b2e35de",
+    "question": "Jesus predicted that persecution would be so intense that only natural family ties would protect believers from betrayal.",
+    "question_ar": "تنبأ يسوع بأن الاضطهاد سيكون شديدًا لدرجة أن الروابط العائلية وحدها ستحمي المؤمنين من الخيانة.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.10.21"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c55ec6a2-5ad6-4d2f-b8cd-87e7c2f4bc06",
+    "question": "How does this saying of Jesus end? “You will not have gone through the cities of Israel before …”",
+    "question_ar": "كيف ينتهي هذا القول ليسوع: «لن تكملوا مدن إسرائيل حتى...»؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.10.23"
+    ],
+    "answers": [
+      {
+        "answer": "The temple is entirely destroyed",
+        "answer_ar": "يُدمر الهيكل بالكامل",
+        "isCorrect": false
+      },
+      {
+        "answer": "The Son of Man comes",
+        "answer_ar": "يأتي ابن الإنسان",
+        "isCorrect": true
+      },
+      {
+        "answer": "You see the abomination of desolation",
+        "answer_ar": "ترون رجسة الخراب",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5c7a01d5-82eb-42dc-9721-ef3ff56c7cc6",
+    "question": "When will the friends of the bridegroom fast, according to Jesus?",
+    "question_ar": "متى يصوم أصدقاء العريس بحسب قول يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.9.15"
+    ],
+    "answers": [
+      {
+        "answer": "When the bride stands up with the groom",
+        "answer_ar": "عندما تقف العروس مع العريس",
+        "isCorrect": false
+      },
+      {
+        "answer": "When the bridegroom asks them to",
+        "answer_ar": "عندما يطلب منهم العريس",
+        "isCorrect": false
+      },
+      {
+        "answer": "When the bridegroom is taken from them",
+        "answer_ar": "عندما يُؤخذ العريس منهم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3381b8da-66d7-4d87-aec0-c0ae24326b3e",
+    "question": "Chorazin, Bethsaida, and Capernaum repented in sackcloth and ashes.",
+    "question_ar": "تابت كورزين وبيت صيدا وكفرناحوم في المسوح والرماد.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.11.21",
+      "Matt.11.24"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "b90e8e8e-1959-44f9-8377-2b2a3eb9cbb6",
+    "question": "How long was Jonah in the belly of the great fish?",
+    "question_ar": "كم مكث يونان في بطن الحوت العظيم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.12.40"
+    ],
+    "answers": [
+      {
+        "answer": "One day and one night",
+        "answer_ar": "يوم وليلة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Three days and three nights",
+        "answer_ar": "ثلاثة أيام وثلاث ليالٍ",
+        "isCorrect": true
+      },
+      {
+        "answer": "Seven days and nights",
+        "answer_ar": "سبعة أيام وليالٍ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "db91fa0d-bb34-4f4a-8ed8-d2dfc68b4b0f",
+    "question": "What did Jesus say to the man with the withered hand when He healed him?",
+    "question_ar": "ماذا قال يسوع للرجل ذي اليد اليابسة عندما شفاه؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "translated",
+    "verses": [
+      "Matt.12.13"
+    ],
+    "answers": [
+      {
+        "answer": "Talitha, cumi",
+        "answer_ar": "طالِيثَا، قُومي",
+        "isCorrect": false
+      },
+      {
+        "answer": "Be it to you according to your faith",
+        "answer_ar": "ليكن لك بحسب إيمانك",
+        "isCorrect": false
+      },
+      {
+        "answer": "Stretch out your hand",
+        "answer_ar": "مُدَّ يدك",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d0dfc59b-4425-42a7-96fa-9094209e268c",
+    "question": "Who was Jesus healing when He asked, 'Of how much more value then is a man than a sheep?'",
+    "question_ar": "مَن الذي كان يسوع يشفيه عندما قال: «كم الإنسان أفضل من الخروف»؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "translated",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.12.11",
+      "Matt.12.12"
+    ],
+    "answers": [
+      {
+        "answer": "A man with a withered hand",
+        "answer_ar": "رجل ذو يد يابسة",
+        "isCorrect": true
+      },
+      {
+        "answer": "A leper",
+        "answer_ar": "أبرص",
+        "isCorrect": false
+      },
+      {
+        "answer": "The woman with the flow of blood",
+        "answer_ar": "المرأة نازفة الدم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "03c5bc77-3f89-41c5-b5c3-05836cf23df4",
+    "question": "Why did the Pharisees ask Jesus, 'Is it lawful to heal on the Sabbath?'",
+    "question_ar": "لماذا سأل الفريسيون يسوع: «هل يحل الشفاء في السبت؟»",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "translated",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.12.10"
+    ],
+    "answers": [
+      {
+        "answer": "They wished to be instructed about the Sabbath",
+        "answer_ar": "أرادوا أن يتعلموا عن السبت",
+        "isCorrect": false
+      },
+      {
+        "answer": "They wanted to accuse Him of breaking the Law",
+        "answer_ar": "أرادوا أن يتهموه بكسر الناموس",
+        "isCorrect": true
+      },
+      {
+        "answer": "They were healing, too",
+        "answer_ar": "كانوا يشفون هم أيضًا",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "e5b29b90-65c2-4b66-8a2e-3a0ddc94798c",
+    "question": "To what event in His life did Jesus compare Jonah’s stay in the great fish?",
+    "question_ar": "بماذا شبّه يسوع مكوث يونان في بطن الحوت؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.12.40"
+    ],
+    "answers": [
+      {
+        "answer": "His gestation in Mary’s womb",
+        "answer_ar": "حمله في رحم مريم",
+        "isCorrect": false
+      },
+      {
+        "answer": "The wilderness temptation",
+        "answer_ar": "تجربته في البرية",
+        "isCorrect": false
+      },
+      {
+        "answer": "His entombment",
+        "answer_ar": "دفنه في القبر",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "4b765512-7b53-4d4b-b79f-1b68fd0e9bd0",
+    "question": "When Jesus healed a man with a blind and mute demon, the multitude wondered if Jesus was the Son of David.",
+    "question_ar": "عندما شفى يسوع رجلاً فيه شيطان أعمى وأخرس، تساءلت الجموع إن كان هو ابن داود.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.12.23"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5c3b6ed4-c6c4-4c48-a073-3fa17e7fa764",
+    "question": "The Pharisees accused Jesus of casting out demons by the power of Beelzebub. What were the symptoms of the demon-possessed man whom Jesus healed on that occasion?",
+    "question_ar": "اتهم الفريسيون يسوع بأنه يطرد الشياطين بقوة بعلزبول. ما كانت أعراض الرجل الممسوس الذي شفاه يسوع في تلك المناسبة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.12.22"
+    ],
+    "answers": [
+      {
+        "answer": "Seizures",
+        "answer_ar": "نوبات",
+        "isCorrect": false
+      },
+      {
+        "answer": "Living in tombs",
+        "answer_ar": "السكن في القبور",
+        "isCorrect": false
+      },
+      {
+        "answer": "Blindness and muteness",
+        "answer_ar": "العمى والبكم",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "29e529c2-d173-41cb-bc39-d30c41c32c53",
+    "question": "Why did Jesus not do many miracles at Nazareth?",
+    "question_ar": "لماذا لم يصنع يسوع معجزات كثيرة في الناصرة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.13.58"
+    ],
+    "answers": [
+      {
+        "answer": "They didn’t ask Him to",
+        "answer_ar": "لأنهم لم يطلبوا منه",
+        "isCorrect": false
+      },
+      {
+        "answer": "Because of their unbelief",
+        "answer_ar": "بسبب عدم إيمانهم",
+        "isCorrect": true
+      },
+      {
+        "answer": "His hour had not yet come",
+        "answer_ar": "لأن ساعته لم تكن قد أتت",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "4e5dc372-89d2-42c4-b8db-490dfbe19e86",
+    "question": "What was Herod the tetrarch’s explanation for the mighty works of Jesus?",
+    "question_ar": "ما تفسير هيرودس رئيس الربع للأعمال العجيبة التي صنعها يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.14.2"
+    ],
+    "answers": [
+      {
+        "answer": "He used the power of Beelzebub",
+        "answer_ar": "استخدم قوة بعلزبول",
+        "isCorrect": false
+      },
+      {
+        "answer": "He was a prophet of God",
+        "answer_ar": "كان نبياً من الله",
+        "isCorrect": false
+      },
+      {
+        "answer": "He was John the Baptist risen from the dead",
+        "answer_ar": "هو يوحنا المعمدان قام من الأموات",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2d812d0f-efdc-4aa6-9e39-42bc07c01692",
+    "question": "In Jesus’ parable of the dragnet, what activity will occupy the wicked who are cast into the furnace of fire?",
+    "question_ar": "في مثل الشبكة ليسوع، ما هو حال الأشرار الذين يُطرحون في أتون النار؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.13.50"
+    ],
+    "answers": [
+      {
+        "answer": "Repentance",
+        "answer_ar": "التوبة",
+        "isCorrect": false
+      },
+      {
+        "answer": "Prayer for release",
+        "answer_ar": "الصلاة للخلاص",
+        "isCorrect": false
+      },
+      {
+        "answer": "Wailing and gnashing of teeth",
+        "answer_ar": "البكاء وصرير الأسنان",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d9be4dc1-39e5-4e93-99b5-80e9bcbe2680",
+    "question": "Jesus applied a prophecy from Isaiah to the scribes and Pharisees. What did Isaiah say they taught as doctrines?",
+    "question_ar": "طبّق يسوع نبوة من إشعياء على الكتبة والفريسيين. ماذا قال إشعياء إنهم يعلمون كتعاليم؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.15.9"
+    ],
+    "answers": [
+      {
+        "answer": "Idolatry",
+        "answer_ar": "عبادة الأوثان",
+        "isCorrect": false
+      },
+      {
+        "answer": "The commandments of men",
+        "answer_ar": "وصايا الناس",
+        "isCorrect": true
+      },
+      {
+        "answer": "Hypocrisy",
+        "answer_ar": "الرياء",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cdb65b88-d2eb-4436-9b0d-68d73e849ee3",
+    "question": "When Peter walked on the water to Jesus and began to sink, what did he cry out?",
+    "question_ar": "ماذا صرخ بطرس عندما بدأ يغرق وهو يمشي على الماء نحو يسوع؟",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.14.30"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "d26fe5b3-72e2-4f6b-8815-d84f2a0e75de",
+    "question": "What did Jesus do in the fourth watch of the night when the disciples were in the midst of the sea and distressed by the wind and waves?",
+    "question_ar": "ماذا فعل يسوع في الهزيع الرابع من الليل عندما كان التلاميذ في وسط البحر يتعذبون من الأمواج والريح؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.14.24",
+      "Matt.14.25"
+    ],
+    "answers": [
+      {
+        "answer": "He calmed the storm",
+        "answer_ar": "هدّأ العاصفة",
+        "isCorrect": false
+      },
+      {
+        "answer": "He walked on the water",
+        "answer_ar": "مشى على الماء",
+        "isCorrect": true
+      },
+      {
+        "answer": "He rebuked their lack of faith",
+        "answer_ar": "وبّخ قلة إيمانهم",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "eb52a1aa-1553-4064-8d3d-82d66cbd7f3f",
+    "question": "What distracted Peter from the Lord when he was walking on the water toward Him?",
+    "question_ar": "ما الذي شتّت انتباه بطرس عن الرب عندما كان يمشي نحوه على الماء؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.14.30"
+    ],
+    "answers": [
+      {
+        "answer": "The waves",
+        "answer_ar": "الأمواج",
+        "isCorrect": false
+      },
+      {
+        "answer": "The cheering of the disciples",
+        "answer_ar": "هتاف التلاميذ",
+        "isCorrect": false
+      },
+      {
+        "answer": "The wind",
+        "answer_ar": "الريح",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a7586b44-64b4-4ff3-89ef-69030238e880",
+    "question": "Jesus fed five thousand men, women, and children.",
+    "question_ar": "يسوع أطعم خمسة آلاف رجل وامرأة وطفل.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.14.21"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a8dd2742-b8e3-4f11-b6e6-cc7c8ab86a31",
+    "question": "In the feeding of the four thousand, the number includes the men, women, and children.",
+    "question_ar": "في إطعام الأربعة آلاف، يشمل العدد الرجال والنساء والأطفال.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.15.38"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "ab6ad06e-9bbf-4c0f-99a1-c1a5a78db844",
+    "question": "Jesus said, “I will give you the keys of the kingdom of heaven, and whatever you bind on earth will be loosed in heaven.”",
+    "question_ar": "قال يسوع: \"سأعطيك مفاتيح ملكوت السماوات، وكل ما تربطه على الأرض سيكون محلولًا في السماء.\"",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.16.19"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": false
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "c6d4d243-46ae-4563-9d12-45ef6e2e77fc",
+    "question": "From the time of Peter’s confession of Jesus as the Christ, what did Jesus begin to predict?",
+    "question_ar": "منذ اعتراف بطرس بأن يسوع هو المسيح، ماذا بدأ يسوع يتنبأ؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.16.21"
+    ],
+    "answers": [
+      {
+        "answer": "His death and resurrection",
+        "answer_ar": "موته وقيامته",
+        "isCorrect": true
+      },
+      {
+        "answer": "The persecution of the disciples",
+        "answer_ar": "اضطهاد التلاميذ",
+        "isCorrect": false
+      },
+      {
+        "answer": "The increase of His ministry",
+        "answer_ar": "زيادة خدمته",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9c90d2d8-5a3b-4e3d-9306-c2581ef24566",
+    "question": "The disciples were not to tell of Jesus’ transfiguration until He had risen from the dead.",
+    "question_ar": "لم يكن على التلاميذ أن يخبروا عن تجلي يسوع حتى يقوم من الأموات.",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.17.9"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "3a3a2c0e-4d4f-4b31-a4e6-51dc15277c3f",
+    "question": "Jesus said, “Get behind Me, Satan,” to Peter because Peter refused to accept Jesus’ prediction. What did Jesus predict?",
+    "question_ar": "قال يسوع لبطرس: \"اذهب عني يا شيطان\"، لأن بطرس رفض قبول نبوءة يسوع. ماذا تنبأ يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "hard",
+    "verses": [
+      "Matt.16.21"
+    ],
+    "answers": [
+      {
+        "answer": "His own death and resurrection",
+        "answer_ar": "موته وقيامته",
+        "isCorrect": true
+      },
+      {
+        "answer": "Judas’s betrayal",
+        "answer_ar": "خيانة يهوذا",
+        "isCorrect": false
+      },
+      {
+        "answer": "Peter’s denial",
+        "answer_ar": "إنكار بطرس",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "739b6d9b-0e4c-4026-872c-c96c021f30e9",
+    "question": "Jesus said, “You who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel.”",
+    "question_ar": "قال يسوع: \"أنتم الذين تبعتموني ستجلسون أيضًا على اثني عشر عرشًا، تدينون أسباط إسرائيل الاثني عشر.\"",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Matt.19.28"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "607e5371-9d96-49f5-9e36-cb3e12c2e292",
+    "question": "Jesus said, “Go into the village opposite you, and immediately you will find a donkey tied, and a colt with her.”",
+    "question_ar": "قال يسوع: \"اذهبوا إلى القرية المقابلة لكم، وللوقت تجدون أتانًا مربوطة وجحشًا معها.\"",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "translated",
+    "difficulty": "easy",
+    "verses": [
+      "Matt.21.2"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "a281219f-30b6-4128-9b8a-0d2362822c8c",
+    "question": "Why did the four men lower their friend through the roof to be healed by Jesus?",
+    "question_ar": "لماذا أنزل الرجال الأربعة صديقهم من السقف ليشفيه يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mark.2.4"
+    ],
+    "answers": [
+      {
+        "answer": "The house was too crowded with people",
+        "answer_ar": "البيت كان مزدحمًا بالناس",
+        "isCorrect": true
+      },
+      {
+        "answer": "They wanted to avoid the Pharisees",
+        "answer_ar": "أرادوا تجنب الفريسيين",
+        "isCorrect": false
+      },
+      {
+        "answer": "Jesus was on the roof",
+        "answer_ar": "كان يسوع على السطح",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "dfc6c4a7-8e4f-4662-9f7c-cbb457b0f3cb",
+    "question": "What was the illness suffered by the man lowered through the roof by his four friends?",
+    "question_ar": "ما هو المرض الذي عانى منه الرجل الذي أنزله أصدقاؤه الأربعة من السقف؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mark.2.3",
+      "Mark.2.4"
+    ],
+    "answers": [
+      {
+        "answer": "Leprosy",
+        "answer_ar": "البرص",
+        "isCorrect": false
+      },
+      {
+        "answer": "Demon possession",
+        "answer_ar": "تلبس شيطاني",
+        "isCorrect": false
+      },
+      {
+        "answer": "Paralysis",
+        "answer_ar": "الشلل",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "e4a34f1c-228b-4d03-9300-f1a89b020037",
+    "question": "When the man was lowered on his bed through the roof, what did Jesus say to him first?",
+    "question_ar": "عندما أُنزل الرجل على سريره من خلال السقف، ماذا قال له يسوع أولاً؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mark.2.5"
+    ],
+    "answers": [
+      {
+        "answer": "Take up your bed and walk",
+        "answer_ar": "قم، احمل سريرك وامشِ",
+        "isCorrect": false
+      },
+      {
+        "answer": "Son, your sins are forgiven you",
+        "answer_ar": "يا بني، مغفورة لك خطاياك",
+        "isCorrect": true
+      },
+      {
+        "answer": "Your faith has made you whole",
+        "answer_ar": "إيمانك قد شفاك",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2de05788-65cb-4bfc-8e68-8b9d3edc9e5b",
+    "question": "How did Jesus know about the scribes and Pharisees accusing Him of blasphemy?",
+    "question_ar": "كيف علم يسوع باتهام الكتبة والفريسيين له بالتجديف؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mark.2.8"
+    ],
+    "answers": [
+      {
+        "answer": "He overheard them",
+        "answer_ar": "سمعهم يتكلمون",
+        "isCorrect": false
+      },
+      {
+        "answer": "He perceived it in His spirit",
+        "answer_ar": "علم ذلك بروحه",
+        "isCorrect": true
+      },
+      {
+        "answer": "A disciple reported it",
+        "answer_ar": "أخبره أحد التلاميذ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "ad943cbb-229e-4ad8-b2c0-df49f2199d7b",
+    "question": "Which is easier, to say to the paralytic, ‘Your sins are forgiven you,’ or to say, ‘Arise, take up your bed and walk’?",
+    "question_ar": "أيّهما أسهل، أن يُقال للمفلوج: 'مغفورة لك خطاياك'، أم أن يُقال: 'قم، احمل سريرك وامشِ'؟",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mark.2.9"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "41d20c3a-2a68-4f68-b5aa-10aa0ae10956",
+    "question": "Who in Jairus’s household was sick to the point of death?",
+    "question_ar": "من في بيت يايرس كان مريضًا حتى الموت؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mark.5.23"
+    ],
+    "answers": [
+      {
+        "answer": "His wife",
+        "answer_ar": "زوجته",
+        "isCorrect": false
+      },
+      {
+        "answer": "His favorite servant",
+        "answer_ar": "خادمه المفضل",
+        "isCorrect": false
+      },
+      {
+        "answer": "His daughter",
+        "answer_ar": "ابنته",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d3a7ebd0-8a84-4d39-bef2-b5fc5b4a9fc9",
+    "question": "Why did the man from Gadara make his dwelling in the tombs?",
+    "question_ar": "لماذا سكن الرجل من جدارة في القبور؟",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mark.5.2"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2dc17395-7b86-4c44-8bb0-60be04b8e80c",
+    "question": "Why had no one been able to bind the Gadarene demoniac with chains?",
+    "question_ar": "لماذا لم يستطع أحد أن يقيد المجنون الجداري بالسلاسل؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mark.5.4"
+    ],
+    "answers": [
+      {
+        "answer": "Superstition kept area people from the tombs",
+        "answer_ar": "الخرافات منعت الناس من الاقتراب من القبور",
+        "isCorrect": false
+      },
+      {
+        "answer": "He was too fast for them",
+        "answer_ar": "كان سريع الحركة ولا يُمسك",
+        "isCorrect": false
+      },
+      {
+        "answer": "The demoniac had broken all shackles put on him",
+        "answer_ar": "كان يكسر كل القيود الموضوعة عليه",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "a7469bcd-3c87-4d10-9812-47314dc99186",
+    "question": "What did the Gadarene demoniac do when he saw Jesus?",
+    "question_ar": "ماذا فعل المجنون الجداري عندما رأى يسوع؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mark.5.6"
+    ],
+    "answers": [
+      {
+        "answer": "He attacked Jesus with stones",
+        "answer_ar": "هاجم يسوع بالحجارة",
+        "isCorrect": false
+      },
+      {
+        "answer": "He tried to hide from Him",
+        "answer_ar": "حاول أن يختبئ منه",
+        "isCorrect": false
+      },
+      {
+        "answer": "He ran and worshiped Him",
+        "answer_ar": "ركض وسجد له",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "0646eb63-b9f3-40d3-a198-1f4f3b3e8f4b",
+    "question": "What was the name of the demons in the Gadarene demoniac?",
+    "question_ar": "ما اسم الأرواح الشريرة في المجنون الجداري؟",
+    "type": "True or False",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "easy",
+    "verses": [
+      "Mark.5.9"
+    ],
+    "answers": [
+      {
+        "answer": "True",
+        "answer_ar": "صحيح",
+        "isCorrect": true
+      },
+      {
+        "answer": "False",
+        "answer_ar": "خطأ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "5d2fe518-7b7d-4d41-9972-429e2589e6df",
+    "question": "Where did the demons ask Jesus to send them when He cast them out?",
+    "question_ar": "إلى أين طلبت الأرواح الشريرة من يسوع أن يرسلها عندما طردها؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mark.5.12"
+    ],
+    "answers": [
+      {
+        "answer": "The abyss",
+        "answer_ar": "الهاوية",
+        "isCorrect": false
+      },
+      {
+        "answer": "The nearby tombs",
+        "answer_ar": "القبور المجاورة",
+        "isCorrect": false
+      },
+      {
+        "answer": "A herd of swine",
+        "answer_ar": "قطيع من الخنازير",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "5ee118a1-6b4b-45a6-bd37-08b5a7e5205e",
+    "question": "How many swine ran into the sea after Jesus drove the demons out?",
+    "question_ar": "كم عدد الخنازير التي اندفعت إلى البحر بعد أن طرد يسوع الأرواح الشريرة؟",
+    "type": "Multiple Choice",
+    "categories": [
+      "Gospels"
+    ],
+    "tags": [
+      "Events"
+    ],
+    "status": "draft",
+    "difficulty": "medium",
+    "verses": [
+      "Mark.5.13"
+    ],
+    "answers": [
+      {
+        "answer": "Twelve",
+        "answer_ar": "اثنا عشر",
+        "isCorrect": false
+      },
+      {
+        "answer": "Two hundred",
+        "answer_ar": "مئتان",
+        "isCorrect": false
+      },
+      {
+        "answer": "Two thousand",
+        "answer_ar": "ألفان",
+        "isCorrect": true
       }
     ]
   }
