@@ -99,7 +99,7 @@ export function PreviewModal({
   }, [question.verses, bibleVersion]);
 
   return (
-    <div className="fixed inset-0 z-50 bg-black bg-opacity-40 flex items-center justify-center overflow-y-auto ">
+    <div className="fixed inset-0 z-50 bg-black bg-opacity-40 flex items-start justify-center overflow-y-auto ">
       <div className="bg-white p-6 rounded-xl max-w-2xl w-full shadow-2xl border border-gray-200 relative">
         <button
           onClick={onClose}
@@ -805,7 +805,7 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
         </div>
       </form>
       {/* Preview Modal */}
-      {showPreview && <PreviewModal question={data} onClose={() => setShowPreview(false)} />}
+      {showPreview && <div className='container flex-col place-items-start content-start'>  <PreviewModal question={data} onClose={() => setShowPreview(false)} /></div>}
     </>
   );
 }
