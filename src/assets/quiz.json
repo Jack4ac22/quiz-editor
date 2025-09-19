@@ -1927,41 +1927,6 @@
     ]
   },
   {
-    "id": "b6b53c3d-fb4a-4a3b-9d50-6a98cb801a6e",
-    "question": "Who created the heavens and the earth in the beginning?",
-    "question_ar": "من الذي خلق السماوات والأرض في البدء؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "History"
-    ],
-    "tags": [
-      "People",
-      "Places"
-    ],
-    "status": "translated",
-    "verses": [
-      "Gen.1.1"
-    ],
-    "difficulty": "medium",
-    "answers": [
-      {
-        "answer": "God",
-        "answer_ar": "الله",
-        "isCorrect": true
-      },
-      {
-        "answer": "Angels",
-        "answer_ar": "الملائكة",
-        "isCorrect": false
-      },
-      {
-        "answer": "Gabriel",
-        "answer_ar": "رئيس الملائكة جبرائيل",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
     "id": "e857e87f-c91e-4c51-b68b-95330eb7c17d",
     "question": "The linen curtains and the inner veil of the tabernacle had artistic designs of cherubim woven in them.",
     "question_ar": "كان في ستائر الكتان والحجاب الداخلي للخيمة نقوش فنية من الكروبيم.",
@@ -30376,41 +30341,7 @@
   {
     "id": "c7f5d0f3-702f-4f16-85e0-b2f4a597a6b8",
     "question": "According to Ezekiel, what would be on all the people's heads when destruction came upon Jerusalem?",
-    "question_ar": "بحسب حزقيال، ماذا سيكون على رؤوس الجميع عندما يأتي الدمار على أورشليم؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [
-      "Ezek.7.18"
-    ],
-    "answers": [
-      {
-        "answer": "Baldness",
-        "answer_ar": "الصلع",
-        "isCorrect": true
-      },
-      {
-        "answer": "Ashes",
-        "answer_ar": "رماد",
-        "isCorrect": false
-      },
-      {
-        "answer": "Sackcloth",
-        "answer_ar": "المسوح",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "1e0bff30-77f1-4b0a-b111-c7a45d9e349f",
-    "question": "What sign did Jeremiah give the Jews who fled to Egypt that they should not worship the Egyptian gods?",
-    "question_ar": "ما العلامة التي أعطاها إرميا لليهود الذين هربوا إلى مصر لئلا يعبدوا آلهة المصريين؟",
+    "question_ar": "بحسب نبوءة حزقيال، ماذا سيغطي رؤوس الجميع حين يأتي الدمار على أورشليم؟",
     "type": "Multiple Choice",
     "categories": [
       "Prophecy"
@@ -30419,314 +30350,6 @@
       "prediction"
     ],
     "status": "translated",
-    "difficulty": "hard",
-    "verses": [
-      "Jer.44.30"
-    ],
-    "answers": [
-      {
-        "answer": "Pharaoh’s capture by Nebuchadnezzar",
-        "answer_ar": "أسر فرعون على يد نبوخذنصر",
-        "isCorrect": true
-      },
-      {
-        "answer": "A comet",
-        "answer_ar": "مذنب",
-        "isCorrect": false
-      },
-      {
-        "answer": "A flood of the Nile",
-        "answer_ar": "فيضان النيل",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "2827d69d-76db-4292-97e5-f9b6f87e3081",
-    "question": "Jeremiah predicted that before Egypt attacked Gaza, destruction would come from the north upon Ashkelon. What nation faced extinction?",
-    "question_ar": "تنبأ إرميا بأنه قبل أن تهاجم مصر غزة، سيأتي دمار من الشمال على أشقلون. ما الأمة التي واجهت الانقراض؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "hard",
-    "verses": [
-      "Jer.47"
-    ],
-    "answers": [
-      {
-        "answer": "Moab",
-        "answer_ar": "موآب",
-        "isCorrect": false
-      },
-      {
-        "answer": "Edom",
-        "answer_ar": "أدوم",
-        "isCorrect": false
-      },
-      {
-        "answer": "Philistia",
-        "answer_ar": "فلسطين",
-        "isCorrect": true
-      }
-    ]
-  },
-  {
-    "id": "cc3a8b6b-1267-4432-a0df-166ds60f98d4",
-    "question": "What nation known for its vineyards did Jeremiah compare to a vintage wine settled on its dregs?",
-    "question_ar": "ما الأمة المعروفة بكرومها التي شبّهها إرميا بخمر معتقة راكدة على رواسبها؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [
-      "Jer.48.11",
-      "Jer.48.12"
-    ],
-    "answers": [
-      {
-        "answer": "Lebanon",
-        "answer_ar": "لبنان",
-        "isCorrect": false
-      },
-      {
-        "answer": "Moab",
-        "answer_ar": "موآب",
-        "isCorrect": true
-      },
-      {
-        "answer": "Syria",
-        "answer_ar": "سوريا",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "0f7bce41-8591-4f07-a073-7a0f5807e4c3",
-    "question": "Jeremiah predicted the fall of a kingdom whose gods were Bel and Merodach. What kingdom was it?",
-    "question_ar": "تنبأ إرميا بسقوط مملكة كانت آلهتها بيل وميروداخ. ما هي هذه المملكة؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [
-      "Jer.50.2",
-      "Jer.50.3"
-    ],
-    "answers": [
-      {
-        "answer": "Egypt",
-        "answer_ar": "مصر",
-        "isCorrect": false
-      },
-      {
-        "answer": "Babylon",
-        "answer_ar": "بابل",
-        "isCorrect": true
-      },
-      {
-        "answer": "Syria",
-        "answer_ar": "سوريا",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "5a446e56-18b3-45e5-8e92-0b282f57f3aa",
-    "question": "How did Jeremiah visualize the finality of Babylon’s destruction?",
-    "question_ar": "كيف صوّر إرميا نهائية دمار بابل؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "hard",
-    "verses": [
-      "Jer.51.63"
-    ],
-    "answers": [
-      {
-        "answer": "He burned a model of the city",
-        "answer_ar": "أحرق نموذجاً للمدينة",
-        "isCorrect": false
-      },
-      {
-        "answer": "He sank his prophecy in the Euphrates with a stone",
-        "answer_ar": "غرق نبوءته في نهر الفرات بحجر",
-        "isCorrect": true
-      },
-      {
-        "answer": "He shaved his head",
-        "answer_ar": "حلق رأسه",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "e3541171-f0d9-4a2a-a229-11232427eb30",
-    "question": "What two nations did Jeremiah predict would fall before a lion from the floodplain of the Jordan?",
-    "question_ar": "ما الأمتان اللتان تنبأ إرميا بسقوطهما أمام أسد من ضفة الأردن؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "hard",
-    "verses": [
-      "Jer.49.19",
-      "Jer.50.35",
-      "Jer.50.44"
-    ],
-    "answers": [
-      {
-        "answer": "Edom and Babylon",
-        "answer_ar": "أدوم وبابل",
-        "isCorrect": true
-      },
-      {
-        "answer": "Israel and Judah",
-        "answer_ar": "إسرائيل ويهوذا",
-        "isCorrect": false
-      },
-      {
-        "answer": "Assyria and Babylon",
-        "answer_ar": "آشور وبابل",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "a8f0f0e9-baa3-4f1e-b79d-7030c5b68ec5",
-    "question": "Which prophetic book says: 'The LORD has done what He purposed; He has fulfilled His word.… He has thrown down [Jerusalem]'?",
-    "question_ar": "أي كتاب نبوي يقول: 'الرب قد فعل ما قصده؛ قد تمم كلامه... قد طرح [أورشليم]'؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "easy",
-    "verses": [
-      "Lam.2.17"
-    ],
-    "answers": [
-      {
-        "answer": "Ezekiel",
-        "answer_ar": "حزقيال",
-        "isCorrect": false
-      },
-      {
-        "answer": "Lamentations",
-        "answer_ar": "مراثي إرميا",
-        "isCorrect": true
-      },
-      {
-        "answer": "Jeremiah",
-        "answer_ar": "إرميا",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "02d06361-d03a-4cd5-893c-bf26069b7ab1",
-    "question": "What did Ezekiel divide into thirds to represent three forms of judgment?",
-    "question_ar": "ما الذي قسمه حزقيال إلى ثلاثة أجزاء ليمثل ثلاثة أنواع من الدينونة؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [
-      "Ezek.5.1",
-      "Ezek.5.2"
-    ],
-    "answers": [
-      {
-        "answer": "His children",
-        "answer_ar": "أولاده",
-        "isCorrect": false
-      },
-      {
-        "answer": "His hair",
-        "answer_ar": "شعره",
-        "isCorrect": true
-      },
-      {
-        "answer": "His clothing",
-        "answer_ar": "ثيابه",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "547f3ee6-59e4-4c9a-bdac-2731d1d162d2",
-    "question": "A small number of hairs that Ezekiel hid under a rock represented the remnant who would not be destroyed.",
-    "question_ar": "عدد قليل من الشعيرات التي خبأها حزقيال تحت صخرة كانت تمثل البقية التي لن تُهلك.",
-    "type": "True or False",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "easy",
-    "verses": [
-      "Ezek.5.3",
-      "Ezek.6.8"
-    ],
-    "answers": [
-      {
-        "answer": "True",
-        "answer_ar": "صحيح",
-        "isCorrect": false
-      },
-      {
-        "answer": "False",
-        "answer_ar": "خطأ",
-        "isCorrect": true
-      }
-    ]
-  },
-  {
-    "id": "c7f5d0f3-702f-4f16-85e0-b2f4a59da6b8",
-    "question": "According to Ezekiel, what would be on all the people's heads when destruction came upon Jerusalem?",
-    "question_ar": "بحسب حزقيال، ماذا سيكون على رؤوس الجميع عندما يأتي الدمار على أورشليم؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
     "verses": [
       "Ezek.7.18"
     ],
@@ -30738,7 +30361,7 @@
       },
       {
         "answer": "Ashes",
-        "answer_ar": "رماد",
+        "answer_ar": "الرماد",
         "isCorrect": false
       },
       {
@@ -30746,75 +30369,8 @@
         "answer_ar": "المسوح",
         "isCorrect": false
       }
-    ]
-  },
-  {
-    "id": "aa2b7c2a-b16d-4d4e-86a0-3dcb1b083aaa",
-    "question": "What sign did Jeremiah give the Jews who fled to Egypt that they should not worship the Egyptian gods?",
-    "question_ar": "ما العلامة التي أعطاها إرميا لليهود الذين هربوا إلى مصر لئلا يعبدوا آلهة المصريين؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
     ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [
-      "Jer.44.30"
-    ],
-    "answers": [
-      {
-        "answer": "Pharaoh’s capture by Nebuchadnezzar",
-        "answer_ar": "أسر فرعون على يد نبوخذنصر",
-        "isCorrect": true
-      },
-      {
-        "answer": "A comet",
-        "answer_ar": "مذنب",
-        "isCorrect": false
-      },
-      {
-        "answer": "A flood of the Nile",
-        "answer_ar": "فيضان النيل",
-        "isCorrect": false
-      }
-    ]
-  },
-  {
-    "id": "cfde58e2-78b6-4063-8b50-f580ad812a99",
-    "question": "Jeremiah predicted that before Egypt attacked Gaza, destruction would come from the north upon Ashkelon. What nation faced extinction?",
-    "question_ar": "تنبأ إرميا أنه قبل أن تهاجم مصر غزة، سيأتي دمار من الشمال على أشقلون. ما الأمة التي واجهت الانقراض؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [
-      "Jer.47"
-    ],
-    "answers": [
-      {
-        "answer": "Moab",
-        "answer_ar": "موآب",
-        "isCorrect": false
-      },
-      {
-        "answer": "Edom",
-        "answer_ar": "أدوم",
-        "isCorrect": false
-      },
-      {
-        "answer": "Philistia",
-        "answer_ar": "فلسطين",
-        "isCorrect": true
-      }
-    ]
+    "difficulty": "medium"
   },
   {
     "id": "5bc011cc-e13b-4031-8f09-34397e616a3f",
@@ -30827,7 +30383,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Jer.48.11",
@@ -30862,7 +30418,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Jer.50.2",
@@ -30931,7 +30487,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Jer.49.19",
@@ -30966,7 +30522,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "easy",
     "verses": [
       "Lam.2.17"
@@ -31025,36 +30581,6 @@
     ]
   },
   {
-    "id": "e49f6f8c-3a8d-47f3-a470-35ef69e469f0",
-    "question": "A small number of hairs that Ezekiel hid under a rock represented the remnant who would not be destroyed.",
-    "question_ar": "عدد قليل من الشعيرات التي خبأها حزقيال تحت صخرة مثلت البقية الباقية التي لن تُهلك.",
-    "type": "True or False",
-    "categories": [
-      "Prophecy"
-    ],
-    "tags": [
-      "prediction"
-    ],
-    "status": "draft",
-    "difficulty": "hard",
-    "verses": [
-      "Ezek.5.3",
-      "Ezek.6.8"
-    ],
-    "answers": [
-      {
-        "answer": "True",
-        "answer_ar": "صحيح",
-        "isCorrect": false
-      },
-      {
-        "answer": "False",
-        "answer_ar": "خطأ",
-        "isCorrect": true
-      }
-    ]
-  },
-  {
     "id": "f732b0ac-0035-4c65-8127-bf2a5e6f75e1",
     "question": "To picture the disgrace of Jerusalem when destruction came, Ezekiel said the people would be girded with sackcloth, horror would cover them, shame would be on every face, and there would be “______ on all their heads.”",
     "question_ar": "لتصوير خزي أورشليم عند مجيء الدمار، قال حزقيال إن الشعب سيتمنطق بمسوح، وسيغشاهم الرعب، ويغطي الوجوه الخزي، وسيكون هناك \"______ على رؤوسهم جميعًا.\"",
@@ -31065,7 +30591,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "medium",
     "verses": [
       "Ezek.7.18"
@@ -39892,7 +39418,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.1.20",
@@ -39927,7 +39453,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.1.23",
@@ -40032,7 +39558,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.2.1"
@@ -40053,7 +39579,7 @@
   {
     "id": "93877c38-2a9b-4299-91fc-d40417459cfc",
     "question": "For which of the patriarchs did John the Baptist say God could raise up children from the stones?",
-    "question_ar": "لأي من الآباء قال يوحنا المعمدان إن الله قادر أن يُقيم أولادًا من الحجارة؟",
+    "question_ar": "أي من الآباء البطاركة أشار إليه يوحنا المعمدان حين قال أن الله قادر أن يقيم نسلاً له من الحجارة؟",
     "type": "Multiple Choice",
     "categories": [
       "Gospels"
@@ -40061,8 +39587,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "Matt.3.9"
     ],
@@ -40095,7 +39620,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.4.18",
@@ -40130,8 +39655,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
+    "difficulty": "easy",
     "verses": [
       "Matt.9.9"
     ],
@@ -40199,8 +39724,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Matt.10.3",
       "Luke.6.15"
@@ -40234,7 +39759,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.10.4"
@@ -40268,7 +39793,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.11.14"
@@ -40297,7 +39822,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.13.55"
@@ -40331,7 +39856,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "hard",
     "verses": [
       "Matt.1.3",
@@ -40428,7 +39953,7 @@
   {
     "id": "73de9447-c3f5-4703-9e79-1c010ee82a5d",
     "question": "Who sows the tares among the wheat in the kingdom of heaven?",
-    "question_ar": "من الذي يزرع الزوان بين الحنطة في ملكوت السماوات؟",
+    "question_ar": "في المثل الذي أعطاه يسوع المسيح عن الزارع: من الذي يزرع الزوان بين الحنطة في ملكوت السماوات؟",
     "type": "Multiple Choice",
     "categories": [
       "Gospels"
@@ -40436,8 +39961,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "Matt.13.28"
     ],
@@ -40504,8 +40028,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
+    "difficulty": "easy",
     "verses": [
       "Matt.14.28"
     ],
@@ -40530,7 +40054,7 @@
   {
     "id": "a62b4820-9287-4b0c-816f-51d3e7e11ab2",
     "question": "The woman whose daughter had an unclean spirit is identified as a Canaanite, a Greek, and a Syro-Phoenician.",
-    "question_ar": "المرأة التي كانت ابنتها بها روح نجس وُصفت بأنها كنعانية، ويونانية، وفينيقية سورية.",
+    "question_ar": "المرأة التي كانت ابنتها بها روح نجس وُصفت بأنها كنعانية، وأممية، وفينيقية سورية.",
     "type": "True or False",
     "categories": [
       "Gospels"
@@ -40538,8 +40062,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
     "verses": [
       "Matt.15.22",
       "Mark.7.26"
@@ -40555,7 +40078,8 @@
         "answer_ar": "خطأ",
         "isCorrect": false
       }
-    ]
+    ],
+    "difficulty": "medium"
   },
   {
     "id": "9f4d655e-c645-4a69-bb53-3141c6164d3f",
@@ -40568,11 +40092,9 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "rejected",
     "verses": [
-      "Matt.16.18",
-      "Matt.16.19"
+      "Matt.16.18-19"
     ],
     "answers": [
       {
@@ -40603,7 +40125,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.16.23"
@@ -40637,7 +40159,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.14.3",
@@ -40672,7 +40194,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.16.16"
@@ -40706,7 +40228,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.17.3"
@@ -40740,7 +40262,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.17.1"
@@ -40805,8 +40327,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Matt.20.23"
     ],
@@ -40839,7 +40361,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.4.21"
@@ -40873,7 +40395,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.22.23"
@@ -40899,7 +40421,7 @@
   {
     "id": "cfc1214d-d357-4d47-bb3c-dce50ec23bc8",
     "question": "What did a woman do to Jesus at the house of Simon the leper in Bethany?",
-    "question_ar": "ماذا فعلت امرأة بيسوع في بيت سمعان الأبرص في بيت عنيا؟",
+    "question_ar": "ماذا هو الأمر الذي فعلته المرأة بيسوع في بيت سمعان الأبرص في بيت عنيا؟",
     "type": "Multiple Choice",
     "categories": [
       "Gospels"
@@ -40908,8 +40430,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "Matt.26.7"
     ],
@@ -40942,7 +40463,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.26.15"
@@ -40971,7 +40492,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.26.34"
@@ -41005,7 +40526,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.26.57"
@@ -41039,7 +40560,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.26.48"
@@ -41073,8 +40594,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Matt.26.64"
     ],
@@ -41107,8 +40628,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Matt.27.2"
     ],
@@ -41141,7 +40662,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.27.38"
@@ -41175,7 +40696,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.27.57",
@@ -41210,7 +40731,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.27.65"
@@ -41239,7 +40760,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.28.2"
@@ -41308,7 +40829,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.28.16",
@@ -41338,7 +40859,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.1.2",
@@ -41375,7 +40896,7 @@
       "Places",
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Mark.1.9"
@@ -41404,7 +40925,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.1.12"
@@ -41438,8 +40959,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
+    "difficulty": "easy",
     "verses": [
       "Mark.1.24"
     ],
@@ -41472,7 +40993,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.2.14"
@@ -41507,7 +41028,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "hard",
     "verses": [
       "Mark.1.21",
@@ -41543,7 +41064,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Mark.2.3"
@@ -41577,7 +41098,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.2.25"
@@ -41611,7 +41132,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Mark.3.17"
@@ -41645,7 +41166,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.3.22"
@@ -41679,7 +41200,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Mark.3.29"
@@ -41708,7 +41229,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.4.4",
@@ -41738,7 +41259,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.5.9"
@@ -41772,7 +41293,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.5.22",
@@ -41809,7 +41330,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Mark.6.20"
@@ -41843,7 +41364,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "hard",
     "verses": [
       "Mark.12.12",
@@ -41878,7 +41399,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Luke.1.36"
@@ -41912,7 +41433,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Luke.1.15"
@@ -41946,7 +41467,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Luke.1.19",
@@ -42015,8 +41536,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "rejected",
     "verses": [
       "Luke.1.59",
       "Luke.2.21"
@@ -42046,7 +41566,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Luke.2.4"
@@ -42875,7 +42395,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "medium",
     "verses": [
       "John.1.33"
@@ -42904,7 +42424,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.3.1"
@@ -42933,7 +42453,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.3.2"
@@ -42962,7 +42482,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.3.17"
@@ -42997,7 +42517,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.4.7"
@@ -43032,7 +42552,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.4.9"
@@ -43061,7 +42581,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.4.10"
@@ -43095,7 +42615,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.5.30"
@@ -43124,7 +42644,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.3.25"
@@ -43158,8 +42678,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "John.5.46"
     ],
@@ -43192,7 +42712,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.5.25",
@@ -43228,7 +42748,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.5.18"
@@ -43257,8 +42777,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "John.6.5"
     ],
@@ -43291,8 +42811,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "John.6.8"
     ],
@@ -43387,7 +42907,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.7.40"
@@ -43416,7 +42936,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.6.70",
@@ -43451,7 +42971,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.7.20"
@@ -43507,7 +43027,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "medium",
     "verses": [
       "John.8.3",
@@ -43542,7 +43062,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "easy",
     "verses": [
       "John.8.11"
@@ -43576,7 +43096,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.8.13"
@@ -43602,7 +43122,7 @@
   {
     "id": "94f69b8c-6ed1-41d1-b9cd-5a2531f0c859",
     "question": "Jesus told the Jews they were neither children of Abraham nor was God their Father.",
-    "question_ar": "قال يسوع لليهود إنهم ليسوا أولاد إبراهيم ولا الله هو أبوهم.",
+    "question_ar": "قال يسوع لليهود الذين كانوا يقاومون تعليمه إنهم ليسوا أولاد إبراهيم ولا الله هو أبوهم.",
     "type": "True or False",
     "categories": [
       "Gospels"
@@ -43610,8 +43130,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "John.8.39",
       "John.8.42"
@@ -43640,7 +43159,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.8.44"
@@ -43669,7 +43188,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.9.3"
@@ -43703,7 +43222,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.8.52"
@@ -43732,7 +43251,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.9.22"
@@ -43766,7 +43285,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.10.1"
@@ -43795,7 +43314,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.11.24",
@@ -43822,7 +43341,7 @@
   {
     "id": "a22aeb5b-b1f4-44cd-9c8f-055a7a2b8b04",
     "question": "What did Jesus do to cause the Jews to say, “See how He loved Him”?",
-    "question_ar": "ماذا فعل يسوع ليدفع اليهود إلى القول: «انظروا كيف كان يحبه»؟",
+    "question_ar": "ماذا الأمر الذي فعله يسوع عند قبر العازر ودفع اليهود الحاضرين إلى القول: «انظروا كيف كان يحبه»؟",
     "type": "Multiple Choice",
     "categories": [
       "Gospels"
@@ -43830,8 +43349,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "John.11.35"
     ],
@@ -43864,7 +43382,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.11.49",
@@ -43899,7 +43417,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.8.24"
@@ -43928,7 +43446,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "hard",
     "verses": [
       "John.10.16"
@@ -43957,7 +43475,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.12.1",
@@ -43994,8 +43512,8 @@
       "People",
       "Places"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
+    "difficulty": "easy",
     "verses": [
       "John.12.1",
       "John.12.2"
@@ -44029,7 +43547,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.12.4",
@@ -44064,7 +43582,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.12.10",
@@ -44099,7 +43617,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.12.15",
@@ -44134,8 +43652,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
+    "difficulty": "easy",
     "verses": [
       "John.12.32"
     ],
@@ -44163,8 +43681,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "John.12.49"
     ],
@@ -44181,7 +43698,7 @@
       },
       {
         "answer": "The Scriptures",
-        "answer_ar": "الكتب المقدسة",
+        "answer_ar": "الأسفار المقدسة",
         "isCorrect": false
       }
     ]
@@ -44197,7 +43714,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.13.8"
@@ -44231,7 +43748,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.13.24"
@@ -44257,7 +43774,7 @@
   {
     "id": "a67df5fd-3cd2-4fcb-bc25-45f8a2b5c9c1",
     "question": "Judas refused the dipped bread Jesus gave him and left immediately.",
-    "question_ar": "رفض يهوذا الخبز المغموس الذي أعطاه له يسوع وغادر على الفور.",
+    "question_ar": "رفض يهوذا اللقمة التي أعطاه إياها يسوع وغادر على الفور.",
     "type": "True or False",
     "categories": [
       "Gospels"
@@ -44265,8 +43782,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "John.13.30"
     ],
@@ -44294,7 +43810,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.14.12"
@@ -44323,7 +43839,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.14.18"
@@ -44357,7 +43873,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.19.21"
@@ -44421,7 +43937,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.14.17"
@@ -44455,7 +43971,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.15.1"
@@ -44489,7 +44005,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.15.8"
@@ -44523,8 +44039,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "rejected",
     "verses": [
       "John.15.14"
     ],
@@ -44557,7 +44072,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.16.13"
@@ -44591,7 +44106,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.16.7"
@@ -44620,7 +44135,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "easy",
     "verses": [
       "John.15.4"
@@ -44683,7 +44198,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.17.12"
@@ -44712,8 +44227,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "John.18.10"
     ],
@@ -44746,7 +44261,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.13.21",
@@ -44781,7 +44296,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.18.5"
@@ -44913,7 +44428,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.18.10"
@@ -44947,7 +44462,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.18.40"
@@ -44981,7 +44496,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.19.25"
@@ -45085,7 +44600,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.12.21"
@@ -45119,7 +44634,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.19.6"
@@ -45189,15 +44704,14 @@
       "People",
       "Places"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "John.19.13"
     ],
     "answers": [
       {
         "answer": "In the judgment seat",
-        "answer_ar": "في منصة القضاء",
+        "answer_ar": "جالساً على كرسي الولاية",
         "isCorrect": true
       },
       {
@@ -45223,7 +44737,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.19.18",
@@ -45259,7 +44773,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.20.1"
@@ -45293,7 +44807,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.19.38",
@@ -45320,7 +44834,7 @@
   {
     "id": "a7fbd4fc-d823-4de0-b002-4454f364e0c1",
     "question": "After the Crucifixion, what secret disciple of Jesus asked Pilate if he could take Jesus’ body away?",
-    "question_ar": "بعد الصلب، من هو التلميذ السري الذي طلب من بيلاطس أن يأخذ جسد يسوع؟",
+    "question_ar": "بعد الصلب، من هو الذي كان في الخفية تلميذاً وطلب من بيلاطس أن يأخذ جسد يسوع؟",
     "type": "Multiple Choice",
     "categories": [
       "Gospels"
@@ -45328,8 +44842,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "John.19.38"
     ],
@@ -45362,7 +44875,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "easy",
     "verses": [
       "John.20.2",
@@ -45398,7 +44911,7 @@
       "People",
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.20.6"
@@ -45432,7 +44945,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.20.24",
@@ -45462,7 +44975,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "John.21.11"
@@ -55930,7 +55443,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.1.1"
@@ -55964,7 +55477,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "rejected",
     "difficulty": "medium",
     "verses": [
       "Acts.1.5"
@@ -55993,7 +55506,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.1.10"
@@ -56027,7 +55540,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.1.13"
@@ -56056,7 +55569,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.1.14"
@@ -56085,7 +55598,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.1.23"
@@ -56119,8 +55632,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Acts.1.26"
     ],
@@ -56153,7 +55666,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.2.16"
@@ -56187,8 +55700,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Acts.3.1"
     ],
@@ -56221,7 +55734,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.3.22"
@@ -56250,7 +55763,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.5.1-11"
@@ -56284,7 +55797,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.5.34-39",
@@ -56319,7 +55832,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.7.58"
@@ -56348,7 +55861,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.8.14",
@@ -56376,7 +55889,7 @@
   {
     "id": "d248b816-e5e4-4e2e-b3e4-d29284544f30",
     "question": "Philip met an Ethiopian eunuch who was in the service of what person?",
-    "question_ar": "التقى فيلبس بخصي حبشي كان يخدم أي شخصية؟",
+    "question_ar": "من هي الشخصية التي كان يخدمها الخصي الحبشي الذي التقاه فيلبس؟",
     "type": "Multiple Choice",
     "categories": [
       "ACTS"
@@ -56384,8 +55897,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "Acts.8.27"
     ],
@@ -56418,8 +55930,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Acts.9.10-19"
     ],
@@ -56452,7 +55964,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.9.26-27"
@@ -56486,8 +55998,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Acts.9.32-35"
     ],
@@ -56520,15 +56031,14 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "Acts.9.36"
     ],
     "answers": [
       {
         "answer": "Dorcas",
-        "answer_ar": "دُرقس",
+        "answer_ar": "غزالة",
         "isCorrect": true
       },
       {
@@ -56554,7 +56064,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.10.1"
@@ -56588,8 +56098,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Acts.10.5",
       "Acts.10.6"
@@ -56623,8 +56133,8 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
+    "difficulty": "medium",
     "verses": [
       "Acts.10.7",
       "Acts.10.8"
@@ -56658,7 +56168,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.10.9",
@@ -56695,7 +56205,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.10.24"
@@ -56729,7 +56239,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.10.44",
@@ -56764,7 +56274,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.11.19"
@@ -56790,7 +56300,7 @@
   {
     "id": "31e1dd64-5d64-4cfc-9b1a-420b1ff6cfb4",
     "question": "Who was sent by the Jerusalem church to Antioch after hearing of the conversions there?",
-    "question_ar": "من أرسلته كنيسة أورشليم إلى أنطاكية بعد سماعهم عن التوبة هناك؟",
+    "question_ar": "من الذي أرسلته كنيسة أورشليم إلى أنطاكية بعد سماعهم عن التوبة هناك؟",
     "type": "Multiple Choice",
     "categories": [
       "ACTS"
@@ -56798,8 +56308,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Acts.11.22"
     ],
@@ -56832,11 +56341,9 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
-      "Acts.11.25",
-      "Acts.11.26"
+      "Acts.11.25-26"
     ],
     "answers": [
       {
@@ -56867,7 +56374,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.11.27",
@@ -56902,7 +56409,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.11.28"
@@ -84052,40 +83559,6 @@
       {
         "answer": "Thirty-nine",
         "answer_ar": "تسع وثلاثون",
-        "isCorrect": true
-      }
-    ]
-  },
-  {
-    "id": "33e0c28e-bbc6-4e6f-b3d1-22120fc9a48c",
-    "question": "Even though Paul had an open door to preach the gospel in Troas, he did not take advantage of it because he could not find whom?",
-    "question_ar": "مع أن بولس كان لديه باب مفتوح للتبشير بالإنجيل في ترواس، إلا أنه لم يستفد منه لأنه لم يتمكن من العثور على من؟",
-    "type": "Multiple Choice",
-    "categories": [
-      "General"
-    ],
-    "tags": [
-      "General"
-    ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [
-      "2Cor.2.13"
-    ],
-    "answers": [
-      {
-        "answer": "Timothy",
-        "answer_ar": "تيموثاوس",
-        "isCorrect": false
-      },
-      {
-        "answer": "Silas",
-        "answer_ar": "سيلا",
-        "isCorrect": false
-      },
-      {
-        "answer": "Titus",
-        "answer_ar": "تيطس",
         "isCorrect": true
       }
     ]

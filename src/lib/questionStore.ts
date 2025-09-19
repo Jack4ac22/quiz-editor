@@ -23,3 +23,17 @@ export async function saveQuestions(questions: any[]) {
     throw err;
   }
 }
+
+// examin the questions file compare the question if it exists then delete it. loop in it and do the comparative 
+export async function loopAndRemoveDoublications() {
+  const questions = await loadQuestions();
+  var uniqueQuestions = [];
+  for (const question of questions) {
+    const existingQuestion = uniqueQuestions.find((q) => q.question === question.question);
+    if (!existingQuestion) {
+      uniqueQuestions.push(question);
+    }
+  }
+  console.log("loopAndRemoveDoublications: ",   uniqueQuestions.length, " out of " , questions.length, " questions");
+  await saveQuestions(uniqueQuestions);
+}
