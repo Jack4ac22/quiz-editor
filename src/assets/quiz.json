@@ -30556,7 +30556,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "hard",
     "verses": [
       "Ezek.5.1",
@@ -30660,7 +30660,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Ezek.13.15",
@@ -30729,7 +30729,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Ezek.14.21"
@@ -30758,7 +30758,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Ezek.15.6"
@@ -30792,7 +30792,7 @@
     "tags": [
       "prediction"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Ezek.17.22",
@@ -40296,7 +40296,7 @@
     "tags": [
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Matt.16.21",
@@ -44364,7 +44364,7 @@
     "tags": [
       "Places"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "John.9.6",
@@ -45009,7 +45009,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Matt.1.18"
@@ -45064,7 +45064,7 @@
   {
     "id": "d5ae7a54-b6f4-47d4-8473-658fc0b44ae5",
     "question": "The wise men saw the star both in the East and later as it led them to Bethlehem.",
-    "question_ar": "رأى المجوس النجم في المشرق ولاحقًا عندما قادهم إلى بيت لحم.",
+    "question_ar": "رأى المجوس النجم مرَّتين، الأولى حين كانوا في المشرق ولاحقًا عندما قادهم إلى بيت لحم.",
     "type": "True or False",
     "categories": [
       "Gospels"
@@ -45072,8 +45072,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "Matt.2.2",
       "Matt.2.9"
@@ -45197,7 +45196,7 @@
   {
     "id": "00e5b7cc-cc0c-4e67-89f2-90a760a96f48",
     "question": "Satan challenged Jesus to jump from the temple and be caught by angels.",
-    "question_ar": "تحدى الشيطان يسوع أن يقفز من الهيكل ليتم التقاطه من قِبَل الملائكة.",
+    "question_ar": "تحدى الشيطان يسوع أن يرمي نفسه من أعلى جدار الهيكل.",
     "type": "True or False",
     "categories": [
       "Gospels"
@@ -45205,8 +45204,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Matt.4.5",
       "Matt.4.6"
@@ -45561,7 +45559,7 @@
   {
     "id": "8883b9f0-7689-44d3-a706-c2825e54a8e6",
     "question": "The woman with the flow of blood came up to Jesus and touched the hem of His garment.",
-    "question_ar": "المرأة التي تعاني من نزيف الدم اقتربت من يسوع ولمست هدب ثوبه.",
+    "question_ar": "المرأة التي تعاني من نزيف الدم اقتربت من يسوع وقبَّلت قدميه.",
     "type": "True or False",
     "categories": [
       "Gospels"
@@ -45569,8 +45567,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Matt.9.20"
     ],
@@ -45578,12 +45575,12 @@
       {
         "answer": "True",
         "answer_ar": "صحيح",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "answer": "False",
         "answer_ar": "خطأ",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -50597,7 +50594,7 @@
   {
     "id": "6b56d790-f205-4a26-80a1-2c6b25b9d70f",
     "question": "When the disciples cast their net where Jesus told them, they caught so many fish that the net broke.",
-    "question_ar": "عندما ألقى التلاميذ الشبكة في المكان الذي حدده لهم يسوع، اصطادوا الكثير من السمك حتى انقطعت الشبكة.",
+    "question_ar": "عندما ألقى التلاميذ الشبكة في المكان الذي حدده لهم يسوع، اصطادوا الكثير من السمك حتى تقطَّعت الشبكة.",
     "type": "True or False",
     "categories": [
       "Gospels"
@@ -50605,8 +50602,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "John.21.11"
     ],
@@ -56443,7 +56439,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.11.29",
@@ -56508,7 +56504,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.12.3",
@@ -56607,7 +56603,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.12.13"
@@ -57238,7 +57234,7 @@
   {
     "id": "82bb732e-df40-4c63-864c-460899b3a6ef",
     "question": "In Acts 13, Paul quotes Psalm 16:10, saying God would not allow His 'Holy One' to see corruption.",
-    "question_ar": "في أعمال 13، يقتبس بولس من مزمور 16:10 قائلاً إن الله لن يدع «قدوسه» يرى فساداً.",
+    "question_ar": "في أعمال ١٣، يقتبس بولس من مزمور ١٦: ١٠ قائلاً إن الله لن يدع «قدوسه» يرى فساداً.",
     "type": "True or False",
     "categories": [
       "ACTS"
@@ -57246,8 +57242,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "hard",
+    "status": "translated",
     "verses": [
       "Acts.13.35",
       "Ps.16.10"
@@ -57506,8 +57501,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Acts.15.2"
     ],
@@ -57743,8 +57737,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Acts.15.22"
     ],
@@ -58109,7 +58102,7 @@
   {
     "id": "ea674f9f-3b1e-42be-8b39-8c49cb01cbf5",
     "question": "Paul and Silas were arrested in Philippi on charges of teaching unlawful Jewish customs to Romans.",
-    "question_ar": "تم اعتقال بولس وسيلا في فيلبي بتهمة تعليم عادات يهودية غير قانونية للرومان.",
+    "question_ar": "تم اعتقال بولس وسيلا في فيلبي بتهمة تعليم عادات يهودية غير مشروعة للرومان.",
     "type": "True or False",
     "categories": [
       "ACTS"
@@ -58117,8 +58110,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
       "Acts.16.21",
       "Acts.16.23"
@@ -58219,7 +58211,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Acts.16.32",
@@ -58250,7 +58242,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Acts.16.37"
@@ -59250,11 +59242,9 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
-      "Acts.20.16",
-      "Acts.20.17"
+      "Acts.20.16-17"
     ],
     "answers": [
       {
@@ -59615,7 +59605,7 @@
   {
     "id": "75c440a1-9243-4782-9f6a-19c0c81c4aa3",
     "question": "The Pharisees believed in the resurrection and in angels and spirits.",
-    "question_ar": "كان الفريسيون يؤمنون بالقيامة والملائكة والأرواح.",
+    "question_ar": "كان الصدوقيّين يؤمنون بالقيامة والملائكة والأرواح.",
     "type": "True or False",
     "categories": [
       "ACTS"
@@ -59623,8 +59613,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Acts.23.8"
     ],
@@ -59632,12 +59621,12 @@
       {
         "answer": "True",
         "answer_ar": "صحيح",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "answer": "False",
         "answer_ar": "خطأ",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -60131,7 +60120,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [],
     "answers": [
@@ -60185,7 +60174,7 @@
   {
     "id": "2b30050d-59a7-4a79-b74b-066034cf55b7",
     "question": "The brothers of Jesus were present with the apostles when they waited for the promise of the Spirit in Jerusalem.",
-    "question_ar": "كان إخوة يسوع حاضرين مع الرسل عندما انتظروا وعد الروح في أورشليم.",
+    "question_ar": "كان إخوة يسوع حاضرين مع الرسل عندما انتظروا موعد الروح الموعود في أورشليم.",
     "type": "True or False",
     "categories": [
       "ACTS"
@@ -60193,8 +60182,7 @@
     "tags": [
       "People"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Acts.1.14"
     ],
@@ -64360,8 +64348,7 @@
     "tags": [
       "Events"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "Acts.24.24"
     ],
@@ -86559,7 +86546,6 @@
       "General"
     ],
     "status": "draft",
-    "difficulty": "medium",
     "verses": [
       "2Pet.1.14"
     ],
@@ -86579,7 +86565,7 @@
   {
     "id": "03ad5ebc-e7a7-4a0d-a2e3-f01a7713a9ae",
     "question": "Whose letters did Peter find hard to understand?",
-    "question_ar": "رسائل من وجد بطرس صعوبة في فهمها؟",
+    "question_ar": "رسائل مَنْ مِنَ الرُّسُل أشار بطرس إلى أنَّها صعبة الفهم الْجُهَّالُ وَغَيْرُ الرَّاسِخِينَ فِي الْحَقِّ؟",
     "type": "Multiple Choice",
     "categories": [
       "General"
@@ -86587,10 +86573,9 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
-      "2Pet.3.15"
+      "2Pet.3.15-16"
     ],
     "answers": [
       {
@@ -86613,7 +86598,7 @@
   {
     "id": "0bfa0b96-bbd8-4b85-b07c-44bdf879e4e8",
     "question": "Which biblical writer referred to Paul's letters as Scriptures?",
-    "question_ar": "أي كاتب كتابي أشار إلى رسائل بولس على أنها أسفار مقدسة؟",
+    "question_ar": "أيٌّ مِن كُتَّأب الوحي المقدس أشار إلى رسائل بولس على أنها أسفار مقدسة؟",
     "type": "Multiple Choice",
     "categories": [
       "General"
@@ -86621,8 +86606,7 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "2Pet.3.16"
     ],
@@ -86655,9 +86639,10 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "medium",
-    "verses": [],
+    "status": "translated",
+    "verses": [
+      "1john.1.1"
+    ],
     "answers": [
       {
         "answer": "1 John",
@@ -86687,10 +86672,9 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
-      "2John.1"
+      "2John.1.1"
     ],
     "answers": [
       {
@@ -86721,15 +86705,14 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
-      "2John.1"
+      "2John.1.1"
     ],
     "answers": [
       {
         "answer": "The elect lady",
-        "answer_ar": "السيدة المختارة",
+        "answer_ar": "السيدة المُختَارة",
         "isCorrect": true
       },
       {
@@ -86755,10 +86738,9 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
-      "3John.9"
+      "3John.1.9"
     ],
     "answers": [
       {
@@ -86768,7 +86750,7 @@
       },
       {
         "answer": "Sopater",
-        "answer_ar": "سوباتر",
+        "answer_ar": "سوباترس",
         "isCorrect": false
       },
       {
@@ -86781,7 +86763,7 @@
   {
     "id": "377a3635-0c0a-4ad4-bc7b-d4d037a3a786",
     "question": "Demetrius had a good testimony from all according to 3 John 12.",
-    "question_ar": "ديتريوس كان له شهادة حسنة من الجميع بحسب 3 يوحنا 12.",
+    "question_ar": "ديتريوس كان له شهادة حسنة من الجميع بحسب الآية الثانية عشر من رسالة يوحنا الثالثة.",
     "type": "True or False",
     "categories": [
       "General"
@@ -86789,8 +86771,7 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "easy",
+    "status": "translated",
     "verses": [
       "3John.12"
     ],
@@ -86818,7 +86799,7 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "medium",
     "verses": [
       "Jude.1"
@@ -86852,10 +86833,9 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
-    "difficulty": "medium",
+    "status": "translated",
     "verses": [
-      "Jude.12"
+      "Jude.1.12"
     ],
     "answers": [
       {
@@ -86886,7 +86866,7 @@
     "tags": [
       "General"
     ],
-    "status": "draft",
+    "status": "translated",
     "difficulty": "easy",
     "verses": [
       "Rev.1.9"

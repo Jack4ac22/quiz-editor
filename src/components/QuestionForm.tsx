@@ -97,7 +97,6 @@ export function PreviewModal({
       isActive = false;
     };
   }, [question.verses, bibleVersion]);
-
   return (
     <div className="fixed inset-0 z-50 bg-black bg-opacity-40 flex items-start justify-center overflow-y-auto ">
       <div className="bg-white p-6 rounded-xl max-w-2xl w-full shadow-2xl border border-gray-200 relative">
@@ -403,7 +402,6 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
       // Optionally: refetch question data here if needed
     }
   };
-
   return (
     <>
       <form
@@ -741,12 +739,12 @@ export default function QuestionForm({ onSubmit, initial, mode = 'add' }: Questi
           <label className="block text-sm font-medium text-gray-700 mb-1">Difficulty</label>
           <div className="flex gap-2 mb-1">
             <select
-              // value={data.difficulty ? data.difficulty : 'medium'}
+              defaultValue={ data.difficulty || 'medium'}
               onChange={(e) => setData({ ...data, difficulty: e.target.value })}
               className="p-2 border border-gray-300 rounded bg-gray-100 text-gray-700"
             >
               {difficultyOptions.map((difficulty) => (
-                <option key={difficulty} value={difficulty} >
+                <option key={difficulty} value={difficulty} selected={data.difficulty === difficulty}>
                   {difficulty}
                 </option>
               ))}
